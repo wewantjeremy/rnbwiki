@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import pyperclip
+import re
 
 url = "https://en.wikipedia.org/wiki/112_(band)"
 headers = {
@@ -8,9 +9,15 @@ headers = {
 }
 
 response = requests.get(url, headers=headers)
-p = BeautifulSoup.find("div", class_="content")
 soup = BeautifulSoup(response.content, "html.parser")
-pyperclip.copy(p)
+paragraphs = soup.find_all("p")
+paragraph_list = [p.get_text(" ", strip=True) for p in paragraphs]
+paragraph_list_strip = "\n".join(paragraph_list)
+final_paragraph_list = re.sub(r"\[\s*\d+\s*\]", "", paragraph_list_strip)
+final_paragraph_list = re.sub(r"\s+([,.;:!?])", "", final_paragraph_list)
+#print(final_paragraph_list)
+print((final_paragraph_list))
+pyperclip.copy(final_paragraph_list) 
 
 with open("112.txt", "w") as file:
-    file.writelines(112)
+    file.writelines(final_paragraph_list)
