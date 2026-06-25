@@ -1,7 +1,7 @@
 /* iframe is an html element that acts like a window on your webpage, 
 allowing you to embed a completely separate webpage or document
 directly on the page you're viewing */
-function YouTubeEmbed({ videoId }: { videoId: string }) {
+export default function YouTubeEmbed({ videoId }: { videoId: string }) {
   return (
     <iframe
       width="100%"
