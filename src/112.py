@@ -1,7 +1,7 @@
-from bs4 import BeautifulSoup
-import requests
 import pyperclip
 import re
+import requests
+from bs4 import BeautifulSoup
 
 url = "https://en.wikipedia.org/wiki/112_(band)"
 

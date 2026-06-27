@@ -1,0 +1,26 @@
+.li2 {
+  color: rgb(223, 223, 223);
+  background-color: rgb(111, 111, 19);
+}
+
+    .li {
+      margin-top: 14px;
+      width: 100px;
+      height: 50px;
+      border-radius: 999px;
+      padding: 10px;
+      color: rgb(41, 34, 66);
+      font-size: px;
+      font-weight: bold;
+      border: 1px black solid;
+      cursor: pointer;
+      overflow: hidden;
+       display: grid;
+      place-items: center;
+      box-shadow: none;
+            background: linear-gradient(to right,
+          rgba(255, 255, 255, 0.574) 0%,
+          rgba(255, 255, 255, 0.55) 50%,
+          rgba(255, 255, 255, 0.292) 100%);
+      transform: skewX(-20deg);
+    }

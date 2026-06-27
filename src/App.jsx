@@ -1,13 +1,22 @@
-import SideBar from './SideBar'
+import SideBar from './SideBar';
+import ArtistPage from './ArtistPage';
+import Header from './components/Header';
+import { useState } from 'react';
+import { artists } from "../artists";
 
 function App() {
+  const [selectedArtist, setSelectedArtist] = useState(artists[0]);
+
   return (
     <div className="container">
-       <SideBar />
-       <main className="main-content">
-      <h1>R&B Wiki</h1>
-      <p>Millenial's Choice</p>
-      <p>I am more focused on r&b than rhythm and blues if you know what i mean</p>
+      <SideBar
+        artists={artists}
+        onSelect={setSelectedArtist}
+      />
+
+      <main className="main-content">
+        <Header />
+        <ArtistPage artist={selectedArtist} />
       </main>
     </div>
   );
