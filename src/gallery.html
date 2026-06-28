@@ -1,0 +1,30 @@
+const [slide, setSlide] = useState(0);
+
+const images = [
+  "/src/images/juelz_50.jpg",
+  "/src/images/juelz_51.jpg",
+  "/src/images/juelz_52.jpg",
+];
+
+return (
+<h1 className={styles.h1}>112</h1>
+  <div className={styles.galleryContainer}>
+    <img src={images[slide]} />
+
+    <button
+      onClick={() =>
+        setSlide((slide - 1 + images.length) % images.length)
+      }
+    >
+      &#10094;
+    </button>
+
+    <button
+      onClick={() =>
+        setSlide((slide + 1) % images.length)
+      }
+    >
+      &#10095;
+    </button>
+  </div>
+);
