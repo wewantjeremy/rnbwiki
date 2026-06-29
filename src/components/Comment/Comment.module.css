@@ -8,9 +8,11 @@
 textarea {
   height: 189px;
   width: 273px;
+  font-family: courier;
 }
 
-input {
+.input {
   height: 50px;
   width: 273px;
+  font-family: courier;
 }

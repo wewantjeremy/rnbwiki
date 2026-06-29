@@ -17,13 +17,13 @@ return (
   <>
   <span className={styles.textarea}>Post</span>
     <form className={styles.commentForm} onSubmit={handleSubmit}>
-      <input
+      <textarea className={styles.input}
         placeholder="Your name"
         value={name}
         onChange={e => setName(e.target.value)}
       />
 
-      <textarea
+      <textarea 
         placeholder="Share your thoughts..."
         value={text}
         onChange={e => setText(e.target.value)}
