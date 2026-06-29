@@ -1,0 +1,16 @@
+.commentForm input,
+.commentForm textarea,
+.commentForm button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+textarea {
+  height: 189px;
+  width: 273px;
+}
+
+input {
+  height: 50px;
+  width: 273px;
+}

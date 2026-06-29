@@ -1,0 +1,21 @@
+src/
+  data/
+    artists.js
+
+  components/
+    ArtistPage/
+      ArtistPage.jsx
+      ArtistPage.module.css
+
+    ImageGallery/
+      ImageGallery.jsx
+      ImageGallery.module.css
+
+    VideoGallery/
+      VideoGallery.jsx
+      VideoGallery.module.css
+
+  scripts/
+    scrapeArtists.py
+    scrapeImages.py
+    scrapeVideos.py

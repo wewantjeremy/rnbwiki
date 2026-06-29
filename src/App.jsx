@@ -1,8 +1,8 @@
-import SideBar from './SideBar';
+import SideBar from './components/SideBar/SideBar';
 import ArtistPage from './components/ArtistPage/ArtistPage';
-import Header from './components/Header';
+import Header from './components/Header/Header';
 import { useState } from 'react';
-import { artists } from "./data/artists";
+import { artists } from "../artists";
 
 function App() {
   const [selectedArtist, setSelectedArtist] = useState(artists[0]);
