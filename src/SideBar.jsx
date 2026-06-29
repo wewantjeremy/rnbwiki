@@ -1,4 +1,4 @@
-import { artists } from '../artists.js'
+import { artists } from './data/artists.js'
 import styles from "./SideBar.module.css"
 
 export default function SideBar ({ artists, onSelect }) { 
