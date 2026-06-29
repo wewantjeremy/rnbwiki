@@ -1,6 +1,10 @@
 .commentForm input,
-.commentForm textarea,
 .commentForm button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.commentForm textarea {
   display: block;
   margin-bottom: 10px;
 }
@@ -14,5 +18,16 @@ textarea {
 .input {
   height: 50px;
   width: 273px;
+  font-family: courier;
+}
+
+.postComment {
+  font-family: courier;
+  font-size: 26px;
+  line-height: 2;
+  color: rgb(215, 195, 195)
+}
+
+.postButton {
   font-family: courier;
 }

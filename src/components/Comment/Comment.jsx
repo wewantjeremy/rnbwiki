@@ -1,21 +1,39 @@
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import styles from "./Comment.module.css"
 export default function Comment(){
   const [name, setName] = useState("");
   const [text, setText] = useState("")
   const [comments, setComments] = useState([]);
-  function handleSubmit(e) {
+  useEffect(() => {
+  fetch("http://localhost:3001/api/comments/112")
+    .then((response) => response.json())
+    .then((data) => setComments(data));
+}, []);
+  async function handleSubmit(e) {
     e.preventDefault()
+
+    const response = await fetch("http://localhost:3001/api/comments", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        artistId: "112",
+        name,
+        text,
+      }),
+    })
+
+    const savedComment = await response.json()
     setComments(
       [
-        ...comments,
-        { name, text }
-      ]
-    )
+        ...comments, savedComment])
+        setName("");
+        setText("");
   }
 return (
   <>
-  <span className={styles.textarea}>Post</span>
+  <span className={styles.postComment}>Post</span>
     <form className={styles.commentForm} onSubmit={handleSubmit}>
       <textarea className={styles.input}
         placeholder="Your name"
@@ -29,7 +47,7 @@ return (
         onChange={e => setText(e.target.value)}
       />
 
-      <button type="submit">Post Comment</button>
+      <button type="submit" className={styles.postButton}>Post Comment</button>
     </form>
 
     {comments.map((comment, index) => (
