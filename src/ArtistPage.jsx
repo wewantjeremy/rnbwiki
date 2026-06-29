@@ -3,7 +3,6 @@ import styles from "./ArtistPage.module.css"
 import YoutubeEmbed from './YoutubeEmbed'
 export default function ArtistPage({ artist }) {
 const [slide, setSlide] = useState(0);
-
 const images = [
   "/src/images/112_-1.jpeg",
   "/src/images/112_4.jpg",
@@ -11,6 +10,9 @@ const images = [
   "/src/images/112_6.jpg",
   "/src/images/112_5.jpg",
 ];
+const videoIds = ['8dtzMPApA4M', "ynMnPGmhsG0", 'GVOqbskGeBs', 'wl2NCXzg1FQ',
+   'IihCzGUEPbs', 'xM5g3tliVU0', 'XfiXby489Rk']
+const [video, setVideo] = useState(0)
 
   return (
     <>
@@ -33,12 +35,31 @@ const images = [
     &#10095;
   </button>
 </div>
+ <div className={styles.videoContainer}>
+<YoutubeEmbed 
+video={video}
+setVideo={setVideo}
+videoIds={videoIds}/>
+ 
+    <button
+    className={`${styles.arrow} ${styles.prev}`}
+      onClick={() =>
+        setVideo((video - 1 + videoIds.length) % videoIds.length)
+      }
+    >
+      &#10094;
+    </button>
+    <button
+    className={`${styles.arrow} ${styles.next}`}
+      onClick={() =>
+        setVideo((video + 1 + videoIds.length) % videoIds.length)
+      }>
+      &#10095;
+    </button>
+  </div>
 
-<YoutubeEmbed videoId="ynMnPGmhsG0" />
 
-      
-
-
+<h3 className={styles.h3}>Biography</h3>
       <p className={styles.p}>&emsp;112 (pronounced "one-twelve") is an American R&B group from Atlanta, Georgia. Discovered by record production duo Tim & Bob, the group signed with Sean Combs's Bad Boy Records, an imprint of Arista Records to release their eponymous debut studio album (1996). The following year, they guest performed alongside labelmate Faith Evans on Sean Combs’ 1997 single "I'll Be Missing You," which won a Grammy Award for Best Rap Performance by a Duo or Group and became the first hip hop song to debut atop the Billboard Hot 100. Their second and third albums, Room 112 (1998) and Part III (2001), followed thereafter; the latter peaked at number two on the Billboard 200. The group's fourth album, Hot & Wet (2003), served as their final release with Bad Boy until signing with Def Soul to release their fifth album Pleasure & Pain (2005), which saw continued commercial success. The albums spawned the Billboard Hot 100-top 20 singles "Only You" (featuring the Notorious B.I.G. ), "Cupid," "Anywhere" (featuring Lil' Zane ), "Love Me" (featuring Mase ), "It's Over Now," and the Grammy-nominated "Peaches & Cream." 
 </p><p className={styles.p}>&emsp;The group had its start when the members met while attending high school. The original group, consisting of Daron Jones, Michael Keith and Reginald Finley, sang together while Jones and Keith were in middle school and Finley was in high school. Once all three were in high school, they met fellow schoolmate Aldon Lagon, who was working at a local McDonald's in Atlanta, and they added him due to his deep bass voice. They met a high tenor vocalist, Marvin Scandrick, who sang with them in the school chorus.
 Known as Forte, the group performed talent shows and performed at churches and schools around Atlanta. Not long after, hitmakers Tim & Bob heard of the group and sought them out. They started developing them from their living room to the studio in hopes of the duo producers first signing to Rowdy Records run by their then boss Dallas Austin. Also Kevin Wales was able to secure an audition for the group outside of Atlanta's Club 112 in Buckhead; they sang for Combs and impressed him. Following another audition for Combs in front of Bad Boy producer Chucky Thompson, Bad Boy Records artist Faith Evans and Combs' protégé Usher, and a co-sign from Thompson and Evans, Combs signed the quartet of Michael Keith, Marvin Scandrick, Daron Jones, and Quinnes Parker to Bad Boy Records. The group then changed their name from Forte to 112, the name of the nightclub where they had auditioned for Combs.

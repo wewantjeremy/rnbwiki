@@ -1,30 +1,40 @@
-const [slide, setSlide] = useState(0);
+/* iframe is an html element that acts like a window on your webpage, 
+allowing you to embed a completely separate webpage or document
+directly on the page you're viewing */
+import styles from "./ArtistPage.module.css"
+import useState from 'react'
 
-const images = [
-  "/src/images/juelz_50.jpg",
-  "/src/images/juelz_51.jpg",
-  "/src/images/juelz_52.jpg",
-];
+const [video, setVideo] = useState(0)
+const videoIds = [ '8dtzMPApA4M', "ynMnPGmhsG0", 'GVOqbskGeBs', 'wl2NCXzg1FQ', 'IihCzGUEPbs', 'xM5g3tliVU0', 'XfiXby489Rk'
+]
 
-return (
-<h1 className={styles.h1}>112</h1>
+	
+export default function YoutubeEmbed({ video, setVideo }) {
+  return (
   <div className={styles.galleryContainer}>
-    <img src={images[slide]} />
+    <iframe
+      width="70%"
+      height="600"
+      src={`https://www.youtube.com/embed/${videoIds[video]}`}
+      title="YouTube video player"
+      allowFullScreen
+      display="block"
+    />
 
     <button
       onClick={() =>
-        setSlide((slide - 1 + images.length) % images.length)
+        setVideo((video - 1 + videoIds.length) % videoIds.length)
       }
     >
       &#10094;
     </button>
-
     <button
       onClick={() =>
-        setSlide((slide + 1) % images.length)
-      }
-    >
+        setVideo((video - 1 + videoIds.length) % videoIds.length)
+      }>
       &#10095;
     </button>
   </div>
-);
+
+  );
+}
