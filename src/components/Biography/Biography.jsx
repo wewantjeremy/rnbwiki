@@ -4,7 +4,8 @@ export default function Biography({ biography, albums }) {
     <>
       <h4 className={styles.h4}>Biography</h4>
       {biography.map((segment, index) => (
-        <p key={index} className={styles.p}>{segment.text}</p>
+        <p key={index} 
+        className={styles.p}>{segment.text}</p>
       ))}
 
       <h3 className={styles.h3}>Discography</h3>

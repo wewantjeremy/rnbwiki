@@ -1,6 +1,6 @@
 export const artists = [
 { id: "112", name:"112" },
-{ id: "702", name:"702" },,
+{ id: "702", name:"702" },
 { id: "1-of-the-girls", name:"1 of The Girls" },
 { id: "2nd-nature", name:"2nd Nature" },
 { id: "3-2-da-lef", name:"3-2-Da-Lef" },
@@ -66,7 +66,7 @@ export const artists = [
 { id: "blackgirl", name:"Blackgirl" },
 { id: "blackstreet", name:"Blackstreet" },
 { id: "blaque", name:"Blaque" },
-{ id: "blue-cantrell", name:"Blue Cantrell" },
+{ id: "blu-cantrell", name:"Blu Cantrell" },
 { id: "bobby-brown", name:"Bobby Brown" },
 { id: "bobby-valentino-(bobby-v.)", name:"Bobby Valentino (Bobby V.)" },
 { id: "body", name:"Body" },
