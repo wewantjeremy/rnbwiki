@@ -26,7 +26,7 @@ def get_getty(url, name):
     images = soup.select('source[data-testid="asset-picture-source"]')
 
     for i, img in enumerate(images):
-        path = f"{folder}/getty_{i}.jpg"
+        path = f"{folder}/{name}_{i}.jpg"
 
         if os.path.exists(path):
             print("already exists, skipping:", path)
@@ -45,7 +45,7 @@ def get_getty(url, name):
 
     print(f"complete: {name}")
 
-for artist in artists[62:100]:
+for artist in artists[100:200]:
     #text = input(f"{artist['name']}: artist or group? ").lower()
     #if text == "group":
     #    get_getty(f"https://www.gettyimages.com/search/2/image?phrase={artist['name']}%20r%26b%20group", artist['name'])

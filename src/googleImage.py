@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 
+
 def download_google_images(max_images=10):
     driver = webdriver.Chrome()
 
@@ -29,21 +30,14 @@ def download_google_images(max_images=10):
             img = thumbnails[i]
 
             driver.execute_script(
-                "arguments[0].scrollIntoView({block: 'center'});",
-                img
+                "arguments[0].scrollIntoView({block: 'center'});", img
             )
             time.sleep(0.5)
 
-            driver.execute_script(
-                "arguments[0].click();",
-                img
-            )
+            driver.execute_script("arguments[0].click();", img)
             time.sleep(1)
 
-            actual_images = driver.find_elements(
-                By.CSS_SELECTOR,
-                "img[src]"
-            )
+            actual_images = driver.find_elements(By.CSS_SELECTOR, "img[src]")
 
             for actual_img in actual_images:
                 src = actual_img.get_attribute("src")
@@ -77,14 +71,12 @@ def download_google_images(max_images=10):
         except Exception as e:
             print(f"Failed to download image {i+1}: {e}")
 
-
-    
-    # requests.get creates the download, 
+    # requests.get creates the download,
     # "wb" means write binary which allows it to store the pic
     for i, url in enumerate(image_urls):
         try:
             response = requests.get(url, timeout=10)
-            with open (f"{folder}/image_{i+1}.jpg", "wb") as f:
+            with open(f"{folder}/image_{i+1}.jpg", "wb") as f:
                 f.write(response.content)
             print(f"Successfully downloaded {i+1}/{max_images}")
         except Exception as e:
