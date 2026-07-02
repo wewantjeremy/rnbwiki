@@ -1,86 +1,113 @@
 import os
 import time
 import requests
+import base64
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
-def download_google_images(max_images=10):
-    driver = webdriver.Chrome()
-
-    search = input("enter a url: ")
-    driver.get(search)
-    input("solve to continue")
-
-    folder = "After 7"
+def screenshot_google_images(max_images=5, folder="src/images/Brownstone"):
+    saved = 0
     os.makedirs(folder, exist_ok=True)
 
-    image_urls = set()
-    i = 0
+    driver = webdriver.Chrome()
+    driver.set_window_size(1920, 1080)
 
-    while len(image_urls) < max_images:
-        thumbnails = driver.find_elements(By.CSS_SELECTOR, "img[src]")
+    search = input("Enter Google Images search URL: ")
+    driver.get(search)
 
-        if i >= len(thumbnails):
-            break
+    print("Press Enter when the page is loaded...")
+    input()
 
-        try:
-            img = thumbnails[i]
+    time.sleep(2)
 
-            driver.execute_script(
-                "arguments[0].scrollIntoView({block: 'center'});", img
-            )
-            time.sleep(0.5)
+    collected_urls = set()
+    image_urls = []
 
-            driver.execute_script("arguments[0].click();", img)
+    try:
+        print("Scrolling to load more images...")
+        for _ in range(3):
+            driver.execute_script("window.scrollBy(0, 1000);")
             time.sleep(1)
 
-            actual_images = driver.find_elements(By.CSS_SELECTOR, "img[src]")
+        print("Searching for image thumbnails...")
 
-            for actual_img in actual_images:
-                src = actual_img.get_attribute("src")
+        # Target the actual search result image containers (not UI chrome)
+        thumbnails = driver.find_elements(By.CSS_SELECTOR, "img.YQ4gaf")
 
-                if (
-                    src
-                    and src.startswith("http")
-                    and "encrypted-tbn0.gstatic.com" not in src
-                    and "instagram.com" not in src
-                    and "google" not in src
-                ):
-                    image_urls.add(src)
-                    print("found:", src)
+        print(f"Found {len(thumbnails)} thumbnail candidates")
 
-        except Exception as e:
-            print("skip:", e)
+        for img in thumbnails:
+            if len(image_urls) >= max_images:
+                break
 
-        i += 1
+            # Try multiple src attributes in priority order
+            src = (
+                img.get_attribute("src")
+                or img.get_attribute("data-src")
+                or img.get_attribute("data-iurl")
+            )
+
+            if not src:
+                continue
+
+            # Skip tiny UI icons (under 1KB as base64 or very short URLs)
+            if src.startswith("data:image"):
+                # Decode and check size
+                try:
+                    header, b64data = src.split(",", 1)
+                    byte_len = len(base64.b64decode(b64data))
+                    if byte_len < 2000:  # skip tiny icons
+                        continue
+                except Exception:
+                    continue
+            elif src in collected_urls:
+                continue
+            elif "google.com/images/nav" in src or "gstatic.com/images/icons" in src:
+                continue
+
+            collected_urls.add(src)
+            image_urls.append(src)
+            print(f"  Queued: {src[:80]}")
+
+    except Exception as e:
+        print(f"Error finding images: {e}")
+        driver.quit()
+        return
 
     driver.quit()
 
-    for i, url in enumerate(image_urls):
+    print(f"\nDownloading {len(image_urls)} images...")
+
+    for count, url in enumerate(image_urls, start=1):
+        filename = f"Brownstone_{count}.jpg"
+        file_path = os.path.join(folder, filename)
+
         try:
-            response = requests.get(url, timeout=10)
-
-            with open(f"{folder}/image_{i+1}.jpg", "wb") as f:
-                f.write(response.content)
-
-            print(f"Successfully downloaded {i+1}/{max_images}")
+            if url.startswith("data:image"):
+                # Save base64-encoded image directly
+                header, b64data = url.split(",", 1)
+                with open(file_path, "wb") as f:
+                    f.write(base64.b64decode(b64data))
+                saved += 1
+                print(f"Saved (base64) {filename}")
+            else:
+                response = requests.get(url, stream=True, timeout=10,
+                                        headers={"User-Agent": "Mozilla/5.0"})
+                response.raise_for_status()
+                with open(file_path, "wb") as f:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        f.write(chunk)
+                saved += 1
+                print(f"Saved {filename}")
 
         except Exception as e:
-            print(f"Failed to download image {i+1}: {e}")
+            print(f"Failed on image {count}: {e}")
 
-    # requests.get creates the download,
-    # "wb" means write binary which allows it to store the pic
-    for i, url in enumerate(image_urls):
-        try:
-            response = requests.get(url, timeout=10)
-            with open(f"{folder}/image_{i+1}.jpg", "wb") as f:
-                f.write(response.content)
-            print(f"Successfully downloaded {i+1}/{max_images}")
-        except Exception as e:
-            print(f"Failed to download image {i+1}: {e}")
+    print("-" * 30)
+    print(f"Done. Saved {saved} images to '{folder}'")
 
 
-download_google_images(5)
+screenshot_google_images(max_images=5)

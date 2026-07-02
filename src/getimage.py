@@ -45,7 +45,7 @@ def get_getty(url, name):
 
     print(f"complete: {name}")
 
-for artist in artists[100:200]:
+for artist in artists[200:300]:
     #text = input(f"{artist['name']}: artist or group? ").lower()
     #if text == "group":
     #    get_getty(f"https://www.gettyimages.com/search/2/image?phrase={artist['name']}%20r%26b%20group", artist['name'])

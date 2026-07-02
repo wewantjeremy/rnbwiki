@@ -17,7 +17,7 @@ headers = {
 }
 
 def get_one_getty(url):
-    folder = "src/images/new"
+    folder = "/Jason Weaver_1"
     os.makedirs(folder, exist_ok=True)
 
     response = requests.get(url, headers=headers)
