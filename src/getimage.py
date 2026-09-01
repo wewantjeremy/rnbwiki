@@ -5,16 +5,14 @@ import os
 import time
 import json
 from pathlib import Path
-import json
 
 here = Path(__file__).parent
 
 with open(here / "artists.json") as f:
     artists = json.load(f)
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+headers = {"User-Agent": "Mozilla/5.0"}
+
 
 def get_getty(url, name):
     folder = f"src/images/{name}"
@@ -35,23 +33,21 @@ def get_getty(url, name):
         srcset = img.get("srcset", "")
         actual_url = srcset.split(",")[-1].strip().split(" ")[0]
 
-        subprocess.run([
-            "curl",
-            "-L",
-            "-o",
-            path,
-            actual_url
-        ])
+        subprocess.run(["curl", "-L", "-o", path, actual_url])
 
     print(f"complete: {name}")
 
-for artist in artists[200:300]:
-    #text = input(f"{artist['name']}: artist or group? ").lower()
-    #if text == "group":
+
+for artist in artists[28:38]:
+    # text = input(f"{artist['name']}: artist or group? ").lower()
+    # if text == "group":
     #    get_getty(f"https://www.gettyimages.com/search/2/image?phrase={artist['name']}%20r%26b%20group", artist['name'])
     #    time.sleep(2)
-    #elif text == "artist":
-        get_getty(f"https://www.gettyimages.com/search/2/image?phrase={artist['name']}", artist['name'])
-    #else:
-    #    print("please enter a valid response")
-    #    continue
+    # elif text == "artist":
+    get_getty(
+        f"https://www.gettyimages.com/search/2/image?phrase={artist['name']}%20r%26b",
+        artist["name"],
+    )
+# else:
+#    print("please enter a valid response")
+#    continue

@@ -94,8 +94,9 @@ def screenshot_google_images(max_images=5, folder="src/images/Brownstone"):
                 saved += 1
                 print(f"Saved (base64) {filename}")
             else:
-                response = requests.get(url, stream=True, timeout=10,
-                                        headers={"User-Agent": "Mozilla/5.0"})
+                response = requests.get(
+                    url, stream=True, timeout=10, headers={"User-Agent": "Mozilla/5.0"}
+                )
                 response.raise_for_status()
                 with open(file_path, "wb") as f:
                     for chunk in response.iter_content(chunk_size=8192):
