@@ -1,12 +1,12 @@
 [
-{ title: "Black Diamond", year: 1999, link: "https://music.youtube.com/playlist?list=OLAK5uy_mWM08MpNomWmWPhDyUMtde8V0E-Lokh6M"},
-{ title: "Mahogany Soul", year: 2001, link: "https://music.youtube.com/playlist?list=OLAK5uy_leaqX7dVszvUiY9tb4HH2qRuW4VTepatU"},
-{ title: "Stone Love", year: 2004, link: "https://music.youtube.com/playlist?list=OLAK5uy_l1p--lzv9LMS1cQvdHygkyKBz77ELmxl0"},
-{ title: "The Art of Love & War", year: 2007, link: "https://music.youtube.com/playlist?list=OLAK5uy_lc4Du7AnHr5UOAtWzLahspaqtTLMVhwmI"},
-{ title: "Unexpected", year: 2009, link: "https://music.youtube.com/playlist?list=OLAK5uy_lxT3tWt4HhUsTaBO28lSASacw-xZ2DLdE"},
-{ title: "Rich Girl", year: 2012, link: "https://music.youtube.com/playlist?list=OLAK5uy_mYAuzJ5djSrtZ54RuXRs4wRuEy7RUbSY0"},
-{ title: "Dream", year: 2015, link: "https://music.youtube.com/playlist?list=OLAK5uy_muP0vNANV20-Dku3kzb3mm791-r16TGcw"},
-{ title: "Covered In Soul", year: 2016, link: "https://music.youtube.com/playlist?list=OLAK5uy_mYHxJuDXvdQWA-DyKt68sCfaGsDGKydBs"},
-{ title: "Full Circle", year: 2019, link: "https://music.youtube.com/playlist?list=OLAK5uy_lpjxZ4MiHz1zwfNoXp9pihcBwyLSbb_Bk"},
-{ title: "Love Language", year: 2023, link: "https://music.youtube.com/playlist?list=OLAK5uy_mCpgxttcPhoTg3YZepMuZ2TPQjzvk1fzo"}
+{ "title": "Black Diamond", "year": 1999, "link": "https://music.youtube.com/playlist?list=OLAK5uy_mWM08MpNomWmWPhDyUMtde8V0E-Lokh6M"},
+{ "title": "Mahogany Soul", "year": 2001, "link": "https://music.youtube.com/playlist?list=OLAK5uy_leaqX7dVszvUiY9tb4HH2qRuW4VTepatU"},
+{ "title": "Stone Love", "year": 2004, "link": "https://music.youtube.com/playlist?list=OLAK5uy_l1p--lzv9LMS1cQvdHygkyKBz77ELmxl0"},
+{ "title": "The Art of Love & War", "year": 2007, "link": "https://music.youtube.com/playlist?list=OLAK5uy_lc4Du7AnHr5UOAtWzLahspaqtTLMVhwmI"},
+{ "title": "Unexpected", "year": 2009, "link": "https://music.youtube.com/playlist?list=OLAK5uy_lxT3tWt4HhUsTaBO28lSASacw-xZ2DLdE"},
+{ "title": "Rich Girl", "year": 2012, "link": "https://music.youtube.com/playlist?list=OLAK5uy_mYAuzJ5djSrtZ54RuXRs4wRuEy7RUbSY0"},
+{ "title": "Dream", "year": 2015, "link": "https://music.youtube.com/playlist?list=OLAK5uy_muP0vNANV20-Dku3kzb3mm791-r16TGcw"},
+{ "title": "Covered In Soul", "year": 2016, "link": "https://music.youtube.com/playlist?list=OLAK5uy_mYHxJuDXvdQWA-DyKt68sCfaGsDGKydBs"},
+{ "title": "Full Circle", "year": 2019, "link": "https://music.youtube.com/playlist?list=OLAK5uy_lpjxZ4MiHz1zwfNoXp9pihcBwyLSbb_Bk"},
+{ "title": "Love Language", "year": 2023, "link": "https://music.youtube.com/playlist?list=OLAK5uy_mCpgxttcPhoTg3YZepMuZ2TPQjzvk1fzo"}
 ]

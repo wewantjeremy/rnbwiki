@@ -12,7 +12,7 @@ here = Path(__file__).parent
 with open(here / "../artists.json") as f:
     artists = json.load(f)
 driver = webdriver.Chrome()
-for artist in artists[38:]:
+for artist in artists[55:]:
     artist_name = artist["name"]
     driver.get(f"https://music.youtube.com/search?q={artist_name}")
 

@@ -24,3 +24,13 @@
   font-style: italic;
   line-height: 0.6;
 }
+@media (max-width: 768px){
+
+.h2 {
+  line-height: 1;
+}
+
+.p {
+  line-height: 1;
+}
+}

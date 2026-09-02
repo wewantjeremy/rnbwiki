@@ -4,10 +4,9 @@ import ImageGallery from '../ImageGallery/ImageGallery.jsx'
 import VideoGallery from "../VideoGallery/VideoGallery.jsx"
 import Biography from '../Biography/Biography.jsx'
 import Comment from '../Comment/Comment.jsx'
-import artist from '../../data/112.js'
 
-
-export default function ArtistPage() {
+export default function ArtistPage({ artist }) {
+  console.log("ARTIST OBJECT:", artist);
   return (
     <>
       <h1 className={styles.h1}>{artist.name}</h1>

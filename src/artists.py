@@ -78,7 +78,6 @@ artists = [
     "Brownstone",
     "Brutha",
     "Bryson Tiller",
-    "BT",
     "By All Means",
     "Camille Douglas",
     "Candace Boyd",

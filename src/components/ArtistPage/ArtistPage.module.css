@@ -95,3 +95,17 @@
 .arrow:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
+@media (max-width: 768px) {
+  .videoContainer {
+    margin: 20px auto;
+    overflow: hidden;
+    background: black;
+  }
+
+  .video {
+    min-height: 230px;
+    width: 290px;
+    display: block;
+    margin: 0 auto;
+  }
+}

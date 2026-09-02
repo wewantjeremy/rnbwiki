@@ -9,7 +9,7 @@ from urllib.parse import quote
 
 here = Path(__file__).parent
 driver = webdriver.Chrome()
-driver.get(f"https://music.youtube.com/search?q={quote('"3T"')}")
+driver.get(f"https://music.youtube.com/search?q={quote('"Tynisha Keli"')}")
 
 link = WebDriverWait(driver, 10).until(
     EC.presence_of_element_located(
@@ -93,10 +93,10 @@ for (href, title), year in zip(albums.items(), years):
 album_data.sort(key=lambda album: album["year"])
 for album in album_data:
     print(album)
-    folder = Path(f"src/discographys/3T")
+    folder = Path(f"src/discographys/Tynisha Keli")
 
     folder.mkdir(parents=True, exist_ok=True)
-    file_path = folder / f"3T_disc.json"
+    file_path = folder / f"Tynisha Keli_disc.json"
     with open (file_path, "w") as file:
         json.dump(album_data, file, indent=4)
 driver.quit() 

@@ -1,7 +1,7 @@
 [
-{ title: "DDD", year: 2018, link: "https://music.youtube.com/playlist?list=OLAK5uy_mwKXNtozURkIhYraKxGz1hePJ_tdb4yLU"},
-{ title: "Ama, who?", year 2019: , link: "https://music.youtube.com/playlist?list=OLAK5uy_mZSxiixlh9dmB4MLjEcZXUMfrEnzXkwDw"},
-{ title: "AT LEAST WE HAVE THIS", year: 2021, link: "https://music.youtube.com/playlist?list=OLAK5uy_kdhpktySKpl1grmUc8rRWwH02mP4sLVwg"},
-{ title: "I Came Home Late", year: 2023, link: "https://music.youtube.com/playlist?list=OLAK5uy_mAuHTgGoShe76dwFv-iFOfTVm-13RAwOM"}, 
-{ title: "AMA", year: 2026, link: "https://music.youtube.com/playlist?list=OLAK5uy_k2PW60D5c1bSpJKLtIFL5o-W2XrtvxVnM"}
+{ "title": "DDD", "year": 2018, "link": "https://music.youtube.com/playlist?list=OLAK5uy_mwKXNtozURkIhYraKxGz1hePJ_tdb4yLU"},
+{ "title": "Ama, who?", "year": 2019 , "link": "https://music.youtube.com/playlist?list=OLAK5uy_mZSxiixlh9dmB4MLjEcZXUMfrEnzXkwDw"},
+{ "title": "AT LEAST WE HAVE THIS", "year": 2021, "link": "https://music.youtube.com/playlist?list=OLAK5uy_kdhpktySKpl1grmUc8rRWwH02mP4sLVwg"},
+{ "title": "I Came Home Late", "year": 2023, "link": "https://music.youtube.com/playlist?list=OLAK5uy_mAuHTgGoShe76dwFv-iFOfTVm-13RAwOM"}, 
+{ "title": "AMA", "year": 2026, "link": "https://music.youtube.com/playlist?list=OLAK5uy_k2PW60D5c1bSpJKLtIFL5o-W2XrtvxVnM"}
 ]

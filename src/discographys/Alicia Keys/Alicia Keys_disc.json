@@ -1,12 +1,17 @@
 [
-{ title "Songs In A Minor":, year 2001: , link: "https://music.youtube.com/playlist?list=OLAK5uy_k6mofirDlpB_4HEttra_0kYT_TPh6FZi0"},
-{ title: "The Diary Of Alicia Keys", year: 2003, link: "https://music.youtube.com/playlist?list=OLAK5uy_nvSdSwMAiyUVZvju_n77E_btCyhhbmApw"},
-{ title: "Unplugged", year: 2005, link: "https://music.youtube.com/playlist?list=OLAK5uy_nviUGd0iS9sHV19a4iUR-CSLPvjqiE28A"},
-{ title: "As I Am", year: 2007, link: "https://music.youtube.com/playlist?list=OLAK5uy_nPfSk0GDFVw4qAZWdNDTI3PLo-RkhwlZA"},
-{ title: "The Element of Freedom", year: 2009, link: "https://music.youtube.com/playlist?list=OLAK5uy_lBMhq74SSVoKrFqKuBB6WgArPeB9NB1cc"},
-{ title: "Girl On Fire", year: 2012, link: "https://music.youtube.com/playlist?list=OLAK5uy_lOF_vVUVIrL9GcNvW35k8Lv_5NT6bNtsE"},
-{ title: "HERE", year: 2016, link: "https://music.youtube.com/playlist?list=OLAK5uy_mw8iIL8ZFwQ_bd2UAt5SNsVDk_fJSCzCM"},
-{ title: "ALICIA", year: 2020, link: "https://music.youtube.com/playlist?list=OLAK5uy_ldNSIxAZpYWtSysZvPe5y0p3afoIbMnVY"},
-{ title: "KEYS", year: 2021, link: "https://music.youtube.com/playlist?list=OLAK5uy_kxASz1QVb2S1fF67XQLTJnBgJ8-UD2ydU"},
-{ title: "KEYS II",  year: 2022, link:"https://music.youtube.com/playlist?list=OLAK5uy_kT6DUs1fFzRau2hDyAp_SW0GASk89dE58"}
+  { "title": "Songs In A Minor", 
+  "year": 2001, 
+  "link": "https://music.youtube.com/playlist?list=OLAK5uy_k6mofirDlpB_4HEttra_0kYT_TPh6FZi0"},
+  { 
+    "title": "The Diary Of Alicia Keys", 
+    "year": 2003, 
+    "link": "https://music.youtube.com/playlist?list=OLAK5uy_nvSdSwMAiyUVZvju_n77E_btCyhhbmApw"},
+  { "title": "Unplugged", "year": 2005, "link": "https://music.youtube.com/playlist?list=OLAK5uy_nviUGd0iS9sHV19a4iUR-CSLPvjqiE28A"},
+  { "title": "As I Am", "year": 2007, "link": "https://music.youtube.com/playlist?list=OLAK5uy_nPfSk0GDFVw4qAZWdNDTI3PLo-RkhwlZA"},
+  { "title": "The Element of Freedom", "year": 2009, "link": "https://music.youtube.com/playlist?list=OLAK5uy_lBMhq74SSVoKrFqKuBB6WgArPeB9NB1cc"},
+  { "title": "Girl On Fire", "year": 2012, "link": "https://music.youtube.com/playlist?list=OLAK5uy_lOF_vVUVIrL9GcNvW35k8Lv_5NT6bNtsE"},
+  { "title": "HERE", "year": 2016, "link": "https://music.youtube.com/playlist?list=OLAK5uy_mw8iIL8ZFwQ_bd2UAt5SNsVDk_fJSCzCM"},
+  { "title": "ALICIA", "year": 2020, "link": "https://music.youtube.com/playlist?list=OLAK5uy_ldNSIxAZpYWtSysZvPe5y0p3afoIbMnVY"},
+  { "title": "KEYS", "year": 2021, "link": "https://music.youtube.com/playlist?list=OLAK5uy_kxASz1QVb2S1fF67XQLTJnBgJ8-UD2ydU"},
+  { "title": "KEYS II",  "year": 2022, "link":"https://music.youtube.com/playlist?list=OLAK5uy_kT6DUs1fFzRau2hDyAp_SW0GASk89dE58"}
 ]

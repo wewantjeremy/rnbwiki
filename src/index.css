@@ -150,3 +150,19 @@ code {
   padding: 20px;
   background-color: #8a3a3a;
 }
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100px;
+    padding-left: 12px;
+    padding-right: 8px;
+  }
+
+  .main-content {
+    margin-left: 95px;
+    padding: 12px;
+  }
+
+  .sidebar-list {
+    width: 100%;
+  }
+}

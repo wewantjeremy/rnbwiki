@@ -10,7 +10,7 @@ from urllib.parse import quote
 here = Path(__file__).parent
 driver = webdriver.Chrome()
 
-driver.get("https://music.youtube.com/@Aretha")
+driver.get("https://music.youtube.com/channel/UCmTNoGyjMrjHF4EWjOd05yg")
 
 link2 = WebDriverWait(driver, 10).until(
     EC.presence_of_all_elements_located(
@@ -75,10 +75,10 @@ album_data.sort(key=lambda album: album["year"])
 for album in album_data:
     print(album)
 
-folder = Path("src/discographys/Aretha Franklin")
+folder = Path("src/discographys/Mel'isa Morgan")
 folder.mkdir(parents=True, exist_ok=True)
 
-file_path = folder / "Aretha Franklin_disc.json"
+file_path = folder / "Mel'isa Morgan_disc.json"
 
 with open(file_path, "w", encoding="utf-8") as file:
     json.dump(album_data, file, indent=4, ensure_ascii=False)
