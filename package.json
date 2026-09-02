@@ -8,9 +8,11 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-      "server": "node server.js"
+    "server": "node server.js"
   },
   "dependencies": {
+    "@emnapi/core": "^1.11.3",
+    "@emnapi/runtime": "^1.11.3",
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "react": "^19.2.6",
