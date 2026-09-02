@@ -1,0 +1,40 @@
+export default {
+  id: "3rd Storee",
+  name: "3rd Storee",
+
+  images: [
+    "/src/images/3rd Storee/0x1900-000000-80-0-0.jpg",
+    "/src/images/3rd Storee/358506a7a364de194074da813ad8adbb.1000x1000x1.jpg",
+    "/src/images/3rd Storee/3rd Storee_0.jpg",
+    "/src/images/3rd Storee/3rd Storee_3.jpg",
+    "/src/images/3rd Storee/3rd_Storee_-_If_Ever_single_cover.jpg",
+    "/src/images/3rd Storee/81mBbAv0NjL._UF1000,1000_QL80_.jpg",
+    "/src/images/3rd Storee/rXYTQDx0TfkZy7IqEZWApgSijaXJlYnq0St31qpAJWo=.jpg",
+    "/src/images/3rd Storee/sddefault (1).jpg",
+    "/src/images/3rd Storee/sddefault.jpg",
+  ],
+
+  videoIds: [
+    "NahU7gEPO9k",
+    "V6TWbbGYvjY",
+    "cFK6QxwgfQU",
+  ],
+
+  biography: [
+    { text: "3rd Storee is an American R&B group that was active in the late 1990s and early 2000s. Their debut single, \"If Ever\", peaked at No. 7 on the UK Singles Chart in June 1999. The group was best known in the mid-1990s for their gold-certified single \"If Ever\" and \"Party Tonight\" featuring Treach of the hip-hop duo, Naughty By Nature and RL of Next.", indent: true },
+    { text: "3rd Storee was formed during 1997 in South Central Los Angeles. The original line up consisted of members Kevonté, Lil' Man, D'Smoove and Jay-R. As a quartet they almost immediately made a breakthrough when they were signed to Edmonds Entertainment, and put on tour with Britney Spears. Owing to the success of the tour, 3rd Storee was then invited to open for'N Sync on a national US tour, before visiting Europe for the first time during 1998, without even releasing an album. They recorded their debut, The 3rd Storee, slated for a 1999 relase, but it was shelved.", indent: true },
+    { text: "In 2001 3rd Storee signed with Def Soul Records and R&B solo vocalist J'Son joined the band along with newcomer Gavyn Rhones after Lil' Ma left. The group then released their second album titled Get With Me in 2002, and the lead single and music video of the same name was promoted across the media. The single also featured Joe Budden who provided rap verses. \"Get With Me\" placed at No. 71 on the Billboard Hip-Hop/R&B Single Sales Chart for one week. Another track on the album titled \"I'm Sorry\" was featured on the Rush Hour 2 soundtrack.", indent: true },
+    { text: "In 2003, 3rd Storee appeared as actors on the dance film Honey and also provided the theme song (\"Honey\" featuring Clipse) for the soundtrack. The group also made a cameo appearance in an episode of the animated series The Proud Family. In 2004, 3rd storee eventually signed under J. Records after a brief hiatus initially renaming the group as '360' before switching their name to S5 (Storee 5). Around this time they released a promotional single titled \"Ooh That Ass\" produced by The Underdogs.", indent: true },
+    { text: "In 2005, Kevontay made his departure from the group and 3rd Storee continued their tenure with J. Records under the new name Chapter 4. The band Chapter 4 only consists four out of six of the 3rd Storee members: Gavyn as lead vocalist, D-Smoove, Jay-R and J'Son. They released a four-track promotional EP album sampler along with a music video for their lead single \"Fool With U\", which was later recorded by Omarion.", indent: true },
+    { text: "After the short lived Chapter 4, the band members decided to take a break from recording as a group and went down different avenues. Kevontay became an actor and appeared in various television shows and films, but is most known playing the role of Jerome on the comedy series Everybody Hates Chris, known for his catchphrase \"Hey little dude from across the street, let me hold a dollar\".", indent: true },
+    { text: "In 2016, Kevontay was a featured actor on the web series \"Spook Hunters\" from Bullz Eye Entertainment. He appeared in the 2018 TV film biopic Whitney, portraying the gangbanger who killed Bobby Brown's brother-in-law Steven Sealy. Jay-R continued to write and produce songs for other artists. Lil' Man, now known as K. Young, went on the continue his solo career. Dante Clark (D-Smoove) made guest appearances on Boston Public & City Guys. He later became a production manager/coordinator for various television shows. J'son continued entertainment going under the name Jay Sonic and became an actor and done voice overs for commercials. Gavyn became a solo artist and was featured on various artist's music. He also vocal produced for Keyshia Cole on the 2017 album 11:11. He also toured with many acts as well as serving as a temporary lead singer for The Gap Band.", indent: true },
+    { text: "In a summer 2017 interview on YouTube with Black Hollywood Live, Kevontay discussed he would hope a 3rd Storee reunion would happen. In a fall 2017 social media post, Jay-R hinted a reunion of the original 3rd Storee members with a recent photo of all 4 bandmates together, citing \"Don't Forget, we're coming!!!\", with the hashtags explaining that \"nothing can break their bond\". In May 2018, the original four members (K. Young/Lil' Man, Jay-R, Kevontay and D-Smoove) released their new independent single \"Leave Ur Man\" featuring Bad Lucc (of Dubb Union). This is K-Young's first return since his departure from the group in 2000.", indent: true },
+    { text: "In 2019 they returned with the lineup from their second album (J'son, Gavyn, Jay-R, Kevontay and D-Smoove). They released the soulful ballad \"Get Back to Love Again\" in December 2019.", indent: true },
+    { text: "In 2026, Gavyn Rhone joined a collective in Los Angeles called the Top Shelf Band. He also teamed up with creative director and choreographer Tony Michaels to form GaTone, an artist development company providing vocal coaching and producing. Gavyn also made an appearance on the Verzuz featuring Tank vs Tyrese, serving as a background vocalist for Tank.", indent: true },
+    { text: "In 2024, Kevontay would reprise his role as the street hustler Jerome, voice acting on the animated sequel Everybody Still Hates Chris on Comedy Central. Aside from efforts to release new material for band, some members continued with solo releases.", indent: true },
+  ],
+
+  albums: [
+    { title: "Get With Me", year: 2002, link: "https://music.youtube.com/browse/MPREb_FdncTlNmS6w" },
+  ]
+}

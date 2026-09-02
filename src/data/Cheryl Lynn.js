@@ -1,0 +1,56 @@
+export default {
+  id: "Cheryl Lynn",
+  name: "Cheryl Lynn",
+
+  images: [
+    "/src/images/Cheryl Lynn/getty_12.jpg",
+    "/src/images/Cheryl Lynn/getty_13.jpg",
+    "/src/images/Cheryl Lynn/getty_14.jpg",
+    "/src/images/Cheryl Lynn/getty_15.jpg",
+    "/src/images/Cheryl Lynn/getty_19.jpg",
+    "/src/images/Cheryl Lynn/getty_20.jpg",
+    "/src/images/Cheryl Lynn/getty_21.jpg",
+    "/src/images/Cheryl Lynn/getty_22.jpg",
+    "/src/images/Cheryl Lynn/getty_23.jpg",
+    "/src/images/Cheryl Lynn/getty_24.jpg",
+    "/src/images/Cheryl Lynn/getty_25.jpg",
+    "/src/images/Cheryl Lynn/getty_26.jpg",
+    "/src/images/Cheryl Lynn/getty_27.jpg",
+    "/src/images/Cheryl Lynn/getty_28.jpg",
+  ],
+
+  videoIds: [
+    "wACbMWv1UYE",
+    "tmrD_1BWpBg",
+    "fI569nw0YUQ",
+    "myTgtbiHLgU",
+    "nrhP3fyqA9Q",
+    "wACbMWv1UYE",
+    "kvnO_lqoCsI",
+    "vpN3LB6vwiI",
+    "RCvpfRESgJA",
+    "3W0d9XAUpt8",
+  ],
+
+  biography: [
+    { text: "Cheryl Lynn was born in Los Angeles on March 11, 1957. Her professional singing career started in 1976 when she landed a job as a backing singer in the national touring company of The Wiz. Eventually she would land the role of Evillene, the Wicked Witch of the West, during the six month national tour run.", indent: true },
+    { text: "Prior to her appearance on The Wiz, Cheryl taped an episode of the Gong Show in the early part of 1976. She went on to win the competition while singing Joe Cocker's \"You Are So Beautiful.\" Lynn later told Dick Clark during her appearance on American Bandstand that after the episode aired, in the fall of 1976, record industry executives were calling about her soon after the win.", indent: true },
+    { text: "Success and later career After signing with Columbia Records, Lynn released her first and biggest hit, \"Got to Be Real,\" which was penned by Toto's keyboardist David Paich, David Foster and Lynn. The song peaked at #12 on the Billboard Hot 100 chart and #1 on the R&B chart. The success of the single prompted a full scale debut album. Titled, Cheryl Lynn, it was produced by Paich. The album sold over a million copies and peaked at #5 on Billboard's R&B albums chart and #23 on Billboard's top 200 album charts. The follow-up single, \"Star Love,\" also became a hit —reaching the top twenty on both the R&B and Dance charts.", indent: true },
+    { text: "During Cheryl's debut album's run, members of the rock group Toto were putting together their debut album. During the production Lynn was asked to provided the female backing vocal on the single, \"Georgy Porgy.\" The single peaked at #48 on Billboard's Pop charts. Although Toto would go on to chart more than a dozen pop hits throughout the years, it was Lynn's vocal on \"Georgy Porgy\" that aided the group in charting their one and only R&B (#18) and Dance (#80) hit on the Billboard charts.", indent: true },
+    { text: "In 1981, Ray Parker, Jr. produced \"Shake It Up Tonight,\" a major club R&B hit from Lynn's third album, In The Night. The following year, Luther Vandross was called on to produced Cheryl's fourth album, Instant Love. The second single off the album, \"If This World Were Mine\" —a 1982 duet with Luther Vandross that covered a Marvin Gaye & Tammi Terrell song, has become an urban contemporary classic. For her fifth album, Preppie, Cheryl took it upon herself to produce most of the tracks with the exception of the single \"Encore\" (#1 R&B hit) —written and produced by the Minneapolis funk duo, Jimmy Jam & Terry Lewis. It became Lynn's second #1 single on the U.S. Billboard R&B Charts. Her final top ten hit in the 80s was released in 1989: \"Every Time I Try To Say Goodbye,\" from her eighth album, Whatever It Takes.", indent: true },
+    { text: "The 1990's Cheryl began the 90's without a record contract. During this period she did session work on Richard Marx albums Rush Street and Paid Vacation. She also worked with Luther Vandross on his album Your Secret Love. In 1995, after a six year hiatus from recording her own material, Lynn teamed up with producer/songwriter Teddy Riley, (formally of the New Jack Swing group Guy), to record her ninth album, Good Time. It was released in Japan, the UK and later in the United States as an imported CD and featured the club favorite single \"Guarantee For My Heart.\"", indent: true },
+    { text: "2000 to present During the new millennium Lynn toured Japan and did the occasional gig in the U.S., performing at charity events in her hometown of Los Angeles. She performed on ABC's The Disco Ball… A 30-Year Celebration, which aired in January 2003. In 2004 she recorded the song, \"Sweet Kind Of Life,\" which was also written and produced by Jam & Lewis, for the animated film and soundtrack to Shark Tale.", indent: true },
+    { text: "On September 19, 2005, Lynn's signature song \"Got to Be Real\" was inducted into the Dance Music Hall of Fame. She is considered an influence on some of today's R&B female singers, including Mary J. Blige, who, along with Will Smith, covered Lynn's signature song, \"Got to Be Real\", also for the soundtrack of the animated film Shark Tale.", indent: true },
+  ],
+
+  albums: [
+    { title: "Cheryl Lynn (Expanded Edition)", year: 1978, link: "https://music.youtube.com/browse/MPREb_yVslXEh41r8" },
+    { title: "In Love (Expanded Edition)", year: 1979, link: "https://music.youtube.com/browse/MPREb_9x3VacQmGEA" },
+    { title: "In The Night", year: 1981, link: "https://music.youtube.com/browse/MPREb_oo2q4wBkZtu" },
+    { title: "Instant Love", year: 1982, link: "https://music.youtube.com/browse/MPREb_P2x3Zghj1f5" },
+    { title: "Preppie (Expanded Edition)", year: 1983, link: "https://music.youtube.com/browse/MPREb_eLOFWvuovqe" },
+    { title: "Whatever It Takes", year: 1989, link: "https://music.youtube.com/browse/MPREb_pl1fyrDBUbL" },
+    { title: "Good Times", year: 1995, link: "https://music.youtube.com/browse/MPREb_NLDgoDPiaNh" },
+    { title: "The Best Of Cheryl Lynn: Got To Be Real", year: 1996, link: "https://music.youtube.com/browse/MPREb_MltN7BTg2BS" },
+  ]
+}

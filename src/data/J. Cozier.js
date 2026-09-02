@@ -1,0 +1,28 @@
+export default {
+  id: "J. Cozier",
+  name: "J. Cozier",
+
+  images: [
+    "/src/images/J. Cozier/41TGVAX9R6L._UF1000,1000_QL80_.jpg",
+    "/src/images/J. Cozier/71JCoN6+DLL._UF1000,1000_QL80_.jpg",
+    "/src/images/J. Cozier/images (5).jpeg",
+    "/src/images/J. Cozier/images (6).jpeg",
+  ],
+
+  videoIds: [
+    "9bkGFcwsk2M",
+    "kTo4JTvR14A",
+    "pJT7Xn1KFMI",
+    "EEvDkSr0jcM",
+    "uh5AhmC3Y3Q",
+    "fJ-w2h7t1cc",
+  ],
+
+  biography: [
+    { text: "b. Brooklyn, New York City, New York, USA. Artists such as Maxwell, D’Angelo, and R. Kelly proved that the combination of sultry R&B and smooth hip-hop (as well as sex symbol posturing) equalled big time chart success during the 90s, inadvertently helping to pave the way for such similarly styled performers as Jimmy Cozier. Raised in Brooklyn, New York, Cozier grew up around music, as his family enjoyed singing and performing. Although he fell in love with music at an early age and knew he wanted to pursue it seriously as a career, Cozier initially opted to become a backing singer and songwriter for other artists. It did not take Cozier long to find takers for his songs, as he penned tracks for renowned artists such as Mya, Sinéad O’Connor, and Janet Jackson, in addition to singing alongside Lil’ Kim and Joe. Eventually however, Cozier decided the time was right to strike out on his own, which resulted in a meeting with Arista Records chief Clive Davis (on the recommendation of Wyclef Jean, who had heard a demo tape). Davis immediately signed Cozier to a recording contract with his newly formed J Records label, resulting in the release of the artist’s self-titled debut in 2001. The album included a stand-out duet with Alicia Keys on ‘Mr. Man’.", indent: true },
+  ],
+
+  albums: [
+    { title: "Jimmy Cozier", year: 2001, link: "https://music.youtube.com/browse/MPREb_zI4YVEsffDg" },
+  ]
+}

@@ -1,0 +1,63 @@
+export default {
+  id: "Avant",
+  name: "Avant",
+
+  images: [
+    "/src/images/Avant/Avant-Capitol-Records-Rooftop-Aug-2015-3.jpg",
+    "/src/images/Avant/channels4_profile.jpeg",
+    "/src/images/Avant/images (1).jpeg",
+    "/src/images/Avant/maxresdefault.jpg",
+    "/src/images/Avant/MV5BMTgwOTMwMzY2NV5BMl5BanBnXkFtZTYwMTU0NzM0._V1_.jpg",
+    "/src/images/Avant/Screenshot 2026-07-01 at 5.19.26 AM.png",
+    "/src/images/Avant/Screenshot 2026-07-01 at 5.19.33 AM.png",
+    "/src/images/Avant/Screenshot 2026-07-01 at 5.19.44 AM.png",
+  ],
+
+  videoIds: [
+    "lq3vcRpRh_g",
+    "5gzSITRewmw",
+    "zGvOA2gkmO4",
+    "sa-oNk19z_U",
+    "LtZHVDu9DBY",
+    "pPCEGa3XA14",
+    "JmRrSQNgRJ8",
+    "9241X9sm0qo",
+    "KEMjg3pVKCk",
+    "k-CPWyZCuMg",
+    "LmmcpA7Hlyw",
+    "XPteCd3AxAk",
+    "h50AyRYhkys",
+    "694140gy61g",
+    "HwDgmuMHKaw",
+    "nraQqhQqRx4",
+    "0ETs_pGRD_U",
+    "sB0JPubnpvY",
+    "gldTC-sfsyw",
+  ],
+
+  biography: [
+    { text: "Myron Lavell Avant (born April 26, 1978), mononymously known as Avant, is an American R&B singer. He is known for his songs \"Separated\", \"Read Your Mind\", and \"Makin' Good Love\". He has produced three Platinum-selling albums. He has released 15 singles and 9 albums.", indent: true },
+    { text: "Avant was born in Cleveland, Ohio, the youngest of five siblings. He did not belong to a wealthy family and grew up watching his mother struggle to provide the best to her children. His mother encouraged him to improve his music skills by playing classic R&B artists like Smokey Robinson, The Supremes, and Marvin Gaye. He was passionate about music since his childhood. He pursued acting during his high school education at Cleveland School of the Arts. After graduating from high school, he worked a few factory jobs.", indent: true },
+    { text: "Avant began writing songs at the age of 14. He independently released his debut single \"Separated\" in 2000. It was a song based on a failed romantic relationship. The single created a buzz and was played on the radio. It helped him land a deal at Magic Johnson Music. In 2000, he released his debut album, My Thoughts, which sold more than 1.3 million copies in the United States and 4.4 million worldwide. It was released by MCA Records. His debut album featured a remake with fellow R&B singer Keke Wyatt of the 1983 René & Angela ballad \"My First Love\". It reached the top 5 of the R&B chart and helped boost Wyatt's career. He released his second album, Ecstasy, in 2002. It featured another of his top ten hits, \"Makin' Good Love\". His third album, Private Room, was released in 2003, and reached number four on Billboard's R&B/Hip-Hop Albums chart. A track from the album, \"Read Your Mind\", was ranked 13th on the Hot 100. A remix featuring Snoop Dogg appeared on the promotional vinyl and was released on September 30, 2003. In 2005, Avant featured on Cuban Link's song \"Comin' Home With Me\" alongside Swizz Beatz, which was included on the album Chain Reaction.", indent: true },
+    { text: "In 2006, Avant released his fourth album Director, which topped the R&B/Hip-Hop Albums chart and debuted at number four on the Billboard 200. Its lead single, \"When It Hurts\", reached number 91 on the Hot 100.", indent: true },
+    { text: "Avant was featured in the remix of Lloyd Banks'song \"Karma\" from the 2004 album The Hunger for More. He also made a cameo appearance in the 2004 feature film BarberShop 2: Back in Business.", indent: true },
+    { text: "In 2009, Avant collaborated with Maze on a cover of \"Joy and Pain\" as a tribute to the band for an album called Silky Soul Music: An All Star Tribute to Maze Featuring Frankie Beverly.", indent: true },
+    { text: "His self-titled fifth album, Avant, was released on December 9, 2008. Avant later signed to Verve Forecast and released his sixth studio album The Letter (formerly titled Wake Up ) on December 21, 2010, [ non-primary source needed ] featuring production from the likes of The Pentagon; Mike City; Marshall Leathers; and Kajun. His eighth album The VIII was released on September 25, 2015.", indent: true },
+    { text: "In 2019, Avant returned with the single \"Not Gone Lose\" and signed a label deal to release the album Can We Fall in Love, which was released in July 2020.", indent: true },
+    { text: "Although successful, Avant began drawing comparisons to fellow R&B singer R. Kelly and even faced some backlash from music critics.", indent: true },
+    { text: "Avant has cited Kelly as his biggest influence and inspiration. \"Being compared to R. Kelly is a compliment in itself. He's been in the game for about twelve years. He is Mr. R&B. To be in the game, and to be named in the same sentence as that man is truly a privilege\", Avant said.", indent: true },
+    { text: "Avant has lupus and has taken up a vegan diet to help manage its effects.", indent: true },
+  ],
+
+  albums: [
+    { title: "My Thoughts", year: 2000, link: "https://music.youtube.com/browse/MPREb_a5gKWyZHGBx" },
+    { title: "Ecstasy", year: 2002, link: "https://music.youtube.com/browse/MPREb_moeb1tZslCc" },
+    { title: "Private Room", year: 2003, link: "https://music.youtube.com/browse/MPREb_5AgdqgEfP1P" },
+    { title: "Director", year: 2006, link: "https://music.youtube.com/browse/MPREb_Uuj0mPR5bDu" },
+    { title: "Avant", year: 2008, link: "https://music.youtube.com/browse/MPREb_HkQvrSAu0PD" },
+    { title: "The Letter", year: 2010, link: "https://music.youtube.com/browse/MPREb_eJvWiylERMZ" },
+    { title: "Best Of", year: 2011, link: "https://music.youtube.com/browse/MPREb_zjs7YOJNytW" },
+    { title: "Face the Music", year: 2013, link: "https://music.youtube.com/browse/MPREb_5u3dTcNdtqV" },
+    { title: "The VIII", year: 2015, link: "https://music.youtube.com/browse/MPREb_prEITPpg9WV" },
+  ]
+}

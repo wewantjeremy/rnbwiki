@@ -1,0 +1,22 @@
+export default {
+  id: "Igelese",
+  name: "Igelese",
+
+  images: [
+    "/src/images/Igelese/Igalese-Ete-001-300x300.jpg",
+  ],
+
+  videoIds: [
+    "jhCcfGjPXgk",
+    "TxwH7KjAOOI",
+  ],
+
+  biography: [
+    { text: "Dr. Igelese Ete is a powerhouse in the realm of Pacific music and academia, holding the esteemed Samoan chief title Tuilagi from the village of Fatausi. Hailing from the villages of Falealupo, Lalomalava, Fusi, and Vaovai in Samoa, Tuilagi is an Associate Professor and Associate Dean: Pacific at Massey University's College of Creative Arts in Wellington, New Zealand.", indent: true },
+    { text: "His expertise and influence are globally recognized, as evidenced by his selection as part of the international juror panel for the World Choir Games in July. He is also a member of the governance board for the NZ Choral Federation.", indent: true },
+    { text: "In 2008, Dr. Ete received the Senior Pacific Artist Award from Creative New Zealand for his exceptional contributions to Pacific music. He was the choral director for iconic movies such as \"The Lord of the Rings\" and Disney's \"Moana,\" and has just finished work on a powerful Samoan/Pacific feature film called \"Tina,\" set for international release at the end of the year.", indent: true },
+    { text: "Tuilagi continues to serve the Pacific community through his Pacific musical productions, including \"Malaga-The Journey\" and the latest \"Naatapuitea - The Sacred Star.\" Through his passion and leadership, Dr. Ete remains a vital force in serving and promoting Pacific choral music on both the national and international stage. His dedication to inspiring, empowering, and uplifting communities through Pacific music continues to make a profound impact.", indent: true },
+  ],
+
+  albums: []
+}

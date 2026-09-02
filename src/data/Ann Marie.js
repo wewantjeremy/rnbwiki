@@ -1,0 +1,62 @@
+export default {
+  id: "Ann Marie",
+  name: "Ann Marie",
+
+  images: [
+    "/src/images/Ann Marie/1280x1280.jpg",
+    "/src/images/Ann Marie/33508871a651e5e3696cc89bc4935bba.1920x1080x1.jpg",
+    "/src/images/Ann Marie/ab67616100005174c12d21bd85025d0bd5e762a8.jpeg",
+    "/src/images/Ann Marie/ab67616d00001e02263cda7ee965d07c9bf8c085.jpeg",
+    "/src/images/Ann Marie/ANN-MARIE-YELLOW.jpg",
+    "/src/images/Ann Marie/Ann_Marie_Icebox_2019.jpg",
+    "/src/images/Ann Marie/avatars-D3sdzPFkzfnVk71I-kT9QIQ-t1080x1080.jpg",
+    "/src/images/Ann Marie/hq720.jpg",
+    "/src/images/Ann Marie/images (1).jpeg",
+    "/src/images/Ann Marie/images (2).jpeg",
+    "/src/images/Ann Marie/images (3).jpeg",
+    "/src/images/Ann Marie/images.jpeg",
+    "/src/images/Ann Marie/sddefault.jpg",
+    "/src/images/Ann Marie/vPf5S5rYA0QIN7w9hfKNDByhM-OFI8zG4l-qVpXXB1I=.jpg",
+  ],
+
+  videoIds: [
+    "tUJNn_7lLBA",
+    "epLMSGaLzh8",
+    "yBnWKVa19g4",
+    "GMbX98yyPB4",
+    "pGqx3PJwgdI",
+    "wuKKQDfM8Ww",
+    "HL7Hvbed5sY",
+    "qiZU8V4WqgA",
+    "fr8sCP0H0fE",
+    "Hp0I_t6b2nc",
+    "Pbvb58y2tKA",
+    "qYY2-hisuXQ",
+    "mf9rzYh31XM",
+    "BHJuMpje38U",
+    "J9tLKXcncxI",
+    "B8JNj3A1AEk",
+    "Ki0uc5SYZyg",
+    "6D7nah25zVo",
+  ],
+
+  biography: [
+    { text: "Joann Marie Slater (born November 20, 1995), known professionally as Ann Marie, is an American singer and rapper formerly signed to Interscope Records. She is best known for her single \"Secret\", which has garnered over 100 million views on YouTube and peaked at number 22 on the Billboard Hot R&B Songs chart. Her debut EP Pretty Psycho was released on July 10, 2019. She began singing at an early age, crediting her uncle for encouraging her to recite Whitney Houston's \"My Love Is Your Love\" repeatedly.", indent: true },
+    { text: "In December 2020, Slater was charged with possession of a gun and aggravated assault with a deadly weapon in connection to an Atlanta hotel shooting of childhood friend and alleged boyfriend, Jonathon \"Sandillo\" Wright. Slater allegedly told an officer that a \"gun fell off the table in the hotel room where the shooting happened.\" She was later released on bond.", indent: true },
+    { text: "Slater has stated that she draws inspiration from 90s R&B, especially from artists like Aaliyah, Jagged Edge, SWV, Xscape.", indent: true },
+  ],
+
+  albums: [
+    { title: "Ann Marie", year: 2017, link: "https://music.youtube.com/playlist?list=OLAK5uy_kuLOngnF1BPrnBF33KQ-8HOdOAUOfqvEY" },
+    { title: "Unfuckwitable", year: 2017, link: "https://music.youtube.com/playlist?list=OLAK5uy_kLa4Qzrv5CpZGnTjOry3H8UBtb0ddv8YQ" },
+    { title: "Tripolar", year: 2018, link: "https://music.youtube.com/playlist?list=OLAK5uy_mLJDeejF---oZf__1PKtB-AKLu20adKHo" },
+    { title: "Tripolar 2", year: 2019, link: "https://music.youtube.com/playlist?list=OLAK5uy_mQwf9NR8uJwIC29SJBghPhJPEtDTwIavM" },
+    { title: "Pretty Psycho", year: 2019, link: "https://music.youtube.com/playlist?list=OLAK5uy_lV3nyrCVqQueL6DBaWR-XYCI2pk3TxZMc" },
+    { title: "Hate Love", year: 2021, link: "https://music.youtube.com/playlist?list=OLAK5uy_kl8jO0T0oRzbMmMiymBjiXwTNuc0e6N2k" },
+    { title: "Pain Never Looked This Good [Day]", year: 2022, link: "https://music.youtube.com/playlist?list=OLAK5uy_kYM6dahjB5ViJYX0nEC1d-xb87SZB3AXo" },
+    { title: "Pain Never Looked This Good [Night]", year: 2022, link: "https://music.youtube.com/playlist?list=OLAK5uy_kNzunckhXz_vjSketst8UGjr0M7aYCEAY" },
+    { title: "Tripolar 3", year: 2023, link: "https://music.youtube.com/playlist?list=OLAK5uy_l56moh0PMGT7IFDcmn8sEnldVZpCgKgNo" },
+    { title: "Scorpiann", year: 2024, link: "https://music.youtube.com/playlist?list=OLAK5uy_khUEzFwA-rOcqKGwtX0lf60KFLGywaAOk" },
+    { title: "GOATED", year: 2025, link: "https://music.youtube.com/playlist?list=OLAK5uy_nBqkoCD1R_Zn6JRjDfkxL5B8j0ZpW0U7Q" },
+  ]
+}

@@ -1,0 +1,61 @@
+export default {
+  id: "Intro",
+  name: "Intro",
+
+  images: [
+    "/src/images/Intro/getty_0.jpg",
+    "/src/images/Intro/getty_10.jpg",
+    "/src/images/Intro/getty_14.jpg",
+    "/src/images/Intro/getty_19.jpg",
+    "/src/images/Intro/getty_2.jpg",
+    "/src/images/Intro/getty_20.jpg",
+    "/src/images/Intro/getty_21.jpg",
+    "/src/images/Intro/getty_23.jpg",
+    "/src/images/Intro/getty_24.jpg",
+    "/src/images/Intro/getty_26.jpg",
+    "/src/images/Intro/getty_27.jpg",
+    "/src/images/Intro/getty_28.jpg",
+    "/src/images/Intro/getty_29.jpg",
+    "/src/images/Intro/getty_3.jpg",
+    "/src/images/Intro/getty_30.jpg",
+    "/src/images/Intro/getty_31.jpg",
+    "/src/images/Intro/getty_32.jpg",
+    "/src/images/Intro/getty_33.jpg",
+    "/src/images/Intro/getty_34.jpg",
+    "/src/images/Intro/getty_35.jpg",
+    "/src/images/Intro/getty_36.jpg",
+    "/src/images/Intro/getty_37.jpg",
+    "/src/images/Intro/getty_38.jpg",
+    "/src/images/Intro/getty_39.jpg",
+    "/src/images/Intro/getty_40.jpg",
+    "/src/images/Intro/getty_41.jpg",
+    "/src/images/Intro/getty_42.jpg",
+    "/src/images/Intro/getty_5.jpg",
+    "/src/images/Intro/getty_6.jpg",
+    "/src/images/Intro/getty_7.jpg",
+    "/src/images/Intro/getty_8.jpg",
+    "/src/images/Intro/getty_9.jpg",
+  ],
+
+  videoIds: [
+    "80n1cjci7fI",
+    "nyN-67uyZfo",
+    "4ExIHvdi5uc",
+    "WRM7LTRGR0Q",
+    "i3nyhrApX8s",
+  ],
+
+  biography: [
+    { text: "Intro (short for Innovative New Talent Reaching Out) is an R&B music group from Brooklyn, New York. The original line-up consisted of Kenny Greene (born on January 17, 1969 in Detroit, Michigan), Jeff Sanders and Clinton “Buddy” Wike.", indent: true },
+    { text: "They were discovered by late rapper Heavy D, who introduced them to D.J. Eddie F and they were signed to his Untouchables Records label. In 1993, Intro released their self-titled debut studio album. The album peaked at #65 on the Billboard 200 and #6 on Billboard’s R&B Albums chart. The lead single, “Come Inside” became a hit, peaking at #9 on Billboard’s Hot R&B Singles chart, staying on the chart for 30 weeks. The song also peaked at #33 on the Billboard Hot 100 and #15 on Billboard’s Rhythmic Top 40 chart. The follow-up single, “Let Me Be The One” peaked at #23 on Billboard’s Hot R&B Singles chart, staying on the chart for 20 weeks. It also peaked at #12 on Billboard’s Bubbling Under Hot 100 Singles chart. The third single, “Love Thang” peaked at #11 on Billboard’s Bubbling Under Hot 100 Singles chart and #28 on Billboard’s Hot R&B Singles chart, staying on the chart for 20 weeks. The last single from the album, a cover version of Stevie Wonder’s 1982 song, “Ribbon in the Sky” peaked at #11 on Billboard’s Hot R&B Singles chart, staying on the chart for 20 weeks. The song also peaked at #5 on Billboard’s Bubbling Under Hot 100 Singles chart. In 1994, Intro was featured on Eddie F and The Untouchables’ compliation album, “Let’s Get It On (The Album)” with the track, “Never Again” which managed to peak at #60 on Billboard’s Hot R&B Singles chart, staying on the chart for 8 weeks.", indent: true },
+    { text: "Around that time, Kenny Greene wrote songs for various artists such as Mary J. Blige, Christopher Williams, SWV, Eric Gable, The Real Seduction, The Winans, the Fugees and Soul For Real. In 1995, the group released their sophomore album, “New Life” which peaked at #86 on the Billboard 200 and #16 on Billboard’s R&B Albums chart. The first single released from the album, “Funny How Time Flies” peaked at #90 on the Billboard Hot 100 and #25 on Billboard’s Hot R&B Singles chart, staying on the chart for 20 weeks. The follow-up single, “Feels Like The First Time” peaked at #17 on Billboard’s Bubbling Under Hot 100 Singles chart and #52 on Billboard’s Hot R&B Singles chart, staying on the chart for 11 weeks.", indent: true },
+    { text: "Afterwards, Intro recorded a third studio album; however, things with their record label fell apart. They attempted to shop the album to a new record label, but after those efforts failed, they decided to disband.", indent: true },
+    { text: "Kenny continue to write music for artists such as Will Smith, 98 Degrees, Shades, Assorted Phlavors, Billy Lawrence, Cam’ron, Tyrese and Eternal. In 2001, he revealed to Sister2Sister Magazine that he was bisexual and had AIDS.", indent: true },
+    { text: "On October 1, 2001, Kenny Greene died from AIDS complications in New York City. He was 32 years old at the time of his death. Throughout the years, Buddy and Jeff added different members to the group. In 2015, they released the single, “Lose Control” on The Mobel Label record label. These days (according to research), the two of them continue to perform as Intro; in May of 2022, they teamed up with singer Eric Roberson on the song, “All I Want” which includes vocals by Kenny Greene.", indent: true },
+  ],
+
+  albums: [
+    { title: "INTRO", year: 1993, link: "https://music.youtube.com/browse/MPREb_VZPg8Id9iku" },
+    { title: "New Life", year: 1995, link: "https://music.youtube.com/browse/MPREb_OBBqTSyBMuT" },
+  ]
+}

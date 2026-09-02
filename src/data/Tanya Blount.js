@@ -1,0 +1,39 @@
+export default {
+  id: "Tanya Blount",
+  name: "Tanya Blount",
+
+  images: [
+    "/src/images/Tanya Blount/1100x1900.avif",
+    "/src/images/Tanya Blount/23e2a4c0488354666dac602a214521b401603c70.jpg",
+    "/src/images/Tanya Blount/Michael-Trotter-Jr.-and-Tanya-Trotter-of-The-War-and-Treaty-grammy-2024-red-carp-billboard-1548.webp",
+    "/src/images/Tanya Blount/MV5BMTEwNzM2NDYzOTBeQTJeQWpwZ15BbWU3MDQwMTIyMzE@._V1_FMjpg_UX1000_.jpg",
+    "/src/images/Tanya Blount/sddefault.jpg",
+    "/src/images/Tanya Blount/Tanya Blount_0.jpg",
+    "/src/images/Tanya Blount/Tanya Blount_1.jpg",
+    "/src/images/Tanya Blount/Tanya Blount_2.jpg",
+  ],
+
+  videoIds: [
+    "69F66u8qeeg",
+    "q1nQ45NMk5g",
+    "jaE5Lbvgbj0",
+    "YNRvGygvv40",
+    "8rFiph5WxZE",
+    "qzF6Vcp8Czc",
+  ],
+
+  biography: [
+    { text: "Tanya Trotter (née Blount) is an American actress, musician and author. She began her career as a teen actress, appearing in the film Sister Act 2: Back in the Habit (1993), where she performed \"His Eye Is on the Sparrow\" in a duet with Lauryn Hill. She went on to release her debut album Natural Thing (1994), which featured the songs \"Through the Rain\" and \"I'm Gonna Make You Mine\". Blount is currently one half of the country music duo the War and Treaty.", indent: true },
+    { text: "Blount was born to an Afro-Panamanian mother and African-American father. She attended Baptist services on Sundays and attended Catholic school, singing in choirs in both contexts. She was educated at Morgan State University, where she majored in psychology and sang in the university choir.", indent: true },
+    { text: "Blount first came to prominence in the film, Sister Act 2: Back in the Habit (1993) in which she featured as the character \"Tanya\". Her performance of \"His Eye is on the Sparrow\" with Lauryn Hill was a particularly notable moment. MadameNoire commented,'she and R&B/Hip-hop musician Lauryn Hill captivated audiences with a memorable performance'. Blount also appeared on the feature film's original soundtrack album.", indent: true },
+    { text: "Signed with Polydor Records during late 1993, her debut album, Natural Thing, was released in 1994 and peaked at number 58 on the US R&B/Hip-Hop Albums chart. The album's first single \"I'm Gonna Make You Mine\" peaked at number 57 on the US R&B/Hip-Hop Songs chart. \"Through the Rain\" followed, peaking at number 27 on US R&B/Hip-Hop Songs and became her first appearance on the US Hot 100 where it peaked at number 90. Third single, \"Hold On\" peaked at number 66 on the US R&B/Hip-Hop Songs chart. In 1994, Blount released a holiday single titled \"Remember Love\". In 1995, Blount received a nomination for Best New Artist at the Soul Train Awards.", indent: true },
+    { text: "In 1996, Blount signed to Sean Combs'Bad Boy Entertainment and commenced the recording of her second album; writing for herself and other Bad Boy artists. Though Combs was involved in the project initially, interest in the album'flagged'. Though years passed, only 2 songs; \"I Love Him\" and \"The Last Time We Made Love\", were released. According to EBONY, Blount was included on the label's first gospel LP alongside artists; B.I.G., Faith Evans, Brandy, Carl Thomas, John P. Kee, Brian McKnight, Boyz II Men and Total. Commenting on the album, Blount explained \"“I think Puffy is looking for a different way to go; he feels a responsibility to the Big Willies and hustlers to understand. A lot of people from the streets have a strong background in church. Maybe it’s time to send the message that they can party and still love Jesus.” Originally scheduled for release in 1997, the album was shelved indefinitely. In February 2000, the Washington Post reported Blount was pursuing a release from her contract with Bad Boy Entertainment and negotiating a settlement.", indent: true },
+    { text: "Blount has had a consistent musical theatre career in productions including What Every Woman Wants, Sneaky, Preacher's Kids, Born to Sing! and Christmas in Washington. In 2008, Blount's song \"Right Here\", was featured in the 2008 Tyler Perry film, The Family That Preys.", indent: true },
+    { text: "In 2016, Blount released the duet album Love Affair with her husband, Michael Trotter Jr., as Trotter & Blount. The duo also released the single \"Hi Ho\" that year as the War and Treaty. \"Hi Ho\" was described by Paste writer Chris Estey as \"the break out soul hit\". In 2017, the War and Treaty released the EP Down to the River, described as a mix of \"blues, gospel, soul, bluegrass, country\" and heralded by Estey as \"a splendidly made immediate classic about conflict and redemption.\" In 2018, Rolling Stone reported that the War and Treaty's debut album Healing Tide was due for release on August 10, 2018, describing the lead single as a \"joyfully relentless title track, reminiscent of classic Ike and Tina Turner rock-infused soul.\" On September 25, 2020, the War and Treaty released their sophomore album, Hearts Town, on Rounder Records.", indent: true },
+    { text: "Trotter is married to her bandmate Michael Trotter and has a son named Antonio.", indent: true },
+  ],
+
+  albums: [
+    { title: "Natural Thing", year: 1993, link: "https://music.youtube.com/browse/MPREb_7ygoXPraPVg" },
+  ]
+}

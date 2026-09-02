@@ -1,0 +1,60 @@
+export default {
+  id: "Monifah",
+  name: "Monifah",
+
+  images: [
+    "/src/images/Monifah/Monifah_0.jpg",
+    "/src/images/Monifah/Monifah_1.jpg",
+    "/src/images/Monifah/Monifah_12.jpg",
+    "/src/images/Monifah/Monifah_2.jpg",
+    "/src/images/Monifah/Monifah_22.jpg",
+    "/src/images/Monifah/Monifah_25.jpg",
+    "/src/images/Monifah/Monifah_29.jpg",
+    "/src/images/Monifah/Monifah_42.jpg",
+    "/src/images/Monifah/Monifah_43.jpg",
+    "/src/images/Monifah/Monifah_44.jpg",
+    "/src/images/Monifah/Monifah_45.jpg",
+    "/src/images/Monifah/Monifah_46.jpg",
+    "/src/images/Monifah/Monifah_47.jpg",
+    "/src/images/Monifah/Monifah_48.jpg",
+    "/src/images/Monifah/Monifah_49.jpg",
+    "/src/images/Monifah/Monifah_5.jpg",
+    "/src/images/Monifah/Monifah_50.jpg",
+    "/src/images/Monifah/Monifah_51.jpg",
+    "/src/images/Monifah/Monifah_52.jpg",
+    "/src/images/Monifah/Monifah_53.jpg",
+    "/src/images/Monifah/Monifah_54.jpg",
+    "/src/images/Monifah/Monifah_6.jpg",
+  ],
+
+  videoIds: [
+    "_By0fwQROxc",
+    "-CL89fxfGZI",
+    "SB7TWP9vHcg",
+    "WIvX9evDUoM",
+    "wzNw-af_W8A",
+    "6Pc_6yUmI_o",
+    "Llc5LgaHtzc",
+    "JA8ivaCsgy8",
+    "E6ZJ7XqUF9U",
+    "6495qlONuoQ",
+    "Vgh6z0FAu4o",
+  ],
+
+  biography: [
+    { text: "Monifah (born Monifa Carter on January 28, 1972 in New York) is a female R&B singer/songwriter.", indent: true },
+    { text: "She grew up in Spanish Harlem in a musical family that encouraged her to perform in musicals as a child. With the experience that Monifah gained by singing, she signed a record contract with MCA Records. In 1996, Monifah released her debut album, “Moods…Moments” which peaked at #42 on the Billboard 200 chart and #6 on Billboard’s R&B Albums chart. The album was produced by Heavy D. The first single “I Miss You (Come Back Home)” peaked at #56 on the Billboard Hot 100, #22 on Billboard’s Hot Dance Music/Maxi-Singles Sales chart, and #16 on Billboard’s Hot R&B Singles chart, staying on the chart for 31 weeks. The song was featured on the “New York Undercover” television soundtrack. The second single “You” peaked at #32 on the Billboard Hot 100,  #13 on Billboard’s Hot Dance Music/Maxi-Singles Sales chart, and #11 on Billboard’s Hot R&B Singles chart, staying on the chart for 23 weeks.", indent: true },
+    { text: "The third single from the album “Nobody’s Body” peaked at #71 on Billboard’s Hot R&B Singles, staying on the chart for 23 weeks.", indent: true },
+    { text: "The last single from the album “You Don’t Have to Love Me” peaked at #82 on the Billboard Hot 100 and #36 on Billboard’s Hot R&B Singles chart, staying on the chart for 17 weeks.", indent: true },
+    { text: "In 1997, she contributed the song, “I Still Love You” to the “Sprung” movie soundtrack, which peaked at #55 on Billboard’s Hot R&B Singles chart in June of 1997, staying on the chart for 9 weeks. In 1998, Monifah released her sophomore album, “Mo’hogany” which peaked at #96 on the Billboard 200 and #42 on Billboard’s R&B Albums chart. The album was produced by Heavy D, Mario Winans, and N.O. Joe. The album was certified Platinum in 2000, 2 years after the release of “Mo’hogany.” Her biggest hit to date, “Touch It” peaked at #9 on the Billboard Hot 100, #9 on Billboard’s Hot R&B Singles chart (staying on the chart for 20 weeks), #13 on Billboard’s Top 40 Mainstream and Billboard’s Top 40 Tracks chart, and topped Billboard’s Rhythmic Top 40 chart. The song also peaked at #14 on Billboard’s Canadian Singles Chart.", indent: true },
+    { text: "The follow-up single, “Suga Suga” didn’t fare as well as the previous single, peaking only at #71 on Billboard’s Hot R&B Singles chart and missing the Hot 100 completely. In 2000, Monifah released her last album to date, “Home” which peaked at #151 on the Billboard 200 and #39 on Billboard’s R&B Albums chart. Despite production from Teddy Riley, the album was a commercial failure, selling only 103,000 copies. The only single to chart was “I Can Tell” which peaked at #28 on Billboard’s Rhythmic Top 40 chart and #94 on Billboard’s Hot R&B/Hip-Hop Singles & Tracks chart, staying on the chart for only 3 weeks.", indent: true },
+    { text: "In 2003, Monifah portrayed a supporting role in Michael Baisden’s stage play “Men Cry in the Dark.” In August of 2012, she began appearing on the TV One reality series “R&B Divas”, staying on the show for three seasons. During that same year, she was featured on Faith Evans’ compliation album “R&B Divas” which was nominated for a Grammy award.", indent: true },
+    { text: "These days, Monifah continues to be active with her music career. In 2014, she released the single “The Other Side” and a year later, she released the single “One Moment.”", indent: true },
+  ],
+
+  albums: [
+    { title: "Moods...Moments", year: 1996, link: "https://music.youtube.com/browse/MPREb_pBfRYSd9EIF" },
+    { title: "Mo'Hogany", year: 1998, link: "https://music.youtube.com/browse/MPREb_8AQgfGvUHCi" },
+    { title: "Home", year: 2000, link: "https://music.youtube.com/browse/MPREb_pjvMhHLE4ig" },
+  ]
+}

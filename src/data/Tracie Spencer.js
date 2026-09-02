@@ -1,0 +1,50 @@
+export default {
+  id: "Tracie Spencer",
+  name: "Tracie Spencer",
+
+  images: [
+    "/src/images/Tracie Spencer/artworks-qv3BoUxnbK7bEyTV-CUbC4g-t1080x1080.jpg",
+    "/src/images/Tracie Spencer/images.jpg",
+    "/src/images/Tracie Spencer/Screenshot 2026-07-03 at 3.59.46 AM.png",
+    "/src/images/Tracie Spencer/Screenshot 2026-07-03 at 4.00.04 AM.png",
+    "/src/images/Tracie Spencer/Tracie Spencer_0.jpg",
+    "/src/images/Tracie Spencer/Tracie Spencer_1.jpg",
+    "/src/images/Tracie Spencer/Tracie Spencer_2.jpg",
+    "/src/images/Tracie Spencer/Tracie Spencer_3.jpg",
+    "/src/images/Tracie Spencer/Tracie Spencer_4.jpg",
+    "/src/images/Tracie Spencer/Tracie Spencer_5.jpg",
+    "/src/images/Tracie Spencer/Tracie Spencer_6.jpg",
+    "/src/images/Tracie Spencer/Tracie Spencer_7.jpg",
+    "/src/images/Tracie Spencer/Tracie Spencer_8.jpg",
+    "/src/images/Tracie Spencer/Tracie_1999_album.jpg",
+  ],
+
+  videoIds: [
+    "oBBlt1s6M5k",
+    "W1mIku1kAHI",
+    "sIaFmiIyPcg",
+    "Xr_NE95KNCM",
+    "NeSEp34xHV4",
+    "iM4JU1CPL7A",
+    "omC9Zd8Qy3c",
+    "hPw1zeE42Mw",
+    "9Cu69BxVBnw",
+  ],
+
+  biography: [
+    { text: "Tracie Monique Spencer (born July 12, 1976) is an American singer-songwriter. Spencer first came to attention in 1987, when the then 11-year-old won the junior vocalist competition on the television show Star Search. Spencer soon signed a contract with Capitol Records, at the time the youngest female artist to do so. She went on to gain attention for her R&B and pop singles \"Symptoms of True Love\" (1988), \"This House\" (1990), \"Tender Kisses\" (1991) and \"It's All About You (Not About Me)\" (1999).", indent: true },
+    { text: "Born in Waterloo, Iowa, on July 12, 1976 to Theresa (née Williams) and Marvin E. Spencer Sr. Spencer's mother is of Creole and Native American descent; her father, a well-known musician, is French Canadian and Panamanian. Spencer has three siblings, Marvin Jr., Marty and Tricia. Tracie Spencer is also related to Beyoncé, being that both musicians share Acadian hero Joseph Broussard of 1702 and Agnes Thibodeaux as great grandparents.", indent: true },
+    { text: "Spencer began singing at the age of three and began modeling in pageant competitions at age five. In addition to singing, Spencer was an honor student who also played basketball in elementary and high school. Spencer attended Waterloo's Columbus High School, graduating in 1994, having already released four Top-10 Billboard Hot R&B/Hip-Hop songs (see next section).", indent: true },
+    { text: "Spencer performed, produced and directed her first music videos before she was ten years of age. This led to her competing on Star Search in 1987, where she won the $10,000 junior vocalist prize. Afterwards, Spencer became the youngest female artist to sign a record deal with a major label, Capitol Records, and to release an album.", indent: true },
+    { text: "Her self-titled debut album, released on January 16, 1988, produced the Billboard Hot R&B/Hip-Hop -charting singles \"Hide and Seek\", \"Symptoms of True Love\" and her remake of John Lennon's \"Imagine\".", indent: true },
+    { text: "Spencer's second album, Make the Difference, was released on August 27, 1990. The first single, \"Save Your Love\", was her first to reach the Top-10 on the R&B/Hip-Hop charts, reaching No. 7. Her following single, \"This House\", became her biggest hit ever, reaching No. 3 on the Billboard Hot 100. The single \"Tender Kisses\" hit No. 1 on the Hot R&B/Hip-Hop charts and made her the youngest female artist to receive the ASCAP songwriter of the year award in 1992. The other singles from this album, \"This Time Make It Funky\" and \"Love Me\", charted on both the Hot 100 and the Hot R&B/Hip-Hop charts. In 1993, Spencer recorded the follow-up to Make the Difference and was going to release what was supposed to be her third studio album entitled Naturelle but for unknown reasons it was shelved by Capitol Records. The unreleased album was discovered in 2022 by a fan as a forgotten rare cassette only tape format with very few copies released for promotional use. The details of the album and two photos of it can be seen on Discogs.com. The album on that site is only titled as \"Naturelle\" with an early 1994 release date. The album never saw the light of day in full and the promotional sampler can be heard on Youtube.", indent: true },
+    { text: "Spencer served on the board of the Children's Defense Fund as a teen and was given the Martin Luther King Christian Leadership Award for being a positive role model to youth and traveling across the US and abroad as part of a \"Stay in School\" program. Spencer made a guest appearance on the hit ABC sitcom, Family Matters as well as commercials, in 1993 and recorded the song \"I'll Be There for You\" for the 1997 film, Good Burger, \"The Rain\" for Down in the Delta, \"Don't Slip Away\" for the Super Mario Bros. (film) and Girlfight, starring Michelle Rodriguez. Spencer also modeled for Tommy Hilfiger, Chanel, and Dollhouse, which led to her being a part of New York City and Los Angeles' fashion weeks during 1999 and 2000, being styled by Derek Khan, being signed to \"NEXT\" modeling agency and appearing in numerous magazines. On June 29, 1999, Spencer released Tracie, which featured the singles \"It's All About You (Not About Me)\" and \"Still in My Heart\".", indent: true },
+    { text: "After a hiatus, Spencer and fellow R&B singer Shanice appeared together on Sherri on September 29, 2023. She has also re-emerged on social media promoting her activities and performances.", indent: true },
+  ],
+
+  albums: [
+    { title: "Tracie Spencer", year: 1988, link: "https://music.youtube.com/browse/MPREb_rMEcHHBEqvJ" },
+    { title: "Make The Difference", year: 1990, link: "https://music.youtube.com/browse/MPREb_Gb7f40TrfTL" },
+    { title: "Tracie", year: 1999, link: "https://music.youtube.com/browse/MPREb_PVf2kgqzNgk" },
+  ]
+}

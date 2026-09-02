@@ -1,0 +1,62 @@
+export default {
+  id: "Az Yet",
+  name: "Az Yet",
+
+  images: [
+    "/src/images/Az Yet/getty_0.jpg",
+    "/src/images/Az Yet/getty_1.jpg",
+    "/src/images/Az Yet/getty_10.jpg",
+    "/src/images/Az Yet/getty_11.jpg",
+    "/src/images/Az Yet/getty_12.jpg",
+    "/src/images/Az Yet/getty_13.jpg",
+    "/src/images/Az Yet/getty_14.jpg",
+    "/src/images/Az Yet/getty_15.jpg",
+    "/src/images/Az Yet/getty_16.jpg",
+    "/src/images/Az Yet/getty_17.jpg",
+    "/src/images/Az Yet/getty_18.jpg",
+    "/src/images/Az Yet/getty_19.jpg",
+    "/src/images/Az Yet/getty_2.jpg",
+    "/src/images/Az Yet/getty_20.jpg",
+    "/src/images/Az Yet/getty_3.jpg",
+    "/src/images/Az Yet/getty_4.jpg",
+    "/src/images/Az Yet/getty_5.jpg",
+    "/src/images/Az Yet/getty_6.jpg",
+    "/src/images/Az Yet/getty_7.jpg",
+    "/src/images/Az Yet/getty_8.jpg",
+    "/src/images/Az Yet/getty_9.jpg",
+  ],
+
+  videoIds: [
+    "Ij0bj7SpP0w",
+    "qpzPrSRQwTw",
+    "D8vU_zUE664",
+    "3-77PcoXmwo",
+    "Qlk8TF_2Vus",
+    "iOyqsQNps1s",
+    "SmedLIYONqo",
+    "qYEzFEj3BZw",
+    "CL2xpu8RpJM",
+    "fuYwDZR9Fsw",
+    "oqEMSZUEMus",
+    "ISDET5c6oZ4",
+    "z1atPNpU0xA",
+    "19MEAI0Lfqw",
+    "xgsuSPjDWjY",
+    "ZiEgr_E0CVU",
+    "2iOGt6TmPSw",
+  ],
+
+  biography: [
+    { text: "Az Yet is an American R&B group from Philadelphia, best known for their songs \"Last Night\" and the cover \"Hard to Say I'm Sorry\" originally performed by Chicago.", indent: true },
+    { text: "Formed in 1989 initially as a duo with Shawn Rivera and Dion Allen, the two were later joined by Kenny Terry, whom they met singing in the lobby of the Wyndham Hotel in Philadelphia, Claude Thomas, Ali Hyman, Damon Core, & Dyshon Benson.", indent: true },
+    { text: "Az Yet released their self-titled debut album in 1996 on LaFace Records. The album featured a \"who's who\" of musical heavyweights, including David Foster, Babyface, Sheila E., and Brian McKnight. The first single, \"Last Night\", reached No. 9 on the US Hot 100, #1 on the R&B chart, peaked at No. 2 on Australia's ARIA charts, and spent 2 weeks at No. 1 in New Zealand's RIANZ charts, ultimately achieving platinum status in the US. The group's second single, \"Hard to Say I'm Sorry\" (a cover of the Chicago hit featuring Peter Cetera), was nominated for a Grammy award (Best R&B Performance by a Duo or Group with Vocals), reached No. 8 on the Hot 100, and achieved platinum status. Driven by these two singles, the album reached RIAA platinum status.", indent: true },
+    { text: "Fueled by two top ten hits, the group's popularity led them to several television appearances in their early years. Live performances include The Keenen Ivory Wayans Show, All That and two appearances on Soul Train (the first in 1996 with Marc Nelson as the lead singer and the second in 1997 with Tony Grant). The group was also cast as \"TJ's Band\" and appeared in several episodes of the short-lived television drama Fame L.A.", indent: true },
+    { text: "Az Yet toured as featured actors/performers in 2013 with the Broadway musical, My Brother Marvin (The Secret Life of Marvin Gaye), starring Keith Washington, Tony Grant and actress Lynn Whitfield.", indent: true },
+    { text: "Later that year, the group recorded \"Magical Moment\" with Malaysian Idol winner Jaclyn Victor as a theme song for the animated feature film, Ribbit.", indent: true },
+  ],
+
+  albums: [
+    { title: "Az Yet", year: 1996, link: "https://music.youtube.com/browse/MPREb_nQJV54YZqF6" },
+    { title: "She's Magic", year: 2016, link: "https://music.youtube.com/browse/MPREb_Jcs1xKmj9Bh" },
+  ]
+}

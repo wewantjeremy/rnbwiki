@@ -1,0 +1,34 @@
+export default {
+  id: "INOJ",
+  name: "INOJ",
+
+  images: [
+    "/src/images/INOJ/3XajxQqG8OZTKEY3K01ptt_M69_UI9rrJSVvWL2-yAg=.jpg",
+    "/src/images/INOJ/71Q-CI74NXL._UF1000,1000_QL80_.jpg",
+    "/src/images/INOJ/ab6761610000e5ebf25dacecf19bc7cd063fdf71.jpeg",
+    "/src/images/INOJ/images (3).jpeg",
+    "/src/images/INOJ/INOJ_Ready_for_the_World.jpg",
+  ],
+
+  videoIds: [
+    "q96o9AvJO0M",
+    "TefHEfyj6rE",
+    "zbdsWwABKZo",
+    "UtozWuYBJBU",
+    "ggnuaJER-yo",
+    "qWGfrS6E7Ws",
+    "GL_5H_XaoF4",
+  ],
+
+  biography: [
+    { text: "Ayanna Porter (born November 27, 1976), better known by her stage name INOJ (pronounced \"I know J\"), is an American singer and songwriter. Her two Miami bass cover versions in 1997 and 1998, debut single \"Love You Down\" (originally by Ready for the World, for whom she titled her debut album) and \"Time After Time\" (originally by Cyndi Lauper), reached No. 25 and No. 6 in the United States, respectively. \"Time After Time\" was also a top 10 hit in Canada and New Zealand. She also released a version of Anita Ward's \"Ring My Bell\".", indent: true },
+    { text: "INOJ was born in Madison, Wisconsin. As a baby, she started singing War's \"The Cisco Kid\" in her crib before she was talking. She sang in the high school choir. She wanted to have a singing career, but her parents convinced her to pursue engineering, another passion. She decided to attend the University of Baltimore because it was near Washington, D.C., and not too far from New York City, and she had a better chance of connecting with music producers. In her sophomore year of college, she joined a girl group called Spellbound, who got signed to a major label recording contract. The group disbanded, and she became a songwriter.", indent: true },
+    { text: "She was asked by So So Def producers to sing a reference track for someone else to hear and emulate, and she recorded her vocals to \"Love You Down\". The producers immediately put her version out as the final product. At this time, she created her stage name INOJ, pronounced \"eye know jay\". The name is \"Joni\" spelled backwards; her birth name is Ayanna and she had been nicknamed Yanni, but she spelled the nickname \"Joni\" for personal style.", indent: true },
+    { text: "When discussing her musical style in an interview with Billboard, INOJ stated that she doesn't identify with one particular genre of music. According to her, \"I try not to classify my sound, but I think I would call myself rhythm and pop instead of R&B.\" She continued saying, \"R&B is more street today than rhythm and blues, and I'm definitely not urban, so I guess I've come up with a new category of my own.\"", indent: true },
+    { text: "INOJ said she was raised listening to artists such as the Carpenters and Sandy Patty. She is influenced by artists Minnie Riperton, Stevie Wonder, Chicago, Michael Jackson, Backstreet Boys, NSYNC, Shania Twain, Shawn Colvin and Aaliyah.", indent: true },
+  ],
+
+  albums: [
+    { title: "Ready For The World", year: 1999, link: "https://music.youtube.com/playlist?list=PLLQUEn2o_wNo" },
+  ]
+}

@@ -1,0 +1,62 @@
+export default {
+  id: "Samantha Mumba",
+  name: "Samantha Mumba",
+
+  images: [
+    "/src/images/Samantha Mumba/Samantha Mumba_0.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_1.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_10.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_11.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_12.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_13.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_2.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_3.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_4.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_5.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_53.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_57.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_6.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_7.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_8.jpg",
+    "/src/images/Samantha Mumba/Samantha Mumba_9.jpg",
+  ],
+
+  videoIds: [
+    "Qnynn_O71f0",
+    "cFUmz39p-uY",
+    "3utXqCmSQhI",
+    "f-9JtMhwd2E",
+  ],
+
+  biography: [
+    { text: "Samantha Tamania Anne Cecilia Mumba (born 18 January 1983) is an Irish-Zambian R&B singer-songwriter, dancer, actress, fashion model and TV presenter. In 2000, at the age of 17, she shot to fame with the release of her debut single \"Gotta Tell You\", which reached the top five in Ireland, United Kingdom and the United States. It has since been listed in Billboard's 100 Greatest Choruses of the 21st Century. Her album of the same name was released later that year and reached number four in Ireland and number nine in the UK. She has had seven top five hits in Ireland and six top ten hits in the United Kingdom.", indent: true },
+    { text: "Mumba has also pursued an acting career, making her film debut in the 2002 film The Time Machine, as well as appearing in a number of Irish independent films. She returned to music in 2013, and announced plans to release a second album in 2019; however this never came to fruition. Mumba released the singles \"Cool\" and \"Process\" in 2020, \"The Lie\" in 2023 and further \"My Way\" in 2025.", indent: true },
+    { text: "Mumba was born in Dublin, Ireland. Her black father Peter Mumba (died March 2020) was from Zambia and was formerly an aircraft engineer; her white mother is Irish. Mumba has one brother named Omero, who is a rapper and an actor.", indent: true },
+    { text: "When Mumba was 15 years old, she was discovered on a Raidió Teilifís Éireann (RTÉ–Radio Television Ireland) talent show Let Me Entertain You by Irish music executive Louis Walsh (manager of Boyzone and Westlife). Walsh was impressed by her talent and she was signed to Polydor Records.", indent: true },
+    { text: "Mumba subsequently spent several months moving between Denmark, Sweden, UK, and Ireland (via her home country), where she co-wrote and recorded her debut album, Gotta Tell You. She eventually dropped out of school to focus on her music career, explaining that it was becoming difficult to stay in school and work on her music.", indent: true },
+    { text: "Mumba sings contralto. Her first single, \"Gotta Tell You\", was released in 2000 and peaked at number one in Ireland and New Zealand, number two in the UK, number three in Australia, and number four in the US, as well as reaching the top twenty in several countries across Europe. \"Gotta Tell You\" has since been listed in Billboard's 100 Catchiest Choruses of the 21st Century", indent: true },
+    { text: "At the age of 17, Mumba released her debut album, Gotta Tell You, in late 2000. The album reached the top ten in both Ireland and the UK, and number 67 on the Billboard 200. Following the success of Gotta Tell You, she was chosen to play Mara in The Time Machine. Directed by Simon Wells, H.G.Wells'great-grandson, Samantha co-starred with Guy Pearce and her real-life brother, Omero. At the Teen Choice Awards in 2001 and 2002, she was nominated for Choice Music: Best Breakout Artist and Choice Movie: Best Breakout Actress for the film The Time Machine, respectively.", indent: true },
+    { text: "Mumba and fellow teen star Aaron Carter performed a concert at Disney MGM Studios for the Disney Channel titled Aaron Carter and Samantha Mumba in Concert, which was then released on DVD. A year later, she and Carter also appeared on an episode of Nickelodeon's All That.", indent: true },
+    { text: "In 2001, Mumba contributed to the track \"You Raise Me Up\" by the Celtic Tenors. An EP titled Samantha Sings Christmas was released at Christmas 2001, which included covers of \"White Christmas\" and \"All I Want for Christmas Is You\". Samantha Sings Christmas was also included as a bonus disc on some editions of Gotta Tell You.", indent: true },
+    { text: "In 2002, Mumba released a new single \"I'm Right Here\". The video features Damian Marley, son of the late Caribbean singer Bob Marley. The single became Mumba's fifth top-five single in the British Isles. Rumours circulated that Mumba was getting ready to release a second album, Woman and that due to the poor sales of the lead single \"I'm Right Here\" in the US and a short lived time on the UK chart, she was dropped from her label. However, Mumba has since confirmed she was unable to release any new material anyway, due to contract restrictions following the restructure of Polydor Records, which resulted in her being dropped. In 2007, she stated on the Late Late Show that there never was a second album, and the tracks leaked on the internet were attempts by her to find a new sound. [citation needed]", indent: true },
+    { text: "Mumba's second venture into films was in 2003, where she appeared in the film Spin the Bottle. In October 2006, a compilation album, The Collection, was released. The album features songs from Gotta Tell You, B-sides and two new tracks including her single \"I'm Right Here\".", indent: true },
+    { text: "In June 2013, Mumba confirmed her musical comeback on Twitter. On 16 August 2013 she appeared on the RTÉ television show The Hit to compete for a spot in the show's final. The song selected for chart battle was \"Somebody Like Me\" which was released on iTunes immediately afterwards and competed against \"Thinking of You\" by Irish band Republic of Loose. The song peaked at number five on the Irish Singles Chart, marking her first hit single in 11 years.", indent: true },
+    { text: "On 25 June 2015, Mumba played a gig as part of the Dublin Pride Festival, which was described as \"fierce glam altogether\". In early 2017, she participated in a celebrity version of MasterChef Ireland and went on to fill in as co-host on The 6 O'Clock Show while Lucy Kennedy took maternity leave. In 2018, she made her comeback onto British television, firstly as a guest and then a panellist on Loose Women and has confirmed her return to music, sharing pictures of herself in the studio with the likes of Wanya Morris (of Boyz II Men) and MNEK. In January 2019 she confirmed that she hoped to release a second album before the end of the year, but this did not happen.", indent: true },
+    { text: "On 27 November 2020, Mumba released the single \"Cool\", the lead single from her upcoming album, which Mumba has described as \"sexy\", \"different\" and \"more adult\". In December 2020, she followed this with the release of single \"Process\", a song she had written after the death of her father.", indent: true },
+    { text: "In May 2023, Mumba performed at Birmingham Pride. In June 2023, Mumba performed at the Mighty Hoopla music festival in London, where she previewed her cover of Woodkid's 2012 single \"Run Boy Run\"; on 3 June 2023, Mumba released the single \"The Lie\".", indent: true },
+    { text: "On 22 January 2025, Mumba released the single \"My Way\"; the song was also chosen to compete on 7 February 2025 in Eurosong 2025, Ireland's national final to select an entry for the Eurovision Song Contest 2025. She finished in 2nd place with 26 points. The following day, Mumba took to social media hitting out at the panelists on The Late Late Eurosong Special, saying they were \"unnecessarily rude and vile to all the finalists\". In response, RTÉ said they were grateful to the panel for their \"professionalism, insight, integrity and good humour\", saying their role was \"to give their honest reaction to the performances\", adding it was \"in line with the public vote that ultimately made the decision\". Former Eurosong contestant Donal Skehan, who was on the Eurosong 2025 panel, rejected Mumba's criticism, saying he stood by his role and the feedback he gave, describing her remarks as \"completely unprofessional\" and adding \"tearing others down is never a good look\".", indent: true },
+    { text: "Shortly after the success of Gotta Tell You, Mumba became the face of Reebok appearing in print advertising in the UK and Ireland for the Quest range.", indent: true },
+    { text: "Around the same time, Mumba was also seen as the face of the fashion designer Louise Kennedy's spring/summer collection.", indent: true },
+    { text: "In 2004, she was chosen to model the World's Most Expensive Dress: a £5m diamond cobweb dress, created by Scott Henshall, which was showcased at the London premiere for Spider-Man 2.", indent: true },
+    { text: "Shortly after, she became the face of Dior ambassador and launched the Dior Watch Collection in Ireland.", indent: true },
+    { text: "In 2005, Mumba modelled for the Ultimo Per Amore range, available exclusively at the Irish main-street chain Dunnes Stores.", indent: true },
+    { text: "Mumba dated R&B singer Sisqó from 2004 to 2005.", indent: true },
+    { text: "Mumba became engaged to Los Angeles police officer Torray Scales in June 2011. The couple married in Los Angeles on 24 February 2012. In September 2014, she announced that she was pregnant with her first child. In February 2015, she escaped uninjured from a three car pile-up in Los Angeles just weeks before her due date. On 3 March 2015, she gave birth to a baby daughter, whom Mumba and her husband named Sage.", indent: true },
+  ],
+
+  albums: [
+    { title: "Gotta Tell You", year: 2000, link: "https://www.youtube.com/playlist?list=PLMhjthj4Yo2E" },
+    { title: "Woman", year: 2002, link: "https://music.youtube.com/playlist?list=PLC4I1ZA2mfOO3Sje0CD36ofRNvw0wizFj" },
+    { title: "The Collection", year: 2006, link: "https://music.youtube.com/browse/MPREb_Z3krc3IxEgU" },
+  ]
+}

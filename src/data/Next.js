@@ -1,0 +1,39 @@
+export default {
+  id: "Next",
+  name: "Next",
+
+  images: [
+    "/src/images/Next/12585365673_ab14df3313_z.jpg",
+    "/src/images/Next/ab6761610000e5ebb58f9f8c32588c5bfe4388b8.jpeg",
+    "/src/images/Next/maxresdefault-1.jpg",
+    "/src/images/Next/next-american-band-65853b88-48b3-4861-ae4c-de36ba9d686-resize-750.jpeg",
+    "/src/images/Next/Next_-_Too_Close.jpg",
+    "/src/images/Next/Screenshot 2026-07-02 at 8.30.09 PM.png",
+  ],
+
+  videoIds: [
+    "kwEZRPkAAu8",
+    "YKpD4LSTBdE",
+    "aGFZq4od-VQ",
+    "PqiIc4QXofI",
+    "5Ow4-Xc7IYY",
+    "5E4rt0bdNaE",
+    "rKi7jVqRh8s",
+  ],
+
+  biography: [
+    { text: "Next is an American R&B musical trio, popular during the late 1990s and early 2000s. They are best known for their Billboard Hot 100 number-one hit single \"Too Close\". They are also known for \"Wifey\", \"Butta Love\" and \"I Still Love You\", all of which still receive frequent airplay on Urban Adult Contemporary radio stations in the U.S. and internationally.", indent: true },
+    { text: "The group was formed in 1992 by Robert \"R.L.\" Huggar and brothers Raphael \"Tweety\" Brown and Terry \"T-Low\" Brown in Minneapolis, Minnesota after being introduced by the Brown's uncle, a gospel choir director. Originally, they were a quartet known as Straight4ward, and at one point managed by Sounds of Blackness'Ann Nesby, but changed their name to Next after one of their members left. After their demo tape caught the attention of Naughty by Nature's KayGee, he took the group to his Arista label Divine Mill, and they began work on their debut album. [citation needed]", indent: true },
+    { text: "They released their debut single \"Butta Love\", produced by KayGee, D. Lighty, Lance Alexander & Prof. T in September 1997, which became a big R&B hit for the group peaking at No. 4 (and hitting the top 20 on the Billboard Hot 100 chart). Soon after, their debut album, Rated Next was released on September 30, and sold moderately. It was followed in 1998 by the release of their biggest hit to date, \"Too Close\", which hit No. 1 on both the R&B and the Billboard Hot 100 charts. Sales of their debut album surged, helping the album peak at No. 13 R&B and No. 37 on the Billboard 200, eventually being certified double platinum, and earning them American Music Awards, Billboard Awards and Soul Train Awards nominations. A third single \"I Still Love You\" garnered the group another Top 5 R&B hit and a Top 20 on the Hot 100 charts.", indent: true },
+    { text: "In 2000, the group released the lead single \"Wifey\" ahead of their second album for Arista. The song became another No. 1 R&B hit for the group and also featured singer Lil' Mo on background vocals. Their second album, Welcome II Nextasy, was released in June 2000 and was certified gold on the strength of the lead single. A second single \"Beauty Queen\" received moderate airplay, peaking at No. 48 on R&B and No. 59 on the Hot 100. After the album's cycle, the group took a break, leading RL to record and release his debut solo album RL:Ements for Clive Davis'then-new J Records label in 2002, which achieved moderate success with the singles \"Got Me a Model\" and \"Good Man\".", indent: true },
+    { text: "The group also joined the J Records label, and released their third studio album The Next Episode in December of that same year. It featured the lead single \"Imagine That\" which peaked at No. 66 R&B and No. 91 on the Hot 100. Also, they collaborated with Jaheim on his single \"Anything\" off his debut album Ghetto Love which earned the group another Top 10 R&B hit. After leaving the J Records label, they briefly aligned with 50 Cent's G-Unit and with Matthew Knowles' Music World labels, but did not release any music. The group later broke up due to internal conflicts and member T-Low suffering from a career-ending throat condition, but eventually reunited in 2011.", indent: true },
+    { text: "In 2014, the group began and completed work on a new album titled Next, Lies, & Videotape (originally titled Music 101) but it was ultimately shelved. In 2016, the group was featured on TV One's \"Unsung\" series which prompted another reunion for the group after a couple years of being distant. In March 2018, the group premiered their new single \"Want It\" to UAC radio.", indent: true },
+  ],
+
+  albums: [
+    { title: "Rated Next", year: 1997, link: "https://music.youtube.com/browse/MPREb_wfOUpywA6ph" },
+    { title: "Welcome II Nextasy", year: 2000, link: "https://music.youtube.com/browse/MPREb_RBaTDSzgcJ1" },
+    { title: "The Next Episode", year: 2002, link: "https://music.youtube.com/browse/MPREb_5zPGowp6mQK" },
+    { title: "Platinum & Gold Collection", year: 2004, link: "https://music.youtube.com/browse/MPREb_mPV4LxH0ojB" },
+  ]
+}

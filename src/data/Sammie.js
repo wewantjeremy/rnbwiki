@@ -1,0 +1,60 @@
+export default {
+  id: "Sammie",
+  name: "Sammie",
+
+  images: [
+    "/src/images/Sammie/Sammie_0.jpg",
+    "/src/images/Sammie/Sammie_10.jpg",
+    "/src/images/Sammie/Sammie_11.jpg",
+    "/src/images/Sammie/Sammie_12.jpg",
+    "/src/images/Sammie/Sammie_13.jpg",
+    "/src/images/Sammie/Sammie_14.jpg",
+    "/src/images/Sammie/Sammie_15.jpg",
+    "/src/images/Sammie/Sammie_16.jpg",
+    "/src/images/Sammie/Sammie_7.jpg",
+    "/src/images/Sammie/Sammie_8.jpg",
+    "/src/images/Sammie/Sammie_9.jpg",
+  ],
+
+  videoIds: [
+    "YeWp7MNvGxQ",
+    "XpvdQKSCMxg",
+    "GXvyIQEew-8",
+    "MzFTZls3F6A",
+    "QN-wuXa4r2Y",
+    "wuMas7lRhCM",
+    "fr-ykl4DpWw",
+    "53F4a9sU4ek",
+    "tQlYAJa16sM",
+    "HJU0tann9uE",
+    "cO_NXz6jrII",
+  ],
+
+  biography: [
+    { text: "Sammie Lee Bush, Jr. (born March 1, 1987), known by the mononym Sammie, is an American singer and songwriter. He is best known for his 1999 hit single, \"I Like It\", from his debut album, From the Bottom to the Top (2000). He returned with his second studio and self-titled album, Sammie in 2006. Since then, he has released several EPs, mixtapes, and albums including Indigo, Coming of Age, and Everlasting. Sammie announced via Instagram that he would be releasing a new album in 2020 after the completion of the Millennium Tour 2020.", indent: true },
+    { text: "Sammie first gained notice for his voice when appearing on Showtime at the Apollo in 1998, and winning for his rendition of Stevie Wonder's \"My Cheri Amour\". In 1999, Sammie was signed to Capitol Records and released his debut album, From the Bottom to the Top, on March 14, 2000. Debuting at number 46 on the U.S. Billboard 200 charts, it was certified gold by the RIAA for more than 500,000 copies shipped to stores. The first single, \"I Like It\" reached number 24 on the Billboard Hot 100 and number 8 on the Top R&B/Hip-Hop Songs charts, simultaneously became gold-certified by the RIAA. The second single, \"Crazy Things I Do\" was released in early 2000 and peaked at number 39 on the Top R&B/Hip-Hop Songs chart.", indent: true },
+    { text: "In 2001, Sammie also contributed chorus vocals for \"Hardball\", a collaboration with rappers Lil' Bow Wow, Lil' Wayne and Lil' Zane for the Hardball soundtrack. The song reached number 77 on the Top R&B/Hip-Hop Songs chart.", indent: true },
+    { text: "After taking a hiatus from the music industry to focus on school, the singer graduated from West Orange High School in Winter Garden, Florida at age 18 in 2005. He signed to Dallas Austin's Rowdy Records, where he re-entered the studio with top producers Dallas Austin, Jazze Pha, and Bryan-Michael Cox for his second studio album, Sammie (2006). The album debuted at number 42 on the Billboard 200 chart. The first single \"You Should Be My Girl\", featuring YoungBloodz member Sean P, peaked at number 26 on the Top R&B/Hip-Hop Songs chart, while the second single \"Come with Me\" peaked at number 23 on the same chart.", indent: true },
+    { text: "In 2008, Sammie was featured on Soulja Boy's hit single \"Kiss Me thru the Phone\", which peaked at number 3 on the Billboard Hot 100. Also in 2008, he released the single “One Way Street.” In 2012, he co-wrote the song \"Next Breath\" for singer Tank's fifth studio album, This Is How I Feel. Also in 2012, Sammie released his mixtape “Insomnia,” followed by “The Leigh Bush Project” EP in 2013.", indent: true },
+    { text: "In January 2016, Sammie released his retail mixtape, Indigo via his own imprint StarCamp Music. His third album, Coming of Age was released in September 2017. His fourth album Everlasting was released in March 2019. In June 2019, Sammie embarked on “The Everlasting Tour” performing in intimate settings, giving his fans an up close experience. Sammie later dropped an EP called “Send Nudes” in December 2019. He also is in the lineup for The Millennium Tour 2020, joining headliner Omarion, Bow Wow, Pretty Ricky, Soulja Boy, Lloyd, Ashanti, and The Ying Yang Twins. In June 2020, he released his fifth album, \"Such Is Life\".", indent: true },
+    { text: "In June 2022, Sammie participated in the musical web series Verzuz, where he shared the stage with his teammate Pleasure P, and opponents Bobby V and Ray J. Their performances went viral over social media after a string of mishaps on stage, but Sammie was favored by viewers who deemed him a'winner' out of all the participants in their match. This led him to go on a series of boasts on Instagram, where he was challenged by his teammate and opponents. This then led to many live streaming chats where the men discussed their flaws and success and eventually led to an idea to develop and form a supergroup named R.S.V.P. The group currently is in production stages and is working on releasing on EP later this year.", indent: true },
+    { text: "On January 12, 2023, Sammie's mother and former manager, Angila Baxter, was charged with murder for the shooting death of Nekaybaw Collier in Orange County, Florida.", indent: true },
+    { text: "On January 22, 2023, Sammie released a statement on Instagram:", indent: true },
+    { text: "In consideration of the recent news, I would first like to express my most sincere condolences to the family of Mrs. Collier. I understand the severity of the allegations, but I do not have any additional information. At this time, I respectfully request privacy for not only my family, but the family of Mrs. Collier. Thank you. Sammie.", indent: true },
+    { text: "On October 19, 2025, Sammie was arrested and booked in Henry County Jail on domestic violence related charges. He was released on just over a $1,000 bond.", indent: true },
+  ],
+
+  albums: [
+    { title: "From The Bottom To The Top", year: 2000, link: "https://music.youtube.com/browse/MPREb_IuM4lfYIocc" },
+    { title: "Sammie", year: 2006, link: "https://music.youtube.com/playlist?list=PLoeCT-uXIQ9B1V-C_U4pQAaFafYhPIhPd" },
+    { title: "It's Just a Mixtape", year: 2010, link: "https://music.youtube.com/playlist?list=PLn2RClp0Qs4C158Zk5k96COCLUAdRbKZo" },
+    { title: "It's Just a Mixtape 2", year: 2010, link: "https://music.youtube.com/playlist?list=PLA11DE5668E81E0ED" },
+    { title: "Insomnia", year: 2012, link: "https://music.youtube.com/playlist?list=PLMyw0dWAIHv6sBhciUUafv0GF60wjhjyD" },
+    { title: "Indigo", year: 2016, link: "https://music.youtube.com/browse/MPREb_8Vfs9cm8yC7" },
+    { title: "Coming of Age", year: 2017, link: "https://music.youtube.com/browse/MPREb_eDsRiBEDnkC" },
+    { title: "Everlasting", year: 2019, link: "https://music.youtube.com/browse/MPREb_EijB7ftzsGr" },
+    { title: "Such Is Life...", year: 2020, link: "https://music.youtube.com/browse/MPREb_K8dfHQisGfG" },
+    { title: "Sammie (2020 Remastered)", year: 2020, link: "https://music.youtube.com/browse/MPREb_WM5FkzkObbU" },
+    { title: "L.A.W.", year: 2023, link: "https://music.youtube.com/browse/MPREb_4yuq3pZA48R" },
+  ]
+}

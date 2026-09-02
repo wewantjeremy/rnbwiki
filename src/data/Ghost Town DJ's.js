@@ -1,0 +1,27 @@
+export default {
+  id: "Ghost Town DJ's",
+  name: "Ghost Town DJ's",
+
+  images: [
+    "/src/images/Ghost Town DJ's/GI7Y94ep3iFzsCIFYgGRCgSijaXJlYnq0St31qpAJWo=.jpg",
+    "/src/images/Ghost Town DJ's/QtFAzexZ4x_9Td6HRBbGuA4Q1ghY8VaPylnm7PwcKNY=.jpg",
+  ],
+
+  videoIds: [
+    "QxRiwnmYjMg",
+    "lkRk8iMzMy8",
+  ],
+
+  biography: [
+    { text: "Ghost Town DJ's (often stylized as Ghostown DJs) were an American hip-hop / Miami bass group from Atlanta, Georgia, whose members were DJ Demp, Rodney Terry, Greg Street and Kito. They recorded the 1996 hit single \"My Boo\". The Miami bass song was a big hit on Miami's Y100 and Power 96. In early 2016, the song became a viral meme called the \"Running Man Challenge\", which first emerged on Vine.", indent: true },
+    { text: "Rodney Terry founded the group, inspired by the Miami bass genre that was popular during the 1980s. Originally, an artist named Akema Johnson-Day was slated to provide lead vocals for the song with Virgo Williams on background vocals. However, when a scheduling conflict prevented Akema from taking part in the production, Virgo Williams' vocals became the lead vocals. Lil Jon was an A&R director for So So Def at the time and is noted as the executive producer of the song. Rodney Terry and Carl Mahone co-produced it, and it was the second version of the beat currently used in the song.", indent: true },
+    { text: "The group released two albums (Ghetto Bass Beats and Frantic) the same year they released \"My Boo.\" Curiously, however, \"My Boo\" did not appear on either of these albums, with the various-artists compilation So So Def Bass All-Stars serving as the de facto parent album for the hit song.", indent: true },
+    { text: "The name was based upon Luther Campbell a.k.a. Luke Skyywalker's Ghetto Style DJs, a Miami -based DJ crew that was popular in the 1980s. Taking his inspiration from them, Terry chose the name \"Ghost Town DJ's\", which implies the term \"ghost town\" meaning to be heard and not seen. It is the reason why the group's members are never seen, but are enjoying the group's music. A matter of contention has been the misspelling of the name Ghostown DJ's with one T vs Ghost Town DJs, which the group has been trying to correct for many years.", indent: true },
+  ],
+
+  albums: [
+    { title: "Frantic", year: 1993, link: "https://music.youtube.com/playlist?list=OLAK5uy_m806GVIfrrvoe-b_cjV9WIL90cVSHUVCE" },
+    { title: "Ghetto Bass Beats", year: 1996, link: "https://music.youtube.com/playlist?list=OLAK5uy_n6-rrjQ9Xv7x22ecnce5xI4LHiCpzEW2w" },
+    { title: "My Boo (Hitman's Club Mix)", year: 1996, link: "https://music.youtube.com/playlist?list=OLAK5uy_nHeG0Y-J3aTwPZ7EU-5gAnvZZmmg3ICHo" },
+  ]
+}

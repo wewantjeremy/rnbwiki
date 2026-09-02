@@ -1,0 +1,62 @@
+export default {
+  id: "Mila J",
+  name: "Mila J",
+
+  images: [
+    "/src/images/Mila J/Dph6y6Enxsaxdr2hvpGVGByhM-OFI8zG4l-qVpXXB1I=.jpg",
+    "/src/images/Mila J/images.jpeg",
+    "/src/images/Mila J/Mila J_17.jpg",
+    "/src/images/Mila J/Mila J_18.jpg",
+    "/src/images/Mila J/Mila J_19.jpg",
+    "/src/images/Mila J/Mila J_22.jpg",
+    "/src/images/Mila J/Mila J_23.jpg",
+    "/src/images/Mila J/Mila J_24.jpg",
+    "/src/images/Mila J/Mila J_51.jpg",
+    "/src/images/Mila J/Mila J_52.jpg",
+    "/src/images/Mila J/Mila-J-Green-Jacket.jpg",
+    "/src/images/Mila J/Mila-J-Interview-on-The-Breakfast-Club.jpg",
+    "/src/images/Mila J/Mila_J_2018.png",
+    "/src/images/Mila J/p02f4dls.jpg",
+    "/src/images/Mila J/Screenshot 2026-07-02 at 6.38.12 PM.png",
+  ],
+
+  videoIds: [
+    "q3-xPHyorME",
+    "T11NVNwBJ38",
+    "HdjaiXGUam8",
+    "xHUryef94QE",
+    "asexs51AHIY",
+    "ulCO-bB6HjE",
+    "vy3-4uvmpUI",
+    "TN7cD4yubbU",
+    "aGcgShz2ImA",
+    "qxizjuK6-o4",
+    "umhaoXTdTH0",
+    "Uoy01Iy3B0k",
+  ],
+
+  biography: [
+    { text: "Jamila Akiko Aba Chilombo (born November 18, 1982), known professionally as Mila J, is an American R&B singer and rapper. Born and raised in Los Angeles, she is the older sister of R&B singer Jhené Aiko and is known for being in Prince's video for \"Diamonds and Pearls\" and appearing on tracks by RaRa, IMx, Trey Songz and Omarion. She released several singles in 2006–2009 under the name \"Mila J\" and then went on a hiatus for a number of years after the shelving of her original debut studio album, Split Personality, before returning as \"Japollonia\" in 2012 and then reverting to Mila J a year later.", indent: true },
+    { text: "She was signed to Motown from 2013 to 2017 and released two EPs, Made in L.A. (2014) and 213 (2016) while signed to them. In 2017, she released her official debut album, Dopamine. Mila is now an independent artist.", indent: true },
+    { text: "Jamila was born and raised in Los Angeles, California, the daughter of Christina Yamamoto, an art teacher of African-American and Japanese heritage, and Dr. Karamo Chilombo (né Gregory Wycliff Barnes), a pediatrician who performs as a musician under the name Dr. Chill. Her parents later divorced. She has seven siblings: Miyoko, Jahi, Miyagi, Jhené Aiko, Marcia, Dio, and Kareena. Her middle name, Akiko, is of Japanese origin.", indent: true },
+    { text: "In the start of her career, Mila J joined an up-and-coming dance group, bringing her to the attention of Chris Stokes. Through Stokes, Mila auditioned for and starred as a dancer in Prince's \"Diamonds and Pearls\" video, released in 1991. Stokes had begun managing Jamila and her sister Miyoko and eventually led them to form the American R&B group Gyrl. The group began touring with R&B group Immature, which at the time was signed to MCA / Silas Records.", indent: true },
+    { text: "Gyrl's members were Jamila, Miyoko and Paulette Maxwell. While they were backup dancers for Immature, the group's name was Innocence. As backup dancers, they appeared in music videos such as \"Da Munchies\", \"Constantly\", the remix to \"Constantly\", and \"I Don't Mind\". In 1995, Silas Records has released Gyrl's official debut single, \"Play Another Slow Jam\". The song peaked at number 74 on the US Hot R&B Singles, staying on the chart for over six weeks, but did not chart on the US Billboard Hot 100. After the release of their debut single, Paulette left the group. In 1997, Glorika \"Jeanae'\" Briley and Tai-Amber Hoo later joined Gyrl, and released the single \"Get Your Groove On\", featured in the movie B*A*P*S. This single peaked at number 91 on the US Billboard Hot 100 and number 30 on the US Hot R&B Singles chart, staying on the chart for over 14 weeks, becoming their highest chart appearance at that time. After that, the group disbanded. [unreliable source?]", indent: true },
+    { text: "In 2005, Mila was a member of another girl group, Dame Four, with Tomasina Parrot, Tennille Mathis and Mercedes Nelson, who released the single \"How We Roll\". Dame Four split up soon thereafter.", indent: true },
+    { text: "In the early 2000s Mila took a hiatus from the music industry, saying that due to having been in a variety of girl groups, she did not know who she was as an artist. During her hiatus, Mila said, \"I definitely think I was able to really figure out who I was as a solo artist and what I wanted to talk about, what I wanted to address—be myself, basically. It was a break because I was in the industry for a minute.\"", indent: true },
+    { text: "She eventually signed with Universal Motown under the direction of label executive and trail blazer, Sylvia Rhone. After appearing on tracks by RaRa, IMx, and Omarion, Chilombo's debut album was set to be called Split Personality, being executively produced by Chris Stokes, who is also a composer on the record. The album featured a number of appearances from artists on the T.U.G. roster, including proteges and its associates, such as Marques Houston, Young Rome, Rufus Blaq, and The Underdogs. She performed two songs, \"Complete\" and \"I'm Mi\", from the unreleased album during Showtime at the Apollo. Universal stated that the album was set for a summer 2006 release.", indent: true },
+    { text: "In 2012 Jamila redefined herself, changing her name and appearance from the soft feminine Mila J to the rough-around-the-edges Japallonia. She released a mixtape for free download through DatPiff, supported by a music video, \"Blinded\". The mixtape received more than 700,000 downloads. [citation needed] She released her \"Movin On\" music video with VEVO and gave away the single for free on her website and VEVO page.", indent: true },
+    { text: "In 2024 performed as special guest on the Magic Hour Tour headlined by sister Jhene Aiko.", indent: true },
+    { text: "Once again billing herself as Mila J, she released her first single, \"Smoke, Drink, Break-Up\", with the music video premiering on BET's 106 & Park. The single peaked at #33 on the Billboard R&B/Hip-Hop Airplay chart. On May 28, she performed the song at BET's 106 & Park. After the lead single release, she was featured on Trey Songz's Trigga on the song \"Disrespectful\" and several other projects. She was working on the album M.I.L.A., which stands for Made In Los Angeles. She said the album will have a 1990s vibe and contains a lot of relationship-based songs such as \"Pain in My Heart\" and \"Times Like These\". B.o.B, Ty Dolla Sign, Problem are some of the features mentioned on this project. On August 27, she premiered the lyric video of her second single, \"My Main\", produced by DJ Mustard and featuring Ty Dolla $ign, on her YouTube channel.", indent: true },
+    { text: "In 2015, Mila was featured on Jodeci's album The Past, The Present, The Future with a track titled \"Body Parts\". Mila collaborated with duo BC KINGDOM on their joint EP PRESS START, experimenting with sounds unlike her previous work. Her stage name briefly changed to MILA. Critics called the EP \"melancholically dark and edgy\" and a \"Summer's love jam\" for the fans. [citation needed] On June 10, she reverted her stage name back to Mila J and premiered a new single, \"FreakNic\", off her upcoming untitled debut full-length LP. She released her second mixtape, The Waiting Game, on November 12, 2015. In 2016, Mila was featured on the songs \"Don't Get No Betta\" with Timbaland, \"Me and You\", \"TBH\", \"Bad Girls Club\" with Honey Cocaine and Dawn Richard, and a cover of Prince's \"Erotic City\".", indent: true },
+    { text: "In early 2017, Mila left Motown record label and became independent. On April 7, 2017, she released her 13-track debut album, Dopamine.", indent: true },
+    { text: "Mila has cited Janet Jackson as her main inspiration. \"I just love how she entertains\", Mila said of Jackson. \"You go to her shows, she's gon' have a million dancers—lights, camera, action. It was just cool to see a female dancing and singing.\" Mýa, Brandy, Prince and TLC are also huge inspirations to Mila.", indent: true },
+  ],
+
+  albums: [
+    { title: "Split Personality", year: 2006, link: "https://music.youtube.com/browse/MPREb_jjVjp6OPOIO" },
+    { title: "M.I.L.A.", year: 2014, link: "https://music.youtube.com/playlist?list=OLAK5uy_kPI3ktV7hqcUkpehMV8rVsSdQkFhhCGSs" },
+    { title: "213", year: 2014, link: "https://music.youtube.com/playlist?list=OLAK5uy_lGEa1uNYmsC__kTDYf_-6dfX9uUDvIdBI" },
+    { title: "Dopamine", year: 2017, link: "https://music.youtube.com/browse/MPREb_3xyxxNXBlER" },
+    { title: "Holiday", year: 2019, link: "https://music.youtube.com/browse/MPREb_wE8jAcO9BqD" },
+  ]
+}

@@ -1,0 +1,36 @@
+export default {
+  id: "Tony Thompson",
+  name: "Tony Thompson",
+
+  images: [
+    "/src/images/Tony Thompson/Sexsational_(Tony_Thompson_album).jpg",
+    "/src/images/Tony Thompson/Tony Thompson_0.jpg",
+    "/src/images/Tony Thompson/Tony Thompson_10.jpg",
+    "/src/images/Tony Thompson/Tony Thompson_11.jpg",
+    "/src/images/Tony Thompson/Tony Thompson_41.jpg",
+    "/src/images/Tony Thompson/Tony Thompson_42.jpg",
+    "/src/images/Tony Thompson/Tony Thompson_43.jpg",
+    "/src/images/Tony Thompson/Tony Thompson_45.jpg",
+    "/src/images/Tony Thompson/tony-thompson-singer-581ee781-00b4-4f64-9ad1-411298a77e4-resize-750.jpg",
+  ],
+
+  videoIds: [
+    "Tt5PkPdswPE",
+    "8zrfIQLy0gM",
+    "mX08wt7UKk8",
+  ],
+
+  biography: [
+    { text: "Tony Ulysses Thompson (September 2, 1975 – June 1, 2007) was an American singer–songwriter. Thompson was best known as the lead vocalist of the American R&B quintet Hi-Five, which had hit singles such as \"I Like the Way (The Kissing Game)\" and \"I Can't Wait Another Minute\". After the group disbanded in 1994, Thompson found solo success the following year with his debut album Sexsational in 1995.", indent: true },
+    { text: "Thompson was born in Waco, Texas and raised in Oklahoma City.", indent: true },
+    { text: "In 1984, he started singing solos in the local church choir at the age of eight. He then started singing in local talent shows. Local talent and up-and-coming artist William Walton reached out to Thompson in hopes of making his music dreams a reality. He was noticed by the first Waco, Texas R&B group (Ador) signed by Jive Records. The founding members are Toriano Easley (who is the only other native of Oklahoma City, Oklahoma) and left the group shortly before the scheduled release of self-title Hi-Five debut album; along with Marcus Sanders, Russell Neal, and Roderick \"Pooh\" Clark who were also from Waco. Due to untimely departure of Easley, with expediency Bronx native Treston Irby was brought in late 1990 to complete a five-member lineup. Taking the name Hi-Five, the group signed with Jive Records in 1989. The quintet's self-titled Hi-Five debut album, released September 1990, went platinum and produced several hits, including \"I Like the Way (The Kissing Game)\", \"I Can't Wait Another Minute\", and \"Just Another Girlfriend\". In 1992, the group released their second album, Keep It Goin' On, with \"She's Playing Hard to Get\" and \"Quality Time\". Their third album, Faithful, was released in 1993.", indent: true },
+    { text: "Thompson had one son, named Tevin Thompson, who currently resides in Waco.", indent: true },
+    { text: "Thompson's only solo album, Sexsational, was released on Giant Records in 1995. After a three-year (1997–2000) stint on Bad Boy Records, Thompson formed his own record label, N'Depth, and re-incarnated Hi-Five with four new members. The group's next album The Return was released in 2005. There was also a limited-run edition of a Christmas 2004 album titled \"Five Days to Christmas.\"", indent: true },
+    { text: "During a November 4, 2005 promotional radio appearance with then-DJ Wendy Williams, Thompson and re-formed bandmates were confronted with a cease and desist letter, which Williams read aloud. Sent on behalf of two former Hi-Five bandmates, the letter cited their legal ownership of the Hi-Five name. This stopped distribution of album/CD and sales. Shortly afterward on November 22, 2005, a lawsuit was filed in the United States District Court for the Southern District of New York as a third former bandmate joined the initial complaint. The action would prohibit Thompson, an original founding member from using the trademark \"Hi-Five\" name, that expired 1997 and not renewed; alleging agreement while minors, in connection with recordings not featuring all five original band members. Anthony Thompson was named as lead defendant, along with one of the former 1990’s members, and three John Does (new bandmates), several distributors, retail outlet stores including Amazon and Walmart and RN'D, his primary distributor. Legally, the Court case was not dropped; nor dismissed until August 2009, continuing over two years after Thompson's death.", indent: true },
+    { text: "On June 1, 2007, Thompson's body was discovered by security officers at around 10 p.m. near an air-conditioning unit outside of an apartment complex in his native Waco, Texas. An autopsy later determined that he had died from \"toxic effects of chlorodifluoromethane,\" or inhaling a toxic amount of freon. On June 10, 2010, a special ceremony was held for Tony Thompson's grave site headstone installation. Thompson is buried at Doris Miller Memorial Park in Waco, Texas.", indent: true },
+  ],
+
+  albums: [
+    { title: "Sexsational", year: 1995, link: "https://music.youtube.com/browse/MPREb_ZcYM01beQ5A" },
+  ]
+}

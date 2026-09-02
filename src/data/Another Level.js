@@ -1,0 +1,42 @@
+export default {
+  id: "Another Level",
+  name: "Another Level",
+
+  images: [
+    "/src/images/Another Level/500156f777e7c554c70b265243680c1b1cee0fdd.jpeg",
+    "/src/images/Another Level/A-12287-1762688400-5021.jpg",
+    "/src/images/Another Level/ab67616d00001e02484e004c4066d10fd0924011.jpeg",
+    "/src/images/Another Level/alevel.jpg",
+    "/src/images/Another Level/getty_4.jpg",
+    "/src/images/Another Level/getty_5.jpg",
+  ],
+
+  videoIds: [
+    "q3qDESAvzh0",
+    "6N02N1f0qvI",
+    "avl14kvAxDM",
+    "d44kDqYNr8k",
+  ],
+
+  biography: [
+    { text: "Another Level is an English soul and R&B-influenced boy band that formed in 1997 originally consisting of Mark Baron, Dane Bowers, Bobak Kianoush and Wayne Williams. They achieved seven top ten singles, including the band's only number one single \"Freak Me\" in 1998.", indent: true },
+    { text: "In 2013, the band were about to reunite for the ITV2 documentary The Big Reunion; however, Williams and Baron chose not to take part in the show. Bowers was the only member to take part in the show and joined the supergroup 5th Story along with Kenzie from Blazin' Squad and former soloists Adam Rickitt, Kavana and Gareth Gates.", indent: true },
+    { text: "According to the British Phonographic Industry (BPI), Another Level has been certified for sales of 400,000 albums and 1 million singles in the UK.", indent: true },
+    { text: "Dane Bowers and Wayne Williams were both students of the BRIT School of Performing Arts & Technology in the London Borough of Croydon when they were discovered. Williams enrolled at the school in 1995, while Bowers was in the year below, but started in 1994.", indent: true },
+    { text: "Another Level were originally conceived by Nick Raphael and Christian Tattersfield for their new record label project Northwestside Records, a BMG sub-label in the United Kingdom that had also signed Jay-Z's Roc-A-Fella Records unit in 1998.", indent: true },
+    { text: "The group originally consisted of Mark Baron, Bobak Kianoush and Williams, but Williams soon persuaded Bowers to join the group. Due to Northwestside's position as an urban marketed record label, a number of R&B and hip hop stars guested on Another Level's songs. These included Jay-Z, Ghostface Killah and TQ, amongst others.", indent: true },
+    { text: "Another Level had seven top 40 singles in two years, including 1998's UK singles chart number one \"Freak Me\" (a cover of the 1993 hit by US group Silk ), and a platinum-selling, eponymous debut album.", indent: true },
+    { text: "1999's gold -selling Nexus followed, along with Brit Awards nominations, and the opening slot on Janet Jackson's European tour. Shortly after the release of the album's third single \"Bomb Diggy\", Williams abruptly departed the group to pursue a solo career. Shortly afterwards, Kianoush quit the group, leaving Baron and Bowers to continue as a duo until they split up in early 2000. Bowers went on to have success with Jonny L and Victoria Beckham as part of the Truesteppers' record \"Out of Your Mind\", as well as two, number nine, solo hit single releases. Williams went on to start up his own record label with his brother Jason. His debut album Fame And Fortune failed to make an impact on the UK charts.", indent: true },
+    { text: "On 27 August 2013, Another Level were on the verge of signing up for the ITV2 documentary, The Big Reunion, but Williams announced that he would not take part. In an interview with MTV UK, he said: \"I decided not to participate in The Big Reunion because it wouldn't feel right to me...I'm in a totally different space in my life and I don't feel any need to look back.\" Bowers was the only member to take part in the show as he joined supergroup 5th Story along with Kenzie from Blazin' Squad and former soloists Adam Rickitt, Kavana and Gareth Gates.", indent: true },
+    { text: "On 25 September 2021, a reformed Another Level, consisting of Baron, Bowers and Kianoush, made a one-off appearance at the Kisstory Festival, marking their return to the stage. This performance occurred without Williams, who chose not to participate.", indent: true },
+    { text: "In 2024, the group were invited to headline the first RnB Nation festival alongside R&B group Damage. Bowers and Baron signed up for the show and used the opportunity to announce the new line up consisting of themselves alongside new members Shaun Hoyte and tour DJ, Greg Costa.", indent: true },
+  ],
+
+  albums: [
+    { title: "Another Level", year: 1998, link: "https://music.youtube.com/browse/MPREb_MESYvfXbcoP" },
+    { title: "Nexus...", year: 1999, link: "https://music.youtube.com/browse/MPREb_OrcLNPIwOrU" },
+    { title: "Love Songs", year: 2002, link: "https://music.youtube.com/browse/MPREb_FcSfdEZzPJk" },
+    { title: "From The Heart - The Greatest Hits", year: 2002, link: "https://music.youtube.com/browse/MPREb_rtvHKX0a0a1" },
+    { title: "Freak Me: The Collection", year: 2016, link: "https://music.youtube.com/browse/MPREb_jNv5ooefSbI" },
+  ]
+}

@@ -1,0 +1,60 @@
+export default {
+  id: "Shola Ama",
+  name: "Shola Ama",
+
+  images: [
+    "/src/images/Shola Ama/1164739_v9_aa.jpg",
+    "/src/images/Shola Ama/ab67616d0000b2738970b2e353fe8ab59146bb9f.jpg",
+    "/src/images/Shola Ama/MV5BMzY5OTYwMzMtYTlhOS00YWM5LTk3OWQtMjdlZjBhNWQ4MWI0XkEyXkFqcGc@._V1_.jpg",
+    "/src/images/Shola Ama/Shola Ama_0.jpg",
+    "/src/images/Shola Ama/Shola Ama_11.jpg",
+    "/src/images/Shola Ama/Shola Ama_19.jpg",
+    "/src/images/Shola Ama/Shola Ama_20.jpg",
+    "/src/images/Shola Ama/Shola Ama_21.jpg",
+    "/src/images/Shola Ama/Shola Ama_22.jpg",
+    "/src/images/Shola Ama/Shola Ama_23.jpg",
+    "/src/images/Shola Ama/Shola Ama_24.jpg",
+    "/src/images/Shola Ama/Shola Ama_25.jpg",
+    "/src/images/Shola Ama/Shola Ama_3.jpg",
+    "/src/images/Shola Ama/Shola Ama_6.jpg",
+    "/src/images/Shola Ama/Shola_Ama-You're_the_One_I_Love.jpg",
+  ],
+
+  videoIds: [
+    "ltcGvx5sO9U",
+    "Kd0PD5MbMnE",
+    "CvExlztbZV0",
+    "qLl8f-6KTcM",
+    "Eu63YX_Rlew",
+    "4y_Ycahe2uc",
+    "oCr0Q0ohGcY",
+    "BgZPkvzjoU0",
+  ],
+
+  biography: [
+    { text: "Shola Ama (born 8 March 1979) is a British singer from London, who scored her biggest hits with \"You Might Need Somebody\" (1997), a cover of Randy Crawford's 1981 hit, \"You're the One I Love\" and \"Still Believe\" (1999) which was one of the first productions by the Norwegian producing team Stargate.", indent: true },
+    { text: "When she was 15, Ama was singing to herself on a platform at Hammersmith tube station, and was overheard by Kwame Kwaten, a producer at the FreakStreet record label. In 1995, an unknown independent label released a single titled \"Celebrate\", which was a ballad produced by D'Influence. Although the single was not a commercial success, it did draw attention to Shola Ama as an artist. On her 16th birthday, she signed a recording contract with WEA.", indent: true },
+    { text: "The single \"You're the One I Love\" was Ama's first single release for WEA in 1996; it barely made a dent in the charts, only managing to reach No. 85. Her second WEA single, \"You Might Need Somebody\", a Turley Richards cover, became her breakthrough hit, reaching No. 4 on the UK Singles Chart in April 1997. It remained in the top 40 for almost two months, becoming one of 1997's biggest hits. A re-release of \"You're the One I Love\" followed in August 1997 and reached No. 3. Her third single \"Who's Loving My Baby\" was released in November 1997 and reached No. 13. At the age of 18, Shola Ama released her debut album Much Love (1997).", indent: true },
+    { text: "In May 1997, Ama performed her single \"You Might Need Somebody\" at Wembley Stadium as part of the build-up to the rugby league Challenge Cup Final.", indent: true },
+    { text: "On the success of the album, Ama won a Brit Award for Best British Female and two MOBO Awards for Best Newcomer and Best R&B Act.", indent: true },
+    { text: "In 1999, Ama released her second album In Return. The project saw her working with the record producers Fred Jerkins III, Stargate, Shaun Labelle, Full Crew, D-Influence Productions and Ali Shaheed Muhammad (formerly of A Tribe Called Quest). Co-writers included Angie Stone and Babyface with David Foster.", indent: true },
+    { text: "Despite having support from her record label, In Return was a commercial flop. Following this, Ama took a break from recording.", indent: true },
+    { text: "In 2002, Ama went back into the recording studio to record her third album, Supersonic. Unable to obtain a major label deal, she instead formed a distribution deal with Pony Canyon.", indent: true },
+    { text: "In 2004, Ama featured on the track \"You Should Really Know\" by the Pirates, a response in song to Mario Winans'\"I Don't Wanna Know\" which reached No. 8 on the UK chart.", indent: true },
+    { text: "Ama also mentored her sister Sadie Ama, who signed her own recording contract and released \"So Sure\" (2004) and \"Fallin\" (2007).", indent: true },
+    { text: "Ama featured as vocalist on the Perempay & Dee single \"DJ Play\". The song was released in October 2009 and received heavy rotation on the radio. She also featured on one of rapper Giggs'songs, \"Cut Above the Rest\", and later featured on the bonus disc to his album, Let Em Ave It, on a song called \"Blow Em Away\".", indent: true },
+    { text: "In February 2010, Ama joined a new collective group formed by Wiley called A-List, alongside her sister Sadie Ama and grime musicians Roll Deep, Mz. Bratt, Wrigley, Margs, Young Kye and Kivanc.", indent: true },
+    { text: "In 2013, Ama narrated on the show My Crazy Jamaican Life.", indent: true },
+    { text: "In October 2015, Ama released a new 8-track EP featuring new reggae influenced tracks titled Surreal on Necessary Mayhem Records, 13 years after her last album Supersonic in 2002.", indent: true },
+    { text: "In April 2016, she featured on the album System Killer by Frisco on the song \"Rocket\".", indent: true },
+    { text: "Ama was born in London to a Scottish father and Dominican mother of Saint Lucian descent. Her father abandoned her when she was young.", indent: true },
+  ],
+
+  albums: [
+    { title: "Much Love", year: 1997, link: "https://music.youtube.com/playlist?list=PLoeCT-uXIQ9BHzgKr30M3jgYNvOVowgBn" },
+    { title: "In Return", year: 1999, link: "https://music.youtube.com/browse/MPREb_WJkGFLKyVTr" },
+    { title: "Supersonic", year: 2002, link: "https://music.youtube.com/browse/MPREb_n6y3Le4yVqJ" },
+    { title: "Surreal (feat. Curtis Lynch)", year: 2015, link: "https://music.youtube.com/browse/MPREb_NwAKdOos8m4" },
+    { title: "In Return (25th Anniversary)", year: 2025, link: "https://music.youtube.com/browse/MPREb_irpbqecnrEh" },
+  ]
+}

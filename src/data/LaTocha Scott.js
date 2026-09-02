@@ -1,0 +1,60 @@
+export default {
+  id: "LaTocha Scott",
+  name: "LaTocha Scott",
+
+  images: [
+    "/src/images/LaTocha Scott/51aLXoXmhoL._UF1000,1000_QL80_.jpg",
+    "/src/images/LaTocha Scott/780465_v9_ba.jpg",
+    "/src/images/LaTocha Scott/images (1).jpeg",
+    "/src/images/LaTocha Scott/images (2).jpeg",
+    "/src/images/LaTocha Scott/images (3).jpeg",
+    "/src/images/LaTocha Scott/images (4).jpeg",
+    "/src/images/LaTocha Scott/images (5).jpeg",
+    "/src/images/LaTocha Scott/images (6).jpeg",
+    "/src/images/LaTocha Scott/images (7).jpeg",
+    "/src/images/LaTocha Scott/images.jpeg",
+    "/src/images/LaTocha Scott/LaTocha Scott_12.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_13.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_14.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_15.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_17.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_22.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_35.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_47.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_51.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_53.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_54.jpg",
+    "/src/images/LaTocha Scott/LaTocha Scott_58.jpg",
+    "/src/images/LaTocha Scott/latocha-scott-residuals-tgj.jpg",
+    "/src/images/LaTocha Scott/LaTocha.jpg",
+    "/src/images/LaTocha Scott/MV5BNThiZmRjZDMtYjNmNi00YWRkLWE3MjktZTIyZmMyN2ZmMzg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  ],
+
+  videoIds: [
+    "ZaJpKQNOXOA",
+    "o9SMhyF1bVY",
+    "y7FaWzntKBU",
+    "eY8XBYWwCsc",
+  ],
+
+  biography: [
+    { text: "LaTocha Scott (born October 2, 1972) also known by her mononym LaTocha, is an American singer-songwriter. She rose to fame in the early 1990s as a member of Xscape. Scott sang lead on the group's singles \"Who Can I Run To\", \"The Arms of the One Who Loves You\", and \"My Little Secret\", all of which peaked in the top-ten of the Billboard Hot 100 and became earn platinum and gold certification by the Recording Industry Association of America.", indent: true },
+    { text: "In 2013, she was featured in the TVOne reality show R&B Divas: Atlanta. In 2017, she reunited with Xscape for The Great Xscape Tour. In April 2023, she released her second studio album The Invitation: A Conversation with God on Motown Gospel.", indent: true },
+    { text: "Throughout her career, Scott has sold over 12 million records with Xscape. Her work with the group has earned her several and nominations, including a Soul Train Music Award, a Black Music Honors Lifetime Achievement Award, an honorary Soul Train Lady of Soul Award.", indent: true },
+    { text: "Scott was born in Atlanta, Georgia to her father, Rev. Randolf Scott and her mother, Gloria McFarlin who worked as a teacher at school. She is the elder sister to fellow Xscape member Tamika Scott. At the age of 6, she began to sing in church, weddings, and local talent shows. At 11, she had recorded her first song with her sister Tamika. Scott attended TriCities High School of Performing Arts in Atlanta, Georgia, transferring to Tri-Cities High School in East Point, Georgia graduating in 1991.", indent: true },
+    { text: "In 1990, Xscape was formed by Kandi Burruss, Tamera Coggins, Tameka Cottle, sisters LaTocha Scott and Tamika Scott. The group met while attending Tri-Cities High School in East Point, Georgia. In 1991, they were invited to sing at Jermaine Dupri's birthday party. Dupri eventually signed the group to his record label So So Def. In August 1993, the group released their debut single \"Just Kickin' It\". They released their debut album Hummin' Comin' at'Cha in October 1993, which established the group as a viable act in the music industry. The group released their platinum-selling second album Off the Hook in 1995. The album featured songs such as \"Feels So Good\" and Who Can I Run To, the latter of which features Scott on shared lead vocals and became a platinum-selling single. Off the Hook won a Soul Train Music Award for R&B/Soul Album of the Year – Group, Band or Duo in 1996.", indent: true },
+    { text: "In April 1998, the group released the single \"The Arms of the One Who Loves You\", which features Scott on co-lead vocals. The song became a top-ten Billboard Hot 100 song and sold over 800,000 copies in the United States, earning a gold certification by the Recording Industry Association of America (RIAA). During the recording of the Xscape's third album Traces of My Lipstick, Scott announced her plans to go solo. She recorded a song titled \"Promises\" for the compilation album eMusic Presents NFL Jams, released in 1998. Released in May 1998, Traces of My Lipstick peaked at number twenty-eight on the U.S. Billboard 200 and eventually earned a platinum certification by the Recording Industry Association of America in 1999. The album also spawned another Billboard Hot 100 song \"My Little Secret\", which became certified gold in the US.", indent: true },
+    { text: "In 1999, Scott left Xscape to pursue her solo career and record a solo album for So So Def Records. In October 1999, LaTocha Scott released a single titled \"Liar Liar\" on the soundtrack of comedy drama film The Best Man. By 2000, Scott experienced multiple push-back release dates on her album Life Goes On before it was ultimately shelved under Jermaine Dupri's So So Def record label. After her album was shelved, Scott briefly reformed Xscape but Burruss declined to rejoin the group. As a trio, Xscape appeared on Lil' Bow Wow's debut single \"Bounce with Me\". The group disbanded in late 2000.", indent: true },
+    { text: "In 2002, Scott appeared a featured vocalist on Trick Daddy's single \"Thug Holiday\". The song peaked at number 87 on the Billboard Hot 100 and number 24 on the US Hot Rap Songs. In October 2003, Scott released her first album Solo Flight 404 on Georgia-based label Raw Deal Records. The album spawned a single \"Still Ghetto\" which failed to make an impact on the charts. Without the support of a major label, the project was ultimately considered a commercial failure. In 2005, Scott reformed Xscape with original members Tameka Cottle and Tamika Scott, along with new member Kiesha Miles. The group recorded a full album titled Unchained but the album was shelved shortly after the release of a single \"What's Up\", which failed to chart and received minor radio airplay. The group also did a few concert performances before disbanding by 2006 after failing to agree on management.", indent: true },
+    { text: "In April 2012, Scott resurfaced with the release of her single \"Bad Timing\". She appeared as a cast member in the second season of the TV One show R&B Divas: Atlanta in 2013. In February 2013, Scott and her sister Tamika Scott performed as Xscape at the So So Def 20th Anniversary Concert.", indent: true },
+    { text: "On June 25, 2017, Xscape reunited and performed at BET Awards 2017, marking their first performance together in eighteen years. In November 2017, the group embarked on their headlining tour The Great Xscape Tour. In late 2017, Xscape premiered their own reality show titled Xscape: Still Kickin' It on Bravo network. The reality show was centered around the group resolving internal conflicts, preparation and rehearsals for their upcoming tour, and personal endeavors. The group downsized to a trio after fellow member Burruss departed and the remaining members began performing as Xscap3. In March 2018, Xscap3 released an extended play titled Here for It, which spawned two singles: \"Wifed Up\" and \"Dream Killa\". In 2020, she released a cookbook titled LaTocha Planted Lifestyle. In December 2022, LaTocha Scott departed from the group to pursue her solo career, following a dispute between her husband and manager, Rocky Bivens, and a promoter. SWV & Xscape: The Queens of R&B, a reality show centered around both female groups, premiered on March 5, 2023, and chronicled Scott's departure from Xscape.", indent: true },
+    { text: "In April 2023, Scott released her second album The Invitation: A Conversation with God on Motown Gospel. The album spawned the singles \"Stay With Me\", \"I'm Yours\", and \"Afraid\".", indent: true },
+    { text: "In 1995, she married music manager Rocky Bivens. Their son Jamon was born in August 1997.", indent: true },
+  ],
+
+  albums: [
+    { title: "Solo Flight 404", year: 2003, link: "https://music.youtube.com/playlist?list=OLAK5uy_mEV6D7PSacJwByA2w4RwAEqv6iFQYaFy8" },
+    { title: "The Invitation: A Conversation With God", year: 2023, link: "https://music.youtube.com/playlist?list=OLAK5uy_n06o60nfkjR4Qy4YqIaYvoOgQ-CPlGYsk" },
+    { title: "This Christmas Wrapped With love", year: 2023, link: "https://music.youtube.com/playlist?list=OLAK5uy_nxlwYV32WR8nNPH9TJUFgrWcmBa9yD96g" },
+  ]
+}

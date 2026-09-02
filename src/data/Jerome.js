@@ -1,0 +1,30 @@
+export default {
+  id: "Jerome",
+  name: "Jerome",
+
+  images: [
+    "/src/images/Jerome/image54.jpg",
+    "/src/images/Jerome/image55.jpg",
+    "/src/images/Jerome/image57.jpg",
+  ],
+
+  videoIds: [
+    "8HxU9Hw9jgg",
+    "Z9ZFbJpl6M8",
+    "hMMthW4TVlc",
+  ],
+
+  biography: [
+    { text: "Jerome (born Stanley Jerome Childers from Akron, Ohio) is a male R&B singer who has been in the music business since he was only 9 years old. He has worked in artists & producers such as Kelly Price, Mario Winans, Rodney “Darkchild” Jerkins, Faith Evans, Cheryl Pepsii Riley, the late Heavy D, Ron Grant and Kelly Price. Jerome was first discovered by Diddy and signed to his record label Bad Boy Records. He made his first musical appearance on the Bad Boy compliation album “Nothin’ But the Hotness in ’98.” He also appeared on the soundtrack to the film “Belly” with a cover version of Stevie Wonder’s song “Never Dreamed You’d Leave in Summer.” In 1998, he released the single “Too Old For Me.” It’s unknown how or if the song made the charts at all, but it was released on the “Bad Boy Greatest Hits Volume 1” compliation album.", indent: true },
+  
+    { text: "Jerome’s song “Dear Ivette” was featured on the 1999 Bad Boy Entertainment EP “Emotional.” Another song of his “No Disturb Sign” was also released. Around the age of 13, Jerome left Bad Boy Records. According to him in an interview on the unofficial Bad Boy fan blog, his reason for leaving the label was: “Well, it just a mixture of the growing pains and the pressure of the music business. I had a nervous breakdown and it was in Puffy’s best interest to not keep the project.” Jerome’s debut album was supposed to be released in 2000, but also according to him in the interview on the Bad Boy fan blog about the album: “Yeah, I had about a good 13 songs ready for an album to come out, before I had a little breakdown. Like I said, it was a mixture of growing pains, such as my voice and the mental things you go through when you go through puberty and so many other things. And then the pressure of the music business compounded that and I had a breakdown. I just couldn’t deal with it for that time.”", indent: true },
+  
+    { text: "According to Jerome, he also had issues with his voice. He stated in the interview “Yeah, the crazy thing was that the time when I started going through puberty and then my voice started acting up, I didn’t have a normal voice change. Once my voice started to change, it didn’t change normally. I was going through reflux disease, also. So, you know, there would come times when I would try to hit notes and nothing come out. So, it was driving the whole label and me crazy because we didn’t know what was going on, at the time. We first thought it was the voice change, but we realized it wasn’t the voice change. I had actually gone through the voice change, already. They throught it was alergies. And then, after they realized it wasn’t that, they finally realized it was reflux disease.”", indent: true },
+  
+    { text: "After that, Jerome focused on his education. He graduated from high school and attended the University of Akron where he got his Bachelor’s degree in international business foreign language with a minor in voice. Jerome speaks a few languages such as Spanish, Italian, French, German and a little bit of Korean. He also continued to write & produce tracks and starred in a play called “Paul: A Musical Journey.” In 2009, Jerome released his debut album “Caught Up in Love” which he released through CD Baby. In 2010, he released a holiday album called “Christmas Time is Here” which he released through CD Baby. These days, Jerome continues to be still active in the music business. In 2012, he released the album “God’s Big Picture.” He released his third studio album \"If I Knew You Then\" in 2022 through DitroKid. His album for Bad Boy/Arista remains unreleased.”", indent: true },
+  ],
+
+  albums: [
+  {"title": "Jerome Presents - Too Old For Me (Album Sampler)", "year": 1999, "link": "https://www.youtube.com/watch?v=bKQEOqMuVy0"},
+  ]
+}

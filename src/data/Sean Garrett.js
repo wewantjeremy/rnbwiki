@@ -1,0 +1,44 @@
+export default {
+  id: "Sean Garrett",
+  name: "Sean Garrett",
+
+  images: [
+    "/src/images/Sean Garrett/Sean Garrett_0.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_1.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_23.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_34.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_36.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_40.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_41.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_59.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_6.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_7.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_8.jpg",
+    "/src/images/Sean Garrett/Sean Garrett_9.jpg",
+  ],
+
+  videoIds: [
+    "yx8-MrBTB6w",
+    "agsp-KhBvQs",
+    "KDPhF_LKFrQ",
+    "blq7TFUpcr4",
+    "SPnqEfkck08",
+    "bRAtItN8fmc",
+    "32kJRzP5Flw",
+  ],
+
+  biography: [
+    { text: "Garrett Robin Hamler (born March 30, 1979), known professionally as Sean Garrett, [note 1] is an American singer, songwriter, and record producer. He is known for his songwriting work on several mid-2000s R&B and hip-hop songs, beginning with Usher's 2004 single \"Yeah!\". The song peaked atop the Billboard Hot 100, along with five other songs he co-wrote—\"Goodies\" for Ciara that same year; \"Check on It\" for Beyoncé, \"Run It!\" for Chris Brown in 2005; \"London Bridge\" for Fergie, and \"Grillz\" for Nelly in 2006. In addition, he has co-written 17 other singles that peaked atop the UK Singles, US Hot R&B/Hip-Hop Songs, or Dance Club Songs charts. Garrett has been nominated for four Grammy Awards.", indent: true },
+    { text: "His other notable songwriting credits include Beyoncé's singles \"Diva\", \"Video Phone\", \"Get Me Bodied\", and \"Upgrade U\", as well as Destiny's Child's \"Soldier\", \"Lose My Breath\", and \"Girl\", The Pussycat Dolls'\"Buttons\", Chris Brown's \"Wall to Wall\" and \"Gimme That\", and Summer Walker's \"No Love\". His songwriting is often in tandem with productions by Swizz Beatz, Polow da Don, or Bangladesh.", indent: true },
+    { text: "As a recording artist himself, Garrett has guest performed on the Billboard Hot 100-top 40 singles \"What Them Girls Like\" by Ludacris in 2008, \"Break Up\" by Mario in 2009, and Nicki Minaj's 2010 debut single \"Massive Attack\". His debut studio album, Turbo 919 (2008), was released only in Japan by Interscope Records. His 2010 single, \"Get It All\" (featuring Nicki Minaj), and 2011 single, \"Feel Love\" (featuring Drake or J. Cole), were both included on his debut mixtape, The Inkwell (2011).", indent: true },
+    { text: "A military brat, Garrett was born in Atlanta, Georgia, but moved to Neuenbürg, Germany at the age of five, where he lived until the age of 20. His mother worked for the United States Federal Government, and died when he was young. While in Germany, he attended an international program for the University of Maryland, College Park, from which he received an associate's degree in Business.", indent: true },
+    { text: "His recording career began in his early teens, and he signed with Ariola-BMG at the age of 14, but left the label without any releases. Prior to entering the music business, Garrett worked as a mortgage broker after moving back to the United States.", indent: true },
+    { text: "His debut studio album, Turbo 919, was released June 21, 2008, on his Bet I Penned It Music imprint, through Interscope Records. Garrett's catchphrase, which is featured in multiple songs he has produced, is \"Smash on the radio, bet I penned it\".", indent: true },
+    { text: "Ludacris appeared on Garrett's debut single, \"Grippin'\". In return, [citation needed] Garrett was featured on Ludacris's \"What Them Girls Like\", alongside Chris Brown. He also wrote and produced the song \"I Did It for Love\" for South Korean pop singer BoA's eponymous debut album. Garrett provides the song's background vocals and appears in the music video. In March 2010, Garrett released the first single from his mixtape The Inkwell, \"Get It All\", which features Nicki Minaj. The lead single for Garrett's 2011 album previously titled Courtesy Of, \"Feel Love\", was released on February 4, 2011 and featured J. Cole. In April 2011, he released the single \"In da Box\" featuring Rick Ross.", indent: true },
+    { text: "In June 2025, Garrett discussed working on singer Aaliyah's posthumous studio album, Unstoppable; in May 2025, Aaliyah's single \"Gone\", featuring Tank \", which Garrett co-produced alongside Azul Wynter, was released. On the project, Garrett shared,\"Growing up admiring Aaliyah, who is such an icon, has completely been an inspiration for all of us [...] I could not have been more blessed to have made a record with her and Tank. Amazing voices and talent.\"", indent: true },
+  ],
+
+  albums: [
+    { title: "compilation", year: 2025, link: "https://music.youtube.com/playlist?list=PLADgF5jlCD2E" },
+  ]
+}

@@ -1,0 +1,42 @@
+export default {
+  id: "Smooth",
+  name: "Smooth",
+
+  images: [
+    "/src/images/Smooth/975f8-smoothlegit.jpg",
+    "/src/images/Smooth/Smooth_album.jpg",
+  ],
+
+  videoIds: [
+    "HzQyymFNXUM",
+    "20WnoPLJC_g",
+    "ktTVF7n1oQU",
+    "JzRKrUhOzMU",
+    "QpKEdkKXmrE",
+    "MHmetIwkh1Y",
+    "DpahV2vajGU",
+  ],
+
+  biography: [
+    { text: "Smooth (born Juanita Stokes in Los Angeles, California) is an R&B singer/rapper from the early to mid ’90s. She is the daughter of actress Irene Stokes and the younger sister of music executive Chris Stokes.", indent: true },
+    { text: "In 1990, Smooth released her debut album, “Smooth and Legit” under the name “MC Smooth.” The album was produced by her brother, Chris and ex-NWA member Arabian Prince. The album didn’t generate enough buzz and it only peaked at #72 on Billboard’s R&B Albums chart.", indent: true },
+    { text: "In 1993, Smooth released her second album, “You Been Played” which peaked at #77 on Billboard’s R&B Albums chart.", indent: true },
+    { text: "The title song peaked at #54 on Billboard’s Hot R&B Singles chart, staying on the chart for 13 weeks. The song was also included on the soundtrack to the film, “Menace II Society.”", indent: true },
+    { text: "In 1995, she released her third self-titled album which peaked at #35 on Billboard’s R&B Albums chart and #17 on Billboard’s Heatseekers chart.", indent: true },
+    { text: "The first single, “Mind Blowin” peaked at #75 on the Billboard Hot 100 and #31 on Billboard’s Hot R&B Singles chart, staying on the chart for 16 weeks. The song also peaked at #2 on the U.K. Singles chart.  It was well-received on radio and the music video received moderate airplay on MTV & BET; the video also received some controversy due to the raunchy nature of the song.", indent: true },
+    { text: "The second single from the album, “It’s Summertime (Let It Get Into U)” peaked at #46 on the U.K. Singles chart in July of 1995, staying on the chart for a week.", indent: true },
+    { text: "The third single from the album, “Love Groove” peaked at #46 on the U.K. Singles chart in March of 1996, staying on the chart for a week.", indent: true },
+    { text: "In 1998, Smooth released her fourth album, “Reality” which peaked at #48 on Billboard’s R&B Albums chart and #32 on Billboard’s Heatseekers chart.", indent: true },
+    { text: "The first single, “Strawberries” peaked at #49 on the Billboard Hot 100 and #17 on Billboard’s Hot R&B Singles chart, staying on the chart for 20 weeks. The follow-up single, “He Thinks She Don’t Know” flopped. Soon after, Perspective Records folded into its A&M parent and Smooth was cut from the roster.", indent: true },
+    { text: "In 2002, Smooth signed to her brother’s record label, TUG Records and adopted a new stage name “Needa S.” and began work on a new album called “What?” The album was supposed to feature production by her brother, Platinum Status, Jermaine Dupri, Troy Taylor and Marques Houston along with guest appearances by Da Brat, Jhené, Marques Houston, B2K and Mila J.", indent: true },
+    { text: "Two promo singles were released in early 2003: “Sensitive” and “Baby’s Mama,” but the singles failed to make any impact on the charts at all, the album was shelved.", indent: true },
+    { text: "During late 2003 and early 2004, Smooth provided background vocals for music act TG4 and Jhené’s unreleased debut albums. In 2006, she launched her official MySpace page, revealing a cancelled EP that was set to be released to generate further buzz for her “What?” album.", indent: true },
+    { text: "During that same year, she was featured on Young Rome (a former member of Immature)’s track “Silly of Me.”", indent: true },
+  ],
+
+  albums: [
+    { title: "Smooth & Legit", year: 1990, link: "https://music.youtube.com/watch?v=LKJwcTuHsEU" },
+    { title: "You Been Played", year: 1993, link: "https://music.youtube.com/playlist?list=OLAK5uy_nqQxe57y-RLV8ZJ_Nfz72FeL0-rMWfyWs" },
+    { title: "Reality", year: 1998, link: "https://music.youtube.com/playlist?list=OLAK5uy_m98gRh3qhJDwdSkQdxsUgd142BafvSPBE" },
+  ]
+}

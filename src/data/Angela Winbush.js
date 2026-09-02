@@ -1,0 +1,61 @@
+export default {
+  id: "Angela Winbush",
+  name: "Angela Winbush",
+
+  images: [
+    "/src/images/Angela Winbush/getty_0.jpg",
+    "/src/images/Angela Winbush/getty_1.jpg",
+    "/src/images/Angela Winbush/getty_10.jpg",
+    "/src/images/Angela Winbush/getty_11.jpg",
+    "/src/images/Angela Winbush/getty_12.jpg",
+    "/src/images/Angela Winbush/getty_13.jpg",
+    "/src/images/Angela Winbush/getty_14.jpg",
+    "/src/images/Angela Winbush/getty_15.jpg",
+    "/src/images/Angela Winbush/getty_16.jpg",
+    "/src/images/Angela Winbush/getty_17.jpg",
+    "/src/images/Angela Winbush/getty_54.jpg",
+    "/src/images/Angela Winbush/getty_55.jpg",
+    "/src/images/Angela Winbush/getty_56.jpg",
+    "/src/images/Angela Winbush/getty_57.jpg",
+    "/src/images/Angela Winbush/getty_58.jpg",
+    "/src/images/Angela Winbush/getty_59.jpg",
+    "/src/images/Angela Winbush/getty_8.jpg",
+  ],
+
+  videoIds: [
+    "HKhgZwL8cKk",
+    "OUwPls87pXw",
+    "5ON6bpxyenc",
+    "2U69JykjfeY",
+    "Ug9RBtmSgQE",
+    "xKYQ3MB-IgA",
+    "J4IyDoVGAU0",
+    "kedqE3ixuRw",
+    "J4IyDoVGAU0",
+  ],
+
+  biography: [
+    { text: "Angela Lisa Winbush (born January 18, 1955) is an American R&B/soul singer-songwriter, musician and record producer who rose to fame first in the 1980s R&B duo René & Angela, also scoring hits as a solo artist. Winbush has sold over 10 million albums and singles worldwide.", indent: true },
+    { text: "Born in St. Louis, Missouri, Winbush began singing in church. She grew up in a middle-class area of St. Louis. Winbush is a graduate of Northwest High School. She did not initially aspire to a career in music, instead studying architecture at Howard University, singing only to earn extra money. She continued to sing in church while at Howard as well as with gospel legend Richard Smallwood. She also performed as a singer with a group called \"Hot Tea\" while she attended Howard University.", indent: true },
+    { text: "By 1977, Winbush had changed her major to music education and recorded a demo. She shopped it to various record labels with no success but, through a personal introduction furnished by respected industry veteran, Wayne K. Garfield, the demo was heard by New York disc jockey Gary Byrd, who made the call that landed Winbush a spot in Stevie Wonder's backing vocal group, Wonderlove. As Wonder's protégé, she learned more about writing and arranging songs.", indent: true },
+    { text: "While in Los Angeles with Wonder, Winbush met singer René Moore. The two formed the duo René & Angela later that year. They soon came to the realization that they could be successful as duo music writers and producers for others as well, and began pursuing that goal. René & Angela released their self-titled debut album in 1980, followed by Wall to Wall in 1982 and Rise in 1983. During this period they scored two top 20 R&B hit singles, \"I Love You More\" and \" My First Love.”", indent: true },
+    { text: "During Rene & Angela's early years, Moore and Winbush were asked to write and produce four songs for Janet Jackson's 1982 self-titled debut album, Janet Jackson. One of the songs, \"Young Love,\" became Jackson's first top ten U.S. R&B hit reaching number six on the chart. They also had songs recorded by Rufus & Chaka Khan, Lamont Dozier and Odyssey.", indent: true },
+    { text: "In 1985 they scored a U.S. number one hit with \"I Have Learned to Respect the Power of Love\" by Stephanie Mills, with whom Winbush had forged a close friendship (an earlier version of the song had been recorded by Alton McClain & Destiny). Having signed with Mercury Records, the duo released their breakthrough album, Street Called Desire the same year. Among the hit singles included on the album was their first R&B number one with the dance single, \"Save Your Love (For #1),\" which included guest vocals from rapper Kurtis Blow, making it besides Chaka Khan's \"I Feel For You,\" one of the first songs to prominently feature a rapper. Other hit singles included \"I'll Be Good\", the mostly Winbush-led \"Your Smile\" – another number one hit – and the subsequent \"You Don't Have to Cry\" which hit number two in the beginning of 1986. Eventually Street Called Desire sold over a million copies, going platinum, but on the brink of their greatest success, tensions between Winbush and Moore had grown. After their split, Moore would continue to find success as a songwriter and producer, most notably for Michael Jackson.", indent: true },
+    { text: "In 1986, Winbush was introduced to Ronald Isley, lead singer of the influential Isley Brothers after Benny Medina had agreed to ask Winbush to be involved with the Isleys' next record when Isley proposed plans to work with Winbush on a future project. Producing, writing and arranging the Isleys' Smooth Sailin' album, Winbush helped the group, now featuring just Ronald and Rudolph (eldest brother O'Kelly had died the previous year), score a top 10 R&B hit with the title track.", indent: true },
+    { text: "In turn, Isley opted to manage Winbush and he helped in the process of releasing her debut solo album, Sharp, which was also released in 1987. The album included the hit, \"Angel\" which showcased Winbush's four-octave range. The song reached the No. 1 R&B position for two weeks in 1987. Other notable hits include the dance track, \"Run to Me,\" \"C'est Toi (It's You)\" and the Ron Isley duet, \"Hello Beloved.\" The album spent 28 weeks on the Billboard 200 album chart and 51 weeks on the Hot R&B/Hip-Hop Albums chart.", indent: true },
+    { text: "In 1988, she wrote and produced two tracks for Sheena Easton's gold album The Lover in Me – \"Without You\" and \"Fire and Rain,\" both of which showcased Easton's lower range and soulful vocals. In 1989, Winbush released her second solo album The Real Thing. The title track \"It's The Real Thing\" reached number two on the R&B chart while subsequent hits \"No More Tears\" and \"Lay Your Troubles Down\" continued Winbush's top 40 success on the R&B charts where she was now a fixture on despite failed attempts to cross her over to pop audiences. The album also included her version of \"I Have Learned to Respect the Power of Love\". The same year, Winbush wrote and produced another U.S. R&B number one for Stephanie Mills with \"Something in the Way (You Make Me Feel)\" for Mill's album Home, as well as the album cut \"So Good, So Right\" (previously recorded by D'atra Hicks).", indent: true },
+    { text: "In 1989, Winbush oversaw all songwriting and production on The Isley Brothers'25th album Spend the Night including the U.S. R&B number three hit \"Spend the Night (Ce Soir)\". The following year, she scored more top 20 R&B hits as a writer/producer for R&B girl group Body (\"Footsteps in the Dark\") and newcomer Lalah Hathaway (\"Baby Don't Cry\") as well as contributing cuts to their respective albums. In 1992, Winbush co-wrote and co-produced another album for The Isley Brothers, Tracks of Life, with longtime manager, collaborator and partner Ronald Isley. The album featured the R&B hit \"Sensitive Lover\".", indent: true },
+    { text: "On June 26, 1993, Winbush married Isley, who was 13 years her senior. A year later, Winbush released her third, self-titled solo album, which included the R&B hit, \"Treat U Rite.\" Produced by Chuckii Booker, the song peaked at number six on the R&B chart making it Winbush's ninth top ten R&B hit of her career. In 1996, Winbush produced the bulk of The Isley Brothers' Mission to Please album, which included the hit \"Floatin' on Your Love,\" a duet between Winbush and Ron Isley. The song was later remixed by Sean \"Puffy\" Combs and featured guest vocals from Lil' Kim, with background vocals by 112. The music video showcased Winbush serenading Isley's Mr. Biggs character. Winbush continued to collaborate with the Isley Brothers until 2001's Eternal with Angela notably only contributing to three tracks as their marriage was coming to an end. In 2002, Winbush and Isley quietly divorced. In 2003, it was reported that Winbush had been diagnosed with ovarian cancer. Following successful surgery and treatment, the cancer went into remission and she returned to performing.", indent: true },
+    { text: "Since their beginnings as Rene & Angela, Winbush and Moore have influenced various R&B and hip-hop acts. In hip-hop, their music has been sampled by acts such as The Notorious B.I.G. (who featured her and Jay-Z on \"I Love the Dough\" which sampled Rene & Angela's \"I Love You More\"), Foxy Brown (who sampled her \"I'll Be Good\" for her 1997 top ten hit, \"I'll Be\"), Sylk-E. Fyne's 1998 hit \"Romeo and Juliet\" sampled Rene and Angela's \"You Don't Have to Cry,\" and Avant re-recorded the Rene & Angela ballad, \"My First Love,\" with Keke Wyatt in 2000. In appreciation during Avant's performance of the song on BET's 106 & Park, in 2001, Winbush surprised the audience by singing alongside Avant on the song.", indent: true },
+    { text: "As a singer, Winbush is well noted by her gospel-influenced musical humming during her songs. She has influenced the likes of Syleena Johnson and Chante Moore. Winbush and former partner Rene Moore also shared the distinction for being one of the first R&B acts to prominently feature a rap act in a R&B song sharing that distinction with Jody Watley, Chaka Khan and funk band Cameo. Winbush is also one of the few female artists to achieve success as a songwriter, arranger, producer and session musician. She is a pianist and keyboardist.", indent: true },
+    { text: "During a 2006 interview on the Christian TV show, Gospel of Music with Jeff Majors, Winbush disclosed that she had overcome stage 3 ovarian cancer after six months of chemotherapy in 2003. During the interview she revealed that her undying faith in God helped her cope with the removal of a benign breast cyst, the end of her marriage to Isley, and her struggle with depression.", indent: true },
+    { text: "After years of absence from mainstream TV, in March 2010, Winbush performed \"Angel\", live on the late night talk show The Mo'Nique Show. She was also featured on the TV One documentary Unsung, which first aired in October 2010. It was revealed that Rene Moore became violent with Winbush, in later years, which led Winbush to end her musical partnership with Moore and withdraw from \"Rene & Angela.\" Moore declined to be interviewed for Unsung. In 2011, Angela appeared in a gospel stage play entitled Church Girl where she played a minister named Maya. Also appearing in the play were Demetria McKinney, Wanda Nero Butler, Karen Clark Sheard, and Robin Givens. Additionally, Angela was featured in a movie called Fire And Rain in 2019.", indent: true },
+  ],
+
+  albums: [
+    { title: "Sharp", year: 1987, link: "https://music.youtube.com/browse/MPREb_XnFquyCQiLV" },
+    { title: "The Real Thing", year: 1989, link: "https://music.youtube.com/browse/MPREb_4mHjHSoowAE" },
+    { title: "Angela Winbush", year: 1994, link: "https://music.youtube.com/browse/MPREb_4zpKyceLzxN" },
+    { title: "Greatest Love Songs", year: 2002, link: "https://music.youtube.com/browse/MPREb_1BXcsLLIfJp" },
+  ]
+}

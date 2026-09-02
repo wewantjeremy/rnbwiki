@@ -1,0 +1,52 @@
+export default {
+  id: "Snoh Aalegra",
+  name: "Snoh Aalegra",
+
+  images: [
+    "/src/images/Snoh Aalegra/750x750.jpg",
+    "/src/images/Snoh Aalegra/Sheri_2009.jpg",
+    "/src/images/Snoh Aalegra/Snoh Aalegra_6.jpg",
+    "/src/images/Snoh Aalegra/Snoh_Aalegra_April_2016_(cropped_portrait).jpg",
+  ],
+
+  videoIds: [
+    "4976Fgvf5Ps",
+    "rzRh6Eon5DQ",
+    "TGCknlBS3VY",
+    "4okpRs9LRDE",
+    "YKeXXnyvMgI",
+    "ZvmDcqS2LmU",
+    "1r_3VIINSkQ",
+    "2u6cw8T-RvA",
+    "ORFO_JbsmNU",
+    "QUu7uWgNUeg",
+  ],
+
+  biography: [
+    { text: "Snoh Sheri Nowrozi (born Shahrzad Fooladi, 13 September 1987), better known by her stage name Snoh Aalegra (/ ˈ s n oʊ ˈ æ l i ɡ r ɑː /), is a Swedish R&B singer. Her debut album, Feels, was released in 2017, followed by Ugh, Those Feels Again in 2019.", indent: true },
+    { text: "Aalegra was born on 13 September 1987 in Uppsala, Sweden, to Persian parents from the south of Iran. Her birth name is the Persian form of the character Scheherazade. She grew up in Enköping, moving there with her mother following her parents' divorce. They later relocated to Stockholm. Aalegra began writing music at the age of 9.", indent: true },
+    { text: "In 2001, at the age of 13, Aalegra signed an artist development deal with Sony Music Sweden. However, she eventually parted ways with the label with no music being released.", indent: true },
+    { text: "In 2009, Aalegra began her musical career using the mononym Sheri. She released her debut single \"Hit and Run\" on 16 February 2009, with production by Andreas Carlsson. The single peaked at number 12 on the Swedish Single Charts. She released her second single \"U Got Me Good\" on 4 December 2009, reaching number 2 on the Swedish Single Charts.", indent: true },
+    { text: "On 6 April 2010, under the name Sheri, she released her debut studio album First Sign, through Universal Music Sweden. The album features a cover of the 1984 song \"Smooth Operator\" by Sade, as well as the singles \"Hit And Run\" and \"U Got Me Good\".", indent: true },
+    { text: "In 2013, Aalegra signed to No I.D.'s ARTium Recordings. In July 2014, she debuted her new stage name, Snoh Aalegra, and appeared on Common's tenth studio album, Nobody's Smiling, featuring on the song \"Hustle Harder\". Later that year, in October 2014, She released her debut single, \"Bad Things\" featuring Common. She followed with the release of her debut EP, There Will Be Sunshine, on 17 November 2014, through ARTium/ Epic. The EP includes the track \"Stockholm, Pt. II (Outro),\" featuring Cocaine 80s.", indent: true },
+    { text: "In 2014, she became a protégé of Prince after he discovered her music and reached out to her. He mentored her until his death in 2016.", indent: true },
+    { text: "In February 2015, Aalegra said she had changed her legal name to Snoh Nowrozi. She added \"Aalegra\" to her stage name because it means \"joyful\" in Italian (altering the spelling of \"allegra\" to make it her own), and because there was already an artist named Snoh. On 11 February 2015, Aalegra released her first single under the name Snoh Aalegra, titled \"Emotional\", produced by RZA. That same year, she also featured on Vince Staples'debut album, Summertime'06 in June, providing vocals for the songs \"Jump Off the Roof\" and \"Señorita\".", indent: true },
+    { text: "On 8 April 2016, Aalegra released the EP Don't Explain through ARTium Recordings. The EP featured production from James Fauntleroy, No I.D., Boi-1da, Christian Rich and DJ Dahi. The EP features a cover of the 1944 song, \"Don't Explain\" by Billie Holiday and Arthur Herzog Jr. John Mayer plays guitar on \"Under the Influence\", and the final track, \"Chaos\", was written by Sia. In 2017, she went on her first North American tour, in support of Daniel Caesar.", indent: true },
+    { text: "On 20 October 2017, Aalegra released her debut album, Feels, which featured collaborations from Vince Staples, Vic Mensa, Logic, and Timbuktu. The album was described as a \"nostalgic blend of soul and R&B\" with Aalegra referring to her style as \"cinematic soul\". Her single \"Time\" was sampled by Drake on the closing track \"Do Not Disturb\", from his 2017 mixtape More Life. On 12 September 2018, her single \"Nothing Burns Like the Cold\" produced by Christian Rich and featuring Vince Staples, was featured in Apple's promotional video and commercials for their iPhone XS. In the fall of 2018, Aalegra headlined her first North American tour, with support from Mereba and Leven Kali.", indent: true },
+    { text: "In August 2019, Aalegra released her second album, Ugh, Those Feels Again, on ARTium Recordings. The album is considered to be a sequel to Feels, similar in mood and thematically. The album peaked at number 3 on the Billboard R&B Album Sales chart, number 6 on the Billboard Top R&B Albums chart, and number 73 on the Billboard 200 chart. The single \"I Want You Around\" reached number 1 on the Billboard Adult R&B Songs chart. Additionally, she recorded the song \"Wolves Are Out Tonight\", produced by Swizz Beatz, for the soundtrack to the 2019 EPIX television series Godfather of Harlem. On 13 December 2019, she released the video to her single \"Whoa\", starring herself and actor Michael B. Jordan. In the fall of 2019, she headlined a European and North American tour, with support from Baby Rose and Giveon. She also reached number 1 on the Bandsintown + Billboard Global Rising Artists Index.", indent: true },
+    { text: "In February 2020, NPR's Tiny Desk Concerts released Aalegra's performance where she performed a selection of songs including \"Love Like That\", \"I Want You Around\", \"Whoa\", \"Fool For You\", and \"Find Someone Like You\".", indent: true },
+    { text: "On 9 March 2020, it was announced that Aalegra had signed a recording contract with Roc Nation / Universal Music Group in partnership with her current label ARTium Records, and released \"Dying 4 Your Love\", her first single, through both labels on 10 July. During an interview, she revealed that she was already working on her next album.", indent: true },
+    { text: "Aalegra was featured on \"Last Time\", on Giveon's second EP, When It's All Said and Done.", indent: true },
+    { text: "On 9 July 2021, Aalegra released her third album, Temporary Highs in the Violet Skies, under ARTium Records and Roc Nation. The album was preceded by the singles \"Dying 4 Your Love\", released on 10 June 2020, and \"Lost You\", released on 21 June 2021, which was produced by Maneesh and No I.D. [citation needed] Aalegra began her Ugh, These Temporary Highs Tour in Manchester on 13 February 2022. [citation needed] Aalegra received nominations at the 64th Annual Grammy Awards for Best R&B Album for Temporary Highs in the Violet Skies and Best R&B Performance for \"Lost You\".", indent: true },
+    { text: "In 2023, she was nominated at the 65th Annual Grammy Awards in the category Best Traditional R&B Performance for her cover of Do 4 Love. On 21 July 2023, She released the single Be My Summer, followed by the single Sweet Tea on 2 August 2023 and Wait a Little Longer on 18 August 2023.", indent: true },
+    { text: "Aalegra cites Michael Jackson, Janet Jackson, Prince, Whitney Houston, James Brown, Brandy, Lauryn Hill, Missy Elliott, Robyn, and Mariah Carey as musical influences. She also credits film score orchestras and arrangements as significant influences on her sound. She has said she first fell in love with music at the age of seven, when she heard Houston's The Bodyguard soundtrack.", indent: true },
+    { text: "After briefly living in London, Aalegra has lived in Los Angeles since 2012. She speaks Persian, Swedish, English, and a little Spanish.", indent: true },
+  ],
+
+  albums: [
+    { title: "Don’t Explain", year: 2016, link: "https://music.youtube.com/browse/MPREb_3e29mmfPvrD" },
+    { title: "FEELS", year: 2017, link: "https://music.youtube.com/browse/MPREb_jUJz3Zsdrys" },
+    { title: "- Ugh, those feels again", year: 2019, link: "https://music.youtube.com/browse/MPREb_KpRTECqrt5K" },
+    { title: "TEMPORARY HIGHS IN THE VIOLET SKIES", year: 2021, link: "https://music.youtube.com/browse/MPREb_PiV0Ix8xnlG" },
+  ]
+}

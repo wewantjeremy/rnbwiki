@@ -1,0 +1,23 @@
+export default {
+  id: "Vega",
+  name: "Vega",
+
+  images: [
+    "/src/images/Vega/R-6138871-1412028314-7777.jpg",
+    "/src/images/Vega/R-7771088-1635179609-6642.jpg",
+    "/src/images/Vega/vega.jpg",
+  ],
+
+  videoIds: [
+    "RT2jhU75kvA",
+  ],
+
+  biography: [
+    { text: "Gone are the days when singers flocked to Detroit, MI, to get their recording careers on. Vega, four talented singers, moved from the Motor City to Atlanta, GA, for a better opportunity at fame and fortune, like many others before and after them. The quartet of brothers Eugene and Ahsohm Williams, cousin Jason Chenevert, and friend Tennell Williams came from the heart of Detroit. They woodshedded by singing at family gatherings. And they all admired various Motown artists', especially Stevie Wonder, Marvin Gaye, and the Jacksons. The move to Atlanta in 1998 proved fruitful; they went to display their skills at the city's many musical showcases attended by the hot producers. They signed a deal with noted producer Dallas Austin's Freeworld Entertainment production company. Austin has shaped their rangy harmonies into a distinct sound and released the promotional tracks \"Let Me Get It\", \"Mommie\", \"It's The Way\" and \"No Dough\". A version of \"Let Me Get It\" features Ludacris. Although some of the songs charted on the Hot Rap/R&B Tracks chart, their performance was not strong, and the February 29, 2001 release of Life on Earth was cancelled. Only promotional copies of the debut album exist. The album featured J.T. Money and Chili.", indent: true },
+    { text: "They performed as an opening act on the second leg of TLC's FanMail Tour in 2000.", indent: true },
+  ],
+
+  albums: [
+    { title: "Life On Earth", year: 1999, link: "https://music.youtube.com/playlist?list=PLB_6e9mKw08w" },
+  ]
+}

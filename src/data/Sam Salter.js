@@ -1,0 +1,44 @@
+export default {
+  id: "Sam Salter",
+  name: "Sam Salter",
+
+  images: [
+    "/src/images/Sam Salter/Sam Salter_0.jpg",
+    "/src/images/Sam Salter/Sam Salter_1.jpg",
+    "/src/images/Sam Salter/Sam Salter_2.jpg",
+    "/src/images/Sam Salter/Sam Salter_3.jpg",
+    "/src/images/Sam Salter/Sam Salter_4.jpg",
+    "/src/images/Sam Salter/Sam Salter_5.jpg",
+    "/src/images/Sam Salter/Sam Salter_6.jpg",
+    "/src/images/Sam Salter/Sam Salter_7.jpg",
+    "/src/images/Sam Salter/Sam Salter_8.jpg",
+  ],
+
+  videoIds: [
+    "EVAo2cvrmP4",
+    "lLGpUVbYg0E",
+    "ZathI0wXdvY",
+    "qhq9OOPRklY",
+    "QYb-47nWj4U",
+  ],
+
+  biography: [
+    { text: "Samuel Salter (February 16, 1975 – August 27, 2021) was an American R&B singer.", indent: true },
+    { text: "Growing up as the second of seven children, Salter sang gospel music at Faithful Church of God in Christ in Los Angeles and won several local talent shows, with his vocal style that was influenced by Marvin Gaye and Stevie Wonder. In 1997, after his demo tape found its way into the hands of L.A. Reid of LaFace Records, he signed him to the label quickly and Salter began to work on his debut album with Kenneth \"Babyface\" Edmonds. He ended up working with Tricky Stewart and Laney Stewart who produced the majority of the album, as well as Tony Rich, Robin Thicke and Gordon Chambers. The set's first single \"After 12, Before 6\" was released in early 1997 and became a Top 20 R&B hit, while a remixed version of the song received popular airplay on radio and BET. His debut album It's On Tonight was released on September 23, 1997, and garnered positive reviews. The following year, he appeared on the NFL Jams compilation with the track \"Call Me\" featuring Tamar Braxton, Scott Galbraith and Nicci Gilbert. Additionally, a second single from his album, the ballad \"There You Are\" was released and hit the Top 40 on R&B. Around this time, he continued to work on his songwriting, with songs for 98 Degrees, Aaron Skyy, and Kandi Burruss'solo debut. His debut yielded one more single, the title track in 1998.", indent: true },
+    { text: "In 1999, Salter began prepping for his sophomore album with LaFace Records. The album's lead single \"Once My Sh.. (Always My Sh..)\" was released and featured a steamy music video, but the song received moderate airplay. He completed work on the album, titled The Little Black Book and set for release in 2000, but it was shelved due to label shuffling and other issues. Despite the outcome, a few of the songs ended up being recorded by other artists such as Boyz II Men (who recorded \"Color Of Love\" which became the lead single to their 2002 album Full Circle) and Sisqó (who recorded \"Incomplete\" for his debut album and became a #1 hit, as well as \"Homewrecker\" which appeared on his sophomore album).", indent: true },
+    { text: "In the following years, he left LaFace Records and continued writing for other artists such as Jesse Powell, Jersey Ave., B2K, B5, The Isley Brothers and Tyrese, while also becoming a music engineer (working with J. Holiday on his hit album Back of My Lac), as well as Klé, and Deborah Cox (on her 2008 album The Promise).", indent: true },
+    { text: "He collaborated with the group Talking Book on their single \"On a September Morn\" that was released in 2005. In 2006, he made his stage play debut in Palmer Williams Jr.'s What a Man Wants, What a Woman Needs starring Shirley Murdock.", indent: true },
+    { text: "Additionally, he begin working on his third studio album Strictly 4 The Bedroom which he had hoped to release in 2008. A few songs premiered on his official MySpace page, including the title track, but the album was shelved. He had appeared in another stage play in 2009 by Donald Gray called There's a Stranger in My House starring Vivica A. Fox.", indent: true },
+    { text: "Further producing and songwriting continued with songs for El DeBarge and Charlie Wilson in 2010, as well as a feature on Klé's single \"Get It\".", indent: true },
+    { text: "Salter's next single \"Straight 2 Heaven\" was released independently in that same year. He signed with Elemental Entertainment INC, and release two digital singles \"Got Me\" (also in 2010) and", indent: true },
+    { text: "\"To Be Loved\" (in 2011).", indent: true },
+    { text: "In 2013, he collaborated with Rayviss on a single titled \"Mayday\" as well as a song titled \"All I Want is You\" which would both be included on Rayviss' EP The Rayviss in 2016. In early 2016, Salter signed with artist management company Flight Club Entertainment and appeared on the 2017 single \"Bye Bunny (She's Gone)\" by JEDI. He'd work on K. Michelle's 2016 album More Issues Than Vogue as well as Chantelle Barry's Lovers Gonna Love in 2018.", indent: true },
+    { text: "In 2019, he was featured on the Solé single \"Under the Veil\" with Shae Jones, for her album Encoded. Another collaboration \"Down There\" with Rich Moolah and Andiel was released in October 2020. His sophomore album Little Black Book got a partial release on streaming services, with four of the album tracks being released via R&B compilations by DJ Deepkut.", indent: true },
+    { text: "On August 27, 2021, Salter died at the age of 46.", indent: true },
+  ],
+
+  albums: [
+    { title: "It's On Tonight", year: 1997, link: "https://music.youtube.com/browse/MPREb_CbrHNtdOQn8" },
+    { title: "Little Black Book", year: 2000, link: "https://music.youtube.com/playlist?list=PLJGrEHv0hU_Q" },
+  ]
+}

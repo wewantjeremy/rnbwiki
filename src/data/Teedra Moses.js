@@ -1,0 +1,60 @@
+export default {
+  id: "Teedra Moses",
+  name: "Teedra Moses",
+
+  images: [
+    "/src/images/Teedra Moses/Teedra Moses_1.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_2.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_38.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_39.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_40.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_41.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_42.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_50.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_53.jpg",
+    "/src/images/Teedra Moses/Teedra Moses_7.jpg",
+  ],
+
+  videoIds: [
+    "1DlXyONrkjc",
+    "vL1x9XAkBS0",
+    "VOxIxBwhToA",
+    "me9yZJ72DcQ",
+    "mM7ZiWlPcdo",
+    "pvxMYROVaYM",
+    "kvcGec-3las",
+    "cJuQ0_n2HH4",
+    "6o2CUAubbwA",
+    "lqD0o7ioTuA",
+    "iQTErSrzC64",
+    "_SoQWZiAXzI",
+    "FSsx6jGr2Dk",
+    "2OooRsERqyY",
+  ],
+
+  biography: [
+    { text: "Teedra Shenita Moses (born December 17, 1976) is an American R&B and soul singer-songwriter.", indent: true },
+    { text: "Moses was born and raised in New Orleans. She later moved to Los Angeles with her mother and three siblings after her parents separated.", indent: true },
+    { text: "Her childhood has been a direct influence on her musical style, her mother was a gospel singer and she was raised on gospel, jazz, zydeco and blues.", indent: true },
+    { text: "Moses recalls wanting to listen to the music that was then being played on the radio, but her mother made her listen to gospel. The final song on her debut album, \"I Think of You (Shirley's Song)\", is dedicated to her late mother.", indent: true },
+    { text: "Prior to becoming a recording artist, Moses worked as an assistant wardrobe stylist alongside her best friend Nonja McKenzie for artists such as Will Smith, Kelis, R. Kelly and No Doubt. But after breaking her leg on a video set, Moses decided to follow her heart and make music.", indent: true },
+    { text: "Moses teamed up with producer Paul Poli and signed with the Indie Record Label, TVT Records to release her debut album Complex Simplicity in August 2004. Complex Simplicity included fourteen tracks penned by Moses, with dominant production handled by Poli; the two would share a deserved executive production credit. The album underperformed on the major U.S. chart, debuting and peaking at number one hundred and sixty-eight on the Billboard 200. However, the album was critically acclaimed, otherwise finding success on the Top R&B/Hip-Hop Albums, the Top Independent Albums, and the Top Heatseekers charts, reaching number twenty, number eleven, and number ten, respectively. It is now considered a cult classic.", indent: true },
+    { text: "In addition to executive producing and penning all the lyrics on her own project, Moses has written songs for other artists including Nivea, Christina Milian, Mary J. Blige and others. She was featured on and co-wrote two songs from Raphael Saadiq's 2004 album Ray Ray, \"Chic\" and \"I Want You Back\". Her songs have been showcased in the Logo series Noah's Arc as well as in the HBO hit show Entourage, and in movies such as Never Die Alone, Beauty Shop, and Be Cool.", indent: true },
+    { text: "Though Moses had not released a studio album in several years, she could be found touring and doing live shows on a regular basis. From March to November 2010 Moses was a spokesmodel on the Lady Hennessy Tour. In addition, Moses continued to release underground, all-original mixtapes for her fans to enjoy while she awaited a new label deal that was necessitated by the Chapter 11 bankruptcy filed by the now defunct TVT Records in 2008.", indent: true },
+    { text: "On March 25, 2011, it was announced that Moses had signed to rapper Rick Ross'Maybach Music Group via Warner Bros. Records as its first female artist. In 2011, Moses released the Luxurious Undergrind mixtape.", indent: true },
+    { text: "In February 2014, Moses released the single \"All I Ever Wanted,\" which samples Dynasty's 1980 song \"Adventures in the Land of Music\". The song was released as the lead single from her EP Cognac & Conversation, which is co-executive produced by Rick Ross and Raphael Saadiq.", indent: true },
+    { text: "In December 2014, it was reported that Moses signed to Shanachie Records after the ill-fated alliance with Maybach Music Group. Moses revealed singer Avery Sunshine was the reason why she signed with the label, due to the success that Sunshine is having while being on Shanachie's roster. On August 8, 2015, finally second album Cognac & Conversation was released.", indent: true },
+    { text: "When writing songs, Moses prefers to do so alone in her own space. Commenting on this Moses said; \"I hate to admit it because it sounds so weird, but I don't like other energies around me. I need to be alone, in my own space, with just me and my music so I can be honest with whatever I feel from the music; otherwise I'm just giving something from the surface.\" Moses also tries to always be honest with her lyrical content noting it as important to her, expanding on this Moses commented saying \"If I'm honest with people, then people will feel that. And that's been my experience so far, just being frank about my feelings about life, and my experiences in life and love. I think me being honest like that is why I've gained sincere fans. From here to America, sincere people who really dig me, that can quote lyrics.\"", indent: true },
+  ],
+
+  albums: [
+    { title: "Complex Simplicity", year: 2004, link: "https://music.youtube.com/browse/MPREb_n5e5eqM5lA6" },
+    { title: "Young Hustla Vol. 2", year: 2007, link: "https://www.youtube.com/playlist?list=PLAJYfXWRiUfPUnwqNn10GNUq0N8t7_D_n" },
+    { title: "Young Hustla Vol. 3", year: 2009, link: "https://www.youtube.com/playlist?list=PLrQsFfYx-ivsDmjP0CvnKclt7xHNS3MQh" },
+    { title: "Royal Patience Compilation... A Love Journey", year: 2010, link: "https://www.youtube.com/playlist?list=PLn2RClp0Qs4DTT89gYkmK9lVLxIuILjaN" },
+    { title: "Luxurious Undergrind", year: 2011, link: "https://music.youtube.com/browse/MPREb_dENswX0NLIS" },
+    { title: "Califonia Vibes", year: 2014, link: "https://music.youtube.com/playlist?list=OLAK5uy_lNgtlydupiJ652hESDtY6tehQnakIuM7o" },
+    { title: "Clair Voyant", year: 2015, link: "https://music.youtube.com/browse/MPREb_G3evXNGV830" },
+    { title: "Cognac & Conversation", year: 2015, link: "https://music.youtube.com/browse/MPREb_E0cOGbSSwmc" },
+  ]
+}

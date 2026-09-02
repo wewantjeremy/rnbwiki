@@ -1,0 +1,19 @@
+export default {
+  id: "Katzz",
+  name: "Katzz",
+
+  images: [
+    "/src/images/Katzz/artworks-000110837616-v2oi4z-t500x500.jpg",
+    "/src/images/Katzz/Screenshot 2026-07-02 at 2.55.29 AM.png",
+  ],
+
+  videoIds: [
+    "TKOcgaKuj2M",
+  ],
+
+  biography: [
+    { text: "Katzz was formed in 1989. After auditioning a number of artists/singers and musicians, Fred Foster Jr, Alonzo Anderson and John Jackson Sr. were the right chemistry of phonominal singers which were needed to successfully create a historical sound. In 1991, Katzz recorded an album titled My Everything which produced a smash single by the same name \"My Everything.\" Katzz has performed in major venues in various ajacent cities opening for such Artists as Will Downing, Millie Jackson, Cherrelle, Dougy Fresh, Shabba Ranks, Oaktowns 357 and Cleveland's own Rude Boys and Men At Large.", indent: true },
+  ],
+
+  albums: []
+}

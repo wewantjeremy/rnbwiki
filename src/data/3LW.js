@@ -1,0 +1,51 @@
+export default {
+  id: "3LW",
+  name: "3LW",
+
+  images: [
+    "/src/images/3LW/0x1900-000000-80-0-0.jpg",
+    "/src/images/3LW/1900x1900-000000-80-0-0.jpg",
+    "/src/images/3LW/3LW_0.jpg",
+    "/src/images/3LW/3LW_17.jpg",
+    "/src/images/3LW/3LW_19.jpg",
+    "/src/images/3LW/3LW_21.jpg",
+    "/src/images/3LW/3LW_24.jpg",
+    "/src/images/3LW/3LW_28.jpg",
+    "/src/images/3LW/3LW_29.jpg",
+    "/src/images/3LW/3LW_36.jpg",
+    "/src/images/3LW/3LW_5.jpg",
+    "/src/images/3LW/3LW_50.jpg",
+    "/src/images/3LW/3LW_58.jpg",
+    "/src/images/3LW/3LW_59.jpg",
+    "/src/images/3LW/3LW_8.jpg",
+    "/src/images/3LW/3LW_9.jpg",
+    "/src/images/3LW/71uTAHAO2BL._UF1000,1000_QL80_.jpg",
+    "/src/images/3LW/images.jpeg",
+    "/src/images/3LW/s-l1200.jpg",
+  ],
+
+  videoIds: [
+    "drvS9w-lTMc",
+    "dD9A8x_xn5g",
+    "Ce_sZfmUvz0",
+    "WOdiCceYMvo",
+    "8i9rXOmq8LY",
+    "Ojp9RM_300g",
+  ],
+
+  biography: [
+    { text: "3LW (initialism of 3 Little Women) was formed in 1999 by sisters Michelle and Tse Williams. Michelle's daughter and Tse's niece Kiely was the first member of the lineup and the group would soon be rounded out by Adrienne Bailon and Naturi Naughton with both Michelle and Tse as co-managers. Singer Alicia Keys was also briefly considered for the group.  3LW was signed to Epic Records, and released their debut studio album 3LW in 2000, which peaked at number 29 on the Billboard 200 and was certified platinum. The album was preceded by the single \"No More (Baby I'ma Do Right)\", which peaked at number 23 on the Billboard Hot 100 and became a top ten hit in several countries.", indent: true },
+    { text: "In April 2001, the group released their second single, \"Playas Gon' Play\", which failed to replicate the success of its predecessor, only peaking at number 81 on the hot chart. In the summer of 2001, the group embarked on the MTV Total Request Live Tour along with Destiny's Child, Dream, Nelly, Eve, and Jessica Simpson. In 2001, 3LW recorded \"What More Can I Give\" as part of a supergroup of various artists including Michael Jackson, Reba McEntire, and Mariah Carey in response to the September 11 attacks. Late that year, they collaborated with Lil' Romeo and Nick Cannon for a cover of \"Parents Just Don't Understand\" on the Jimmy Neutron: Boy Genius soundtrack.", indent: true },
+    { text: "3LW announced in February 2002 that they had recorded 10 tracks for their sophomore studio album to be titled A Girl Can Mack; it was later set for a release date of September 17, 2002. In April, they appeared on Naughty by Nature's single \"Feels Good (Don't Worry Bout a Thing)\". On June 18, the group released the P. Diddy–produced single \"I Do (Wanna Get Close To You)\", featuring Loon. The song was a moderate chart hit, peaking at number 58 on the Billboard Hot 100. It achieved greater success in New Zealand, where it peaked at number 13.", indent: true },
+    { text: "In July 2002, the group was rehearsing for a concert special as part of the TEENick Summer Concerts series. By this point, tensions between the group members had begun to fray. According to Naughton, the group was told by management that each girl would have an understudy during rehearsals as a \"precautionary measure\", but an understudy was only brought in for Naughton. Bailon and Williams did not like working with the understudy, and all three members of 3LW made amends. The concert special aired on August 25 and was released on DVD as Live on Sunset in November.", indent: true },
+    { text: "The group was scheduled to release A Girl Can Mack in September when in mid-August, member Naughton left the group following an altercation between her and Williams involving a plate of food from KFC. Williams and Bailon initially denied that this occurred; Williams later acknowledged the incident but said that \"it was so much more than that\". Naughton cited numerous conflicts with the group's management (mainly Michelle Williams, Kiely Williams's mother) and said that she was forced out of the group. Naughton also claimed that she was harassed by Michelle Williams for not pursuing a romantic relationship with a member of the hip-hop group St. Lunatics in an effort to get a spot on their tour. Group members Williams and Bailon claimed that Naughton had been unhappy within the group for some time and lacked ambition. In October, Naughton filed a lawsuit against the group and their management for compensation of loss of income, however, in March 2003, Bailon and Williams said that there was \"no lawsuit\" and that they had not been served papers.", indent: true },
+    { text: "Following Naughton's departure, Epic Records quickly introduced Williams and Bailon to two potential replacements for Naughton. Williams and Bailon decided to continue 3LW as a duo, causing the press to jokingly refer to them as \"2LW\". Naughton's image and vocals still appear on the record, with Williams noting that Naughton \"participated on the album just as much as we did. So we didn't feel it would be right to not have her. This album is coming out just as it would be if she was sitting here with us.\" Despite this, A Girl Can Mack's planned September release date was pushed back a month and the duo returned to the studio to record five new tracks after several songs intended for the record leaked online. The album was released on October 22, 2002, and debuted at No. 15 on the Billboard 200 with 53,000 copies sold in its first week. After the album's second single \"Neva Get Enuf\" underperformed, 3LW released their Christmas-themed third studio album Naughty or Nice, which failed to appear on any major Billboard charts.", indent: true },
+    { text: "Jessica Benson was announced as 3LW's new third member in 2003 and the group signed with So So Def. Bailon and Williams became involved with the film The Cheetah Girls (2003), and as the project expanded into a real girl group, releases by 3LW were placed on hold. On August 15, 2006, the group released the single \"Feelin' You\", but it did not impact any major charts. Point of No Return was shelved and Bailon and Williams continued with The Cheetah Girls. 3LW officially disbanded in 2007.", indent: true },
+  ],
+
+  albums: [
+    { title: "3LW", year: 2000, link: "https://music.youtube.com/browse/MPREb_6dyc2YGr2YW" },
+    { title: "A Girl Can Mack", year: 2002, link: "https://music.youtube.com/browse/MPREb_UGMNGL7sC9l" },
+    { title: "Naughty Or Nice", year: 2002, link: "https://music.youtube.com/browse/MPREb_SIonVj9UBfU" },
+  ]
+}
