@@ -1,4 +1,4 @@
-:root {
+no:root {
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
@@ -152,14 +152,17 @@ code {
 }
 @media (max-width: 768px) {
   .sidebar {
-    width: 75px;
+    width: 90px;
+    padding-left: 6px;
+    padding-right: 6px;
   }
 
   .main-content {
+    margin-left: 102px;
+    padding: 12px;
   }
 
   .sidebar-list {
-    width: 90%;
+    width: 100%;
   }
 }
-
