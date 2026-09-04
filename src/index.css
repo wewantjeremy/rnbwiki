@@ -151,18 +151,17 @@ code {
   background-color: #8a3a3a;
 }
 @media (max-width: 768px) {
-  .sidebar {
-    width: 75px;
-    padding-left: 6px;
-    padding-right: 6px;
-  }
+.sidebar {
+  width: 90px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
 
-  .main-content {
-    margin-left: 87px;
-    padding: 12px;
-  }
+.main-content {
+  margin-left: 102px;
+  padding: 12px;
+}
 
-  .sidebar-list {
-    width: 100%;
-  }
+.sidebar-list {
+  width: 100%;
 }
