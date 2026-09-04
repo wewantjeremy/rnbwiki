@@ -152,13 +152,13 @@ code {
 }
 @media (max-width: 768px) {
   .sidebar {
-    width: 100px;
-    padding-left: 12px;
-    padding-right: 8px;
+    width: 75px;
+    padding-left: 6px;
+    padding-right: 6px;
   }
 
   .main-content {
-    margin-left: 95px;
+    margin-left: 87px;
     padding: 12px;
   }
 
@@ -166,3 +166,4 @@ code {
     width: 100%;
   }
 }
+
