@@ -126,6 +126,7 @@ code {
   left: 0;
   z-index: 999; 
   box-sizing: border-box; 
+  font-family: sans-serif;
   
 }
 
