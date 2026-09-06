@@ -109,3 +109,18 @@
     margin: 0 auto;
   }
 }
+
+@media (max-width: 950px) and (orientation: landscape) {
+  .videoContainer {
+    margin: 20px auto;
+    overflow: hidden;
+    background: black;
+  }
+
+  .video {
+    min-height: 390px;
+    width: 320px;
+    display: block;
+    margin: 0 auto;
+  }
+}
