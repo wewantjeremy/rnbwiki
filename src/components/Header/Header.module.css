@@ -34,3 +34,13 @@
   line-height: 1;
 }
 }
+media (max-width: 950) and (orientation: landscape){
+
+.h2 {
+  line-height: 1.1;
+}
+}
+.p {
+  line-height: 1;
+}
+}
