@@ -58,7 +58,7 @@
 @media (max-width: 950px) and (orientation: landscape)
 .galleryContainer {
   position: relative;
-  max-height: 500px;
+  max-height: 310px;
   margin: 20px auto;
   overflow: hidden;
   background: black;
